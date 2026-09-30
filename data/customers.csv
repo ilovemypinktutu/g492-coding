@@ -1,0 +1,3204 @@
+customer_id,signup_date,country,segment,acquisition_channel,is_test
+10001,2025-10-31,Ireland,Consumer,Email,False
+10002,2023-08-02,Germany,Consumer,Marketplace,False
+10003,2023-09-30,United States,Consumer,Paid social,False
+10004,2025-07-04,United States,Consumer,Paid social,False
+10005,2024-09-13,United States,Business,Paid social,False
+10006,2026-05-25,United States,Consumer,Referral,False
+10007,2024-12-23,United States,Consumer,Organic search,False
+10008,2024-07-16,United States,Consumer,Referral,False
+10009,2024-08-09,United States,Consumer,Paid social,False
+10010,2025-04-17,Ireland,Business,Referral,False
+10011,2024-02-14,United States,Business,Email,False
+10012,2024-02-21,United States,Consumer,Paid social,False
+10013,2025-04-03,United States,Consumer,Email,False
+10014,2026-02-24,United States,Consumer,Organic search,False
+10015,2025-07-30,United States,Consumer,Paid social,False
+10016,2024-01-02,United Kingdom,Consumer,Paid social,False
+10017,2025-11-25,United States,Consumer,Paid social,False
+10018,2023-11-15,United Kingdom,Consumer,Paid social,False
+10019,2024-07-29,United Kingdom,Business,Organic search,False
+10020,2025-11-11,France,Consumer,Organic search,False
+10021,2025-08-24,United States,Consumer,Organic search,False
+10022,2024-12-24,United States,Consumer,Paid social,False
+10023,2024-04-08,United States,Consumer,Email,False
+10024,2023-11-02,United States,Business,Organic search,False
+10025,2024-05-19,Germany,Consumer,Email,False
+10026,2024-08-16,United States,Consumer,Email,False
+10027,2025-08-23,United Kingdom,Consumer,Organic search,False
+10028,2025-11-08,France,Consumer,Paid social,False
+10029,2025-08-05,Ireland,Consumer,Paid social,False
+10030,2025-02-06,United States,Consumer,Paid social,False
+10031,2025-10-01,United States,Business,Paid social,False
+10032,2025-01-07,United Kingdom,Consumer,Paid social,False
+10033,2025-01-01,United Kingdom,Consumer,Marketplace,False
+10034,2024-01-01,United States,Consumer,Marketplace,False
+10035,2025-10-15,Germany,Consumer,Referral,False
+10036,2024-12-25,United States,Consumer,Paid social,False
+10037,2025-05-25,United Kingdom,Consumer,Organic search,False
+10038,2026-03-04,United Kingdom,Business,Paid social,False
+10039,2023-07-03,United States,Consumer,Paid social,False
+10040,2026-04-12,France,Consumer,Organic search,False
+10041,2025-01-22,Germany,Consumer,Email,False
+10042,2026-05-22,United Kingdom,Consumer,Paid social,False
+10043,2025-08-16,France,Consumer,Referral,False
+10044,2024-05-25,United States,Consumer,Paid social,False
+10045,2023-10-15,United States,Consumer,Organic search,False
+10046,2026-02-25,United States,Consumer,Referral,False
+10047,2024-12-15,United States,,Organic search,False
+10048,2026-03-26,United Kingdom,Consumer,Paid social,False
+10049,2025-11-05,United States,Consumer,Paid social,False
+10050,2023-09-17,United States,Consumer,Marketplace,False
+10051,2026-03-24,France,Consumer,Paid social,False
+10052,2023-11-04,United States,Consumer,Organic search,False
+10053,2025-05-13,United States,Consumer,Marketplace,False
+10054,2024-08-02,United States,Business,Organic search,False
+10055,2025-09-05,United States,Consumer,Organic search,False
+10056,2025-03-21,United States,Business,Referral,False
+10057,2025-07-29,United States,Consumer,Referral,False
+10058,2024-10-14,Germany,Consumer,Organic search,False
+10059,2024-06-22,United States,Business,Organic search,False
+10060,2025-02-24,United Kingdom,Consumer,Paid social,False
+10061,2026-03-15,United States,Consumer,Email,False
+10062,2025-08-08,United States,Consumer,Paid social,False
+10063,2026-01-24,United States,Consumer,Email,False
+10064,2024-05-08,Netherlands,Consumer,Marketplace,False
+10065,2023-09-26,United States,,Paid social,False
+10066,2023-07-20,United States,Consumer,Marketplace,False
+10067,2025-09-03,United States,Business,Referral,False
+10068,2026-03-27,United States,Consumer,Marketplace,False
+10069,2025-11-15,United States,Consumer,Paid social,False
+10070,2024-05-23,United States,Consumer,Organic search,False
+10071,2025-04-20,United States,Consumer,Email,False
+10072,2024-04-22,Germany,Consumer,Organic search,False
+10073,2024-12-08,United Kingdom,Consumer,Marketplace,False
+10074,2024-06-25,United States,Consumer,Email,False
+10075,2023-08-09,France,Consumer,Email,False
+10076,2024-10-29,France,Consumer,Marketplace,False
+10077,2024-06-05,Ireland,Consumer,Referral,False
+10078,2023-09-05,United States,Consumer,Organic search,False
+10079,2023-08-22,United States,Consumer,Organic search,False
+10080,2026-05-31,United Kingdom,Consumer,Organic search,False
+10081,2026-03-30,United Kingdom,Consumer,Organic search,False
+10082,2023-09-15,United Kingdom,Consumer,Paid social,False
+10083,2024-12-06,United States,Consumer,Marketplace,False
+10084,2026-04-22,United States,Consumer,Paid social,False
+10085,2025-05-09,United States,Consumer,Organic search,False
+10086,2026-03-16,United States,Consumer,Paid social,False
+10087,2024-03-01,United States,Business,Marketplace,False
+10088,2025-08-30,Netherlands,Consumer,Referral,False
+10089,2026-04-17,Germany,Consumer,Referral,False
+10090,2024-05-29,United States,Business,Email,False
+10091,2024-02-17,United States,Business,Organic search,False
+10092,2023-08-09,United States,Consumer,Paid social,False
+10093,2024-02-01,United States,,Referral,False
+10094,2024-02-25,Germany,Consumer,Paid social,False
+10095,2026-01-28,United States,Consumer,Paid social,False
+10096,2024-06-05,Germany,Consumer,Organic search,False
+10097,2023-08-18,United Kingdom,Consumer,Organic search,False
+10098,2026-04-29,United States,Business,Organic search,False
+10099,2025-08-28,United Kingdom,,Organic search,False
+10100,2024-09-30,United States,Business,Paid social,False
+10101,2025-11-03,Netherlands,Consumer,Email,False
+10102,2024-11-26,United Kingdom,Consumer,Referral,False
+10103,2025-10-21,United Kingdom,Consumer,Organic search,False
+10104,2024-08-12,Ireland,Business,Organic search,False
+10105,2026-04-21,United States,Consumer,Marketplace,False
+10106,2025-04-11,United States,,Paid social,False
+10107,2025-08-19,United Kingdom,Consumer,Marketplace,False
+10108,2024-05-23,United States,Consumer,Organic search,False
+10109,2024-04-20,United States,Consumer,Email,False
+10110,2023-07-03,Germany,Consumer,Paid social,False
+10111,2025-10-11,Ireland,Consumer,Marketplace,False
+10112,2025-03-02,United States,Consumer,Organic search,False
+10113,2024-07-01,United States,Consumer,Referral,False
+10114,2024-10-21,United States,Consumer,Email,False
+10115,2024-11-18,United States,Consumer,Organic search,False
+10116,2025-01-26,United States,,Paid social,False
+10117,2025-12-11,Germany,Consumer,Referral,False
+10118,2025-08-21,Germany,Consumer,Paid social,False
+10119,2025-04-12,United States,Business,Marketplace,False
+10120,2024-12-17,United States,Consumer,Referral,False
+10121,2024-01-13,United States,Consumer,Marketplace,False
+10122,2025-08-09,Germany,Consumer,Marketplace,False
+10123,2026-03-23,Germany,Business,Marketplace,False
+10124,2025-07-07,Netherlands,Consumer,Marketplace,False
+10125,2025-02-18,United States,Consumer,Organic search,False
+10126,2025-02-14,Germany,Consumer,Paid social,False
+10127,2025-01-07,United States,Consumer,Paid social,False
+10128,2025-11-07,United States,Consumer,Paid social,False
+10129,2024-09-29,United States,Business,Organic search,False
+10130,2025-07-23,United Kingdom,Consumer,Referral,False
+10131,2024-07-09,Ireland,Business,Organic search,False
+10132,2023-12-24,United States,Business,Organic search,False
+10133,2026-01-11,Ireland,Consumer,Marketplace,False
+10134,2026-01-28,Ireland,Consumer,Organic search,False
+10135,2024-10-31,United States,Consumer,Paid social,False
+10136,2024-09-18,United States,Consumer,Paid social,False
+10137,2024-03-28,United Kingdom,Consumer,Referral,False
+10138,2026-01-08,United Kingdom,Business,Paid social,False
+10139,2023-11-27,Ireland,Business,Email,False
+10140,2026-05-31,Netherlands,Consumer,Paid social,False
+10141,2025-01-18,United States,Consumer,Paid social,False
+10142,2025-04-03,United States,Consumer,Paid social,False
+10143,2024-01-05,United Kingdom,Consumer,Organic search,False
+10144,2024-01-13,United States,Consumer,Paid social,False
+10145,2025-06-14,Netherlands,Consumer,Referral,False
+10146,2024-09-22,France,Consumer,Referral,False
+10147,2025-09-10,United States,Business,Marketplace,False
+10148,2025-09-28,United States,Consumer,Organic search,False
+10149,2025-01-13,United Kingdom,Consumer,Email,False
+10150,2026-05-15,United States,Consumer,Organic search,False
+10151,2024-01-30,United States,Consumer,Email,False
+10152,2026-03-26,United States,Consumer,Paid social,False
+10153,2025-03-26,United States,Business,Organic search,False
+10154,2025-06-22,United States,Consumer,Paid social,False
+10155,2025-05-30,United States,Consumer,Organic search,False
+10156,2024-01-24,United States,Consumer,Email,False
+10157,2025-11-13,United States,Consumer,Email,False
+10158,2024-07-07,United States,Consumer,Marketplace,False
+10159,2025-05-03,Netherlands,,Marketplace,False
+10160,2023-06-15,United States,Consumer,Organic search,False
+10161,2026-03-17,Germany,Consumer,Referral,False
+10162,2025-09-19,United States,Consumer,Referral,False
+10163,2024-11-01,Germany,Consumer,Email,False
+10164,2024-06-04,United Kingdom,Consumer,Organic search,False
+10165,2025-11-22,United States,Consumer,Paid social,False
+10166,2023-09-28,United States,Consumer,Organic search,False
+10167,2023-09-18,Germany,Consumer,Organic search,False
+10168,2024-03-31,United Kingdom,Consumer,Organic search,False
+10169,2023-10-24,United States,Consumer,Organic search,False
+10170,2025-10-11,Netherlands,Consumer,Organic search,False
+10171,2025-03-13,United States,Consumer,Referral,False
+10172,2025-01-25,United States,Consumer,Organic search,False
+10173,2026-05-11,Netherlands,Consumer,Organic search,False
+10174,2024-03-12,United States,Business,Referral,False
+10175,2025-12-17,United States,Consumer,Referral,False
+10176,2024-02-19,Netherlands,Consumer,Paid social,False
+10177,2024-08-20,United States,Consumer,Organic search,False
+10178,2023-10-29,United States,Business,Organic search,False
+10179,2025-02-25,United States,Consumer,Paid social,False
+10180,2024-09-21,United States,Consumer,Paid social,False
+10181,2023-07-07,France,Consumer,Referral,False
+10182,2025-11-30,United Kingdom,Consumer,Organic search,False
+10183,2023-12-13,United States,Consumer,Organic search,False
+10184,2025-06-12,United States,Consumer,Organic search,False
+10185,2023-11-11,United States,Business,Organic search,False
+10186,2025-11-22,United States,Consumer,Paid social,False
+10187,2024-01-30,United States,Consumer,Referral,False
+10188,2026-05-20,United States,Business,Organic search,False
+10189,2024-02-19,United Kingdom,Consumer,Organic search,False
+10190,2024-09-01,France,Consumer,Organic search,False
+10191,2023-10-25,United States,Consumer,Email,False
+10192,2026-03-09,United States,Consumer,Paid social,False
+10193,2025-10-08,United States,Business,Organic search,False
+10194,2024-10-07,Germany,Consumer,Organic search,False
+10195,2024-06-12,United States,Consumer,Organic search,False
+10196,2025-11-28,United States,Consumer,Organic search,False
+10197,2026-02-08,Germany,,Paid social,False
+10198,2023-10-28,United States,Consumer,Organic search,False
+10199,2023-09-15,Ireland,Consumer,Referral,False
+10200,2023-06-14,United States,Consumer,Paid social,False
+10201,2025-04-22,United States,Consumer,Organic search,False
+10202,2023-10-22,United States,Consumer,Organic search,False
+10203,2025-08-11,United States,Consumer,Referral,False
+10204,2026-01-02,United States,Consumer,Marketplace,False
+10205,2023-10-04,France,Consumer,Organic search,False
+10206,2023-11-27,United States,Business,Marketplace,False
+10207,2026-02-19,United States,Consumer,Organic search,False
+10208,2025-11-03,United States,Consumer,Paid social,False
+10209,2024-09-03,United States,Consumer,Referral,False
+10210,2025-09-20,United States,Consumer,Organic search,False
+10211,2024-09-26,France,Business,Paid social,False
+10212,2026-01-05,United Kingdom,Consumer,Organic search,False
+10213,2024-09-04,United States,Consumer,Paid social,False
+10214,2025-08-23,United Kingdom,Consumer,Organic search,False
+10215,2024-01-28,United States,Consumer,Marketplace,False
+10216,2025-06-26,Germany,Consumer,Paid social,False
+10217,2026-04-30,United States,Consumer,Marketplace,False
+10218,2024-07-02,France,Business,Referral,False
+10219,2024-10-17,United States,Consumer,Organic search,False
+10220,2025-06-01,United States,Consumer,Organic search,False
+10221,2025-02-05,United States,Business,Email,False
+10222,2025-11-11,United Kingdom,Consumer,Organic search,False
+10223,2024-11-01,Germany,Consumer,Marketplace,False
+10224,2026-05-31,United States,Consumer,Referral,False
+10225,2025-03-31,United States,Consumer,Paid social,False
+10226,2024-05-28,United States,Business,Organic search,False
+10227,2025-11-22,United States,Consumer,Paid social,False
+10228,2025-05-31,United States,Consumer,Organic search,False
+10229,2025-10-20,Ireland,,Organic search,False
+10230,2023-08-11,United States,Consumer,Paid social,False
+10231,2025-01-05,United States,Consumer,Email,False
+10232,2025-10-02,United States,Consumer,Organic search,False
+10233,2024-10-07,United States,Consumer,Organic search,False
+10234,2023-11-29,United Kingdom,Consumer,Paid social,False
+10235,2023-06-04,United States,Consumer,Marketplace,False
+10236,2025-02-22,United States,Business,Organic search,False
+10237,2025-11-04,Netherlands,Consumer,Paid social,False
+10238,2025-04-23,United States,Consumer,Organic search,False
+10239,2023-08-15,United States,Consumer,Paid social,False
+10240,2024-04-05,United States,Consumer,Paid social,False
+10241,2025-07-13,United Kingdom,Business,Paid social,False
+10242,2023-09-17,United States,Consumer,Email,False
+10243,2024-03-01,United States,Consumer,Referral,False
+10244,2026-01-20,United States,Consumer,Organic search,False
+10245,2025-04-28,France,Business,Paid social,False
+10246,2024-08-23,United States,Consumer,Organic search,False
+10247,2023-11-04,United States,Consumer,Marketplace,False
+10248,2025-11-24,United Kingdom,Business,Referral,False
+10249,2025-08-22,United States,Consumer,Paid social,False
+10250,2023-08-18,United States,Business,Email,False
+10251,2023-10-09,United States,Consumer,Paid social,False
+10252,2025-02-02,Germany,Consumer,Paid social,False
+10253,2025-06-07,Germany,Consumer,Email,False
+10254,2023-12-08,United Kingdom,Consumer,Email,False
+10255,2026-02-16,France,Consumer,Marketplace,False
+10256,2023-10-16,United States,Consumer,Paid social,False
+10257,2026-04-25,United Kingdom,Business,Organic search,False
+10258,2025-09-28,United States,Consumer,Marketplace,False
+10259,2023-09-27,United States,Consumer,Email,False
+10260,2024-12-17,United States,Consumer,Paid social,False
+10261,2024-06-10,United Kingdom,Consumer,Organic search,False
+10262,2024-07-30,United States,Consumer,Email,False
+10263,2024-07-05,United States,Consumer,Organic search,False
+10264,2025-05-02,Germany,Business,Paid social,False
+10265,2026-05-11,Ireland,Consumer,Marketplace,False
+10266,2025-08-12,United States,Consumer,Organic search,False
+10267,2024-09-17,United States,Business,Email,False
+10268,2024-05-20,Germany,Consumer,Organic search,False
+10269,2025-11-09,United Kingdom,Consumer,Referral,False
+10270,2025-07-25,Germany,Consumer,Paid social,False
+10271,2023-11-28,France,Consumer,Organic search,False
+10272,2023-08-28,United Kingdom,Consumer,Organic search,False
+10273,2024-04-26,United States,Consumer,Organic search,False
+10274,2024-06-08,France,Consumer,Email,False
+10275,2025-07-23,United States,Consumer,Organic search,False
+10276,2026-04-14,United Kingdom,Consumer,Email,False
+10277,2024-12-20,United Kingdom,Consumer,Organic search,False
+10278,2025-01-27,United States,Consumer,Email,False
+10279,2025-06-10,United States,Consumer,Email,False
+10280,2025-10-20,United Kingdom,Consumer,Organic search,False
+10281,2025-11-10,United States,Business,Organic search,False
+10282,2026-03-27,Germany,Consumer,Organic search,False
+10283,2024-04-12,France,,Organic search,False
+10284,2025-03-16,Germany,Consumer,Organic search,False
+10285,2026-03-19,Germany,Consumer,Paid social,False
+10286,2025-12-26,Germany,Consumer,Paid social,False
+10287,2024-12-15,United States,Consumer,Email,False
+10288,2023-07-14,Ireland,Consumer,Marketplace,False
+10289,2026-01-24,Germany,Business,Referral,False
+10290,2024-05-20,Germany,Consumer,Organic search,False
+10291,2023-11-11,United States,Consumer,Paid social,False
+10292,2024-06-08,United States,Business,Paid social,False
+10293,2023-08-02,United Kingdom,Consumer,Paid social,False
+10294,2025-03-29,United Kingdom,Consumer,Email,False
+10295,2023-06-14,United States,,Organic search,False
+10296,2023-11-09,United States,Business,Referral,False
+10297,2023-07-12,France,Consumer,Organic search,False
+10298,2026-03-04,United States,Consumer,Email,False
+10299,2024-09-29,United States,Consumer,Paid social,False
+10300,2024-11-08,France,Consumer,Email,False
+10301,2026-01-15,Ireland,Consumer,Marketplace,False
+10302,2023-11-02,United States,Consumer,Marketplace,False
+10303,2025-05-19,United Kingdom,Consumer,Organic search,False
+10304,2023-06-27,Netherlands,Consumer,Paid social,False
+10305,2025-08-04,United States,Consumer,Referral,False
+10306,2026-02-18,United Kingdom,Consumer,Organic search,False
+10307,2025-04-07,United Kingdom,Consumer,Paid social,False
+10308,2025-11-21,Germany,Consumer,Email,False
+10309,2024-05-11,United States,Consumer,Referral,False
+10310,2024-11-25,United States,Consumer,Email,False
+10311,2024-10-14,Germany,Consumer,Email,False
+10312,2025-10-29,Germany,Consumer,Organic search,False
+10313,2023-06-12,United States,Consumer,Marketplace,False
+10314,2024-05-15,United States,Consumer,Paid social,False
+10315,2024-08-09,United States,Consumer,Organic search,False
+10316,2025-12-28,United States,Consumer,Email,False
+10317,2025-08-03,United Kingdom,Consumer,Email,False
+10318,2025-04-23,United Kingdom,Business,Paid social,False
+10319,2024-07-16,United Kingdom,Consumer,Paid social,False
+10320,2025-10-02,United States,Consumer,Paid social,False
+10321,2025-11-13,United States,Consumer,Referral,False
+10322,2023-09-11,United States,Consumer,Organic search,False
+10323,2024-02-24,United States,Business,Organic search,False
+10324,2024-02-02,United States,Business,Email,False
+10325,2025-09-30,Germany,Consumer,Paid social,False
+10326,2024-08-19,Ireland,Consumer,Email,False
+10327,2026-05-02,United States,Consumer,Organic search,False
+10328,2026-03-24,United States,Consumer,Email,False
+10329,2025-07-12,United States,Business,Marketplace,False
+10330,2024-08-25,United States,Consumer,Paid social,False
+10331,2026-02-25,United States,Consumer,Organic search,False
+10332,2023-10-29,Ireland,Consumer,Organic search,False
+10333,2025-08-03,United States,Consumer,Paid social,False
+10334,2024-03-02,United States,Business,Paid social,False
+10335,2025-01-13,United Kingdom,Consumer,Paid social,False
+10336,2025-10-28,United States,Business,Marketplace,False
+10337,2023-06-14,France,Consumer,Paid social,False
+10338,2026-01-30,United States,Business,Referral,False
+10339,2024-09-04,United Kingdom,Business,Paid social,False
+10340,2023-11-29,France,Consumer,Paid social,False
+10341,2024-04-28,Netherlands,Business,Marketplace,False
+10342,2024-01-02,United States,Consumer,Organic search,False
+10343,2025-02-13,France,Consumer,Marketplace,False
+10344,2024-10-27,United States,Consumer,Marketplace,False
+10345,2023-09-19,United Kingdom,Consumer,Paid social,False
+10346,2023-09-30,Germany,Business,Referral,False
+10347,2024-01-26,United States,,Organic search,False
+10348,2024-09-22,Ireland,Consumer,Organic search,False
+10349,2026-01-26,United States,Consumer,Paid social,False
+10350,2023-08-06,Netherlands,Consumer,Marketplace,False
+10351,2023-12-26,Germany,Consumer,Referral,False
+10352,2025-04-04,United States,Business,Paid social,False
+10353,2024-12-17,United Kingdom,Consumer,Paid social,False
+10354,2025-04-01,United States,Consumer,Paid social,False
+10355,2025-01-12,United States,Consumer,Paid social,False
+10356,2024-09-16,United States,Consumer,Organic search,False
+10357,2025-07-07,Germany,Consumer,Organic search,False
+10358,2025-01-19,United States,Consumer,Organic search,False
+10359,2024-07-23,Ireland,Consumer,Paid social,False
+10360,2024-08-30,France,Consumer,Organic search,False
+10361,2024-08-17,United Kingdom,Consumer,Organic search,False
+10362,2023-10-27,Germany,Consumer,Email,False
+10363,2025-05-25,United Kingdom,Consumer,Paid social,False
+10364,2025-01-20,United States,Consumer,Organic search,False
+10365,2026-05-14,France,Consumer,Referral,False
+10366,2026-05-31,United Kingdom,Consumer,Paid social,False
+10367,2026-03-10,Ireland,Consumer,Organic search,False
+10368,2024-10-13,United States,Business,Referral,False
+10369,2024-10-14,United States,Consumer,Referral,False
+10370,2024-04-14,United Kingdom,Consumer,Referral,False
+10371,2026-04-30,United Kingdom,Consumer,Email,False
+10372,2023-07-27,United States,Consumer,Paid social,False
+10373,2024-06-06,United States,Business,Organic search,False
+10374,2025-11-06,United States,Consumer,Organic search,False
+10375,2024-03-03,United States,Consumer,Referral,False
+10376,2024-03-04,France,Consumer,Organic search,False
+10377,2026-01-06,United States,Consumer,Paid social,False
+10378,2025-02-02,United States,Consumer,Paid social,False
+10379,2026-05-25,United States,Consumer,Email,False
+10380,2024-02-10,United States,Consumer,Referral,False
+10381,2024-02-29,United States,Consumer,Organic search,False
+10382,2024-12-05,France,Consumer,Email,False
+10383,2023-12-10,France,Consumer,Paid social,False
+10384,2026-01-05,United States,Consumer,Marketplace,False
+10385,2025-03-22,United Kingdom,Consumer,Organic search,False
+10386,2025-11-24,United States,Consumer,Marketplace,False
+10387,2023-09-20,United Kingdom,Consumer,Email,False
+10388,2025-08-19,United States,Consumer,Paid social,False
+10389,2023-06-27,United States,Consumer,Organic search,False
+10390,2023-07-14,United States,Business,Organic search,False
+10391,2023-09-07,United States,Consumer,Organic search,False
+10392,2025-10-23,Netherlands,Consumer,Paid social,False
+10393,2026-01-06,United States,Consumer,Paid social,False
+10394,2025-05-18,United States,Consumer,Referral,False
+10395,2025-05-25,Germany,Business,Organic search,False
+10396,2023-06-21,United States,Consumer,Paid social,False
+10397,2026-03-20,United States,Consumer,Marketplace,False
+10398,2026-02-22,United States,,Organic search,False
+10399,2024-06-28,France,Consumer,Email,False
+10400,2025-02-04,United States,Business,Organic search,False
+10401,2025-05-18,United States,Consumer,Email,False
+10402,2025-01-07,United States,Consumer,Organic search,False
+10403,2024-09-26,United Kingdom,Consumer,Organic search,False
+10404,2023-11-05,Germany,Consumer,Email,False
+10405,2023-06-17,United States,Consumer,Email,False
+10406,2023-11-11,United States,Consumer,Referral,False
+10407,2026-05-22,Germany,Consumer,Referral,False
+10408,2024-07-15,United States,Business,Paid social,False
+10409,2024-01-17,United Kingdom,Consumer,Organic search,False
+10410,2024-11-20,United Kingdom,Consumer,Marketplace,False
+10411,2024-06-29,United States,Consumer,Organic search,False
+10412,2023-12-16,United States,Consumer,Marketplace,False
+10413,2023-06-22,Germany,Consumer,Referral,False
+10414,2024-02-04,United States,Consumer,Organic search,False
+10415,2025-02-04,United Kingdom,Consumer,Organic search,False
+10416,2024-07-16,United States,Consumer,Email,False
+10417,2026-02-28,Germany,Consumer,Paid social,False
+10418,2025-09-24,United States,Consumer,Organic search,False
+10419,2025-05-30,United Kingdom,Consumer,Email,False
+10420,2026-01-27,United Kingdom,Consumer,Email,False
+10421,2024-09-25,United States,Consumer,Paid social,False
+10422,2025-02-27,Germany,Consumer,Organic search,False
+10423,2023-08-16,United States,Business,Organic search,False
+10424,2025-06-22,United States,Consumer,Paid social,False
+10425,2025-03-30,United Kingdom,Consumer,Organic search,False
+10426,2023-10-16,United States,Consumer,Marketplace,False
+10427,2025-04-04,United Kingdom,Consumer,Marketplace,False
+10428,2025-01-11,United Kingdom,Consumer,Paid social,False
+10429,2024-09-08,United States,Consumer,Organic search,False
+10430,2023-10-28,United States,Consumer,Organic search,False
+10431,2025-04-21,United Kingdom,Consumer,Paid social,False
+10432,2024-05-12,United States,Consumer,Marketplace,False
+10433,2023-06-02,United States,Consumer,Organic search,False
+10434,2026-05-21,United States,Business,Organic search,False
+10435,2023-11-06,Germany,,Organic search,False
+10436,2025-09-09,United Kingdom,Consumer,Referral,False
+10437,2025-08-01,United States,Consumer,Paid social,False
+10438,2024-10-05,France,Consumer,Organic search,False
+10439,2024-10-31,United States,Consumer,Organic search,False
+10440,2024-09-15,Germany,Consumer,Referral,False
+10441,2024-12-20,United States,Consumer,Organic search,False
+10442,2025-06-10,United Kingdom,Consumer,Referral,False
+10443,2023-08-12,France,,Marketplace,False
+10444,2024-03-13,United Kingdom,Consumer,Marketplace,False
+10445,2025-08-12,Germany,Consumer,Referral,False
+10446,2025-11-10,United States,Consumer,Organic search,False
+10447,2024-01-05,United States,Consumer,Referral,False
+10448,2024-07-15,Ireland,Consumer,Paid social,False
+10449,2024-09-27,United States,Consumer,Marketplace,False
+10450,2025-02-16,Ireland,Consumer,Organic search,False
+10451,2024-05-05,Ireland,Consumer,Paid social,False
+10452,2024-04-29,United Kingdom,Consumer,Marketplace,False
+10453,2023-06-09,United States,Consumer,Organic search,False
+10454,2025-04-11,United States,Consumer,Organic search,False
+10455,2025-06-01,United States,Consumer,Organic search,False
+10456,2025-05-23,Germany,Business,Organic search,False
+10457,2024-08-29,United States,Consumer,Paid social,False
+10458,2026-02-11,United States,Consumer,Organic search,False
+10459,2024-01-04,United Kingdom,Consumer,Email,False
+10460,2024-07-17,United States,Consumer,Paid social,False
+10461,2025-05-02,United Kingdom,Consumer,Organic search,False
+10462,2025-04-30,United States,Consumer,Marketplace,False
+10463,2024-04-06,Germany,Business,Organic search,False
+10464,2024-04-25,United States,Consumer,Paid social,False
+10465,2025-07-10,United States,Consumer,Paid social,False
+10466,2025-10-01,United States,Consumer,Organic search,False
+10467,2023-11-05,Netherlands,Consumer,Organic search,False
+10468,2025-09-03,United States,Consumer,Email,False
+10469,2023-10-07,Germany,Business,Paid social,False
+10470,2025-06-27,United States,Consumer,Paid social,False
+10471,2024-03-30,United States,Consumer,Paid social,False
+10472,2026-02-25,Germany,Consumer,Organic search,False
+10473,2026-02-26,Netherlands,Business,Organic search,False
+10474,2024-06-10,United States,Consumer,Referral,False
+10475,2024-06-10,United States,Consumer,Marketplace,False
+10476,2024-06-05,United States,Consumer,Paid social,False
+10477,2023-10-08,United Kingdom,Consumer,Email,False
+10478,2024-03-15,United States,Consumer,Paid social,False
+10479,2025-02-27,United States,Consumer,Paid social,False
+10480,2024-08-12,United States,Consumer,Organic search,False
+10481,2025-03-30,United States,Consumer,Referral,False
+10482,2024-06-07,Ireland,Business,Paid social,False
+10483,2024-09-18,Germany,Consumer,Organic search,False
+10484,2025-09-24,United States,Consumer,Referral,False
+10485,2024-08-23,France,Consumer,Organic search,False
+10486,2024-09-17,Ireland,,Email,False
+10487,2023-11-16,Germany,Consumer,Organic search,False
+10488,2026-02-05,United States,Consumer,Email,False
+10489,2024-10-08,United Kingdom,Consumer,Marketplace,False
+10490,2024-11-27,Germany,Consumer,Organic search,False
+10491,2023-07-20,Germany,Consumer,Marketplace,False
+10492,2025-07-08,United States,Consumer,Marketplace,False
+10493,2024-04-16,United States,,Marketplace,False
+10494,2026-01-29,United States,Consumer,Referral,False
+10495,2025-05-30,United States,Consumer,Paid social,False
+10496,2023-09-03,United Kingdom,Consumer,Organic search,False
+10497,2025-03-13,United States,Consumer,Paid social,False
+10498,2023-11-11,United States,Consumer,Paid social,False
+10499,2023-12-02,United States,Consumer,Paid social,False
+10500,2025-12-14,United States,Consumer,Email,False
+10501,2025-02-28,United States,Consumer,Organic search,False
+10502,2025-03-04,Netherlands,Business,Paid social,False
+10503,2025-07-30,United States,Consumer,Organic search,False
+10504,2025-12-04,United States,Consumer,Organic search,False
+10505,2026-04-16,United States,Business,Organic search,False
+10506,2024-02-27,United States,Business,Organic search,False
+10507,2025-06-13,United States,Consumer,Paid social,False
+10508,2025-11-15,Germany,Consumer,Organic search,False
+10509,2023-10-28,Germany,Consumer,Organic search,False
+10510,2025-04-19,United States,Consumer,Paid social,False
+10511,2023-11-29,United States,Consumer,Referral,False
+10512,2026-01-11,United States,Consumer,Marketplace,False
+10513,2026-02-12,United States,Business,Paid social,False
+10514,2023-06-16,France,Consumer,Paid social,False
+10515,2023-10-26,Germany,Consumer,Referral,False
+10516,2026-02-14,Germany,Consumer,Paid social,False
+10517,2023-08-05,Germany,Consumer,Paid social,False
+10518,2025-07-26,United Kingdom,Consumer,Organic search,False
+10519,2026-02-01,United Kingdom,Consumer,Organic search,False
+10520,2024-07-03,United States,Consumer,Email,False
+10521,2026-05-23,United States,Business,Organic search,False
+10522,2024-08-01,United States,Consumer,Email,False
+10523,2024-11-05,United States,Consumer,Email,False
+10524,2024-07-15,United States,Consumer,Marketplace,False
+10525,2025-05-12,Ireland,Consumer,Email,False
+10526,2024-09-06,United States,Consumer,Referral,False
+10527,2023-09-25,United States,Consumer,Email,False
+10528,2025-01-24,United Kingdom,Consumer,Marketplace,False
+10529,2025-04-29,United States,Business,Paid social,False
+10530,2024-07-24,United States,Consumer,Referral,False
+10531,2025-07-02,United States,Consumer,Organic search,False
+10532,2023-06-06,Germany,Business,Referral,False
+10533,2025-08-05,United States,Consumer,Organic search,False
+10534,2026-03-09,United States,Consumer,Paid social,False
+10535,2025-08-10,United States,Consumer,Organic search,False
+10536,2025-04-14,United Kingdom,Consumer,Marketplace,False
+10537,2025-12-07,United States,Consumer,Organic search,False
+10538,2026-02-23,United States,Consumer,Paid social,False
+10539,2025-01-09,United States,Consumer,Referral,False
+10540,2024-09-19,France,Consumer,Organic search,False
+10541,2026-03-19,United States,Consumer,Marketplace,False
+10542,2025-04-23,United States,Consumer,Email,False
+10543,2025-09-21,Ireland,Consumer,Email,False
+10544,2025-07-21,United Kingdom,Consumer,Email,False
+10545,2024-10-09,United States,Consumer,Email,False
+10546,2024-01-14,United Kingdom,Consumer,Paid social,False
+10547,2024-12-18,United Kingdom,Consumer,Email,False
+10548,2023-09-11,Netherlands,Consumer,Marketplace,False
+10549,2024-08-25,United States,Consumer,Marketplace,False
+10550,2023-06-13,Germany,Consumer,Email,False
+10551,2026-03-18,United States,,Referral,False
+10552,2024-10-31,United States,Consumer,Referral,False
+10553,2024-10-08,United Kingdom,Consumer,Organic search,False
+10554,2023-08-22,United States,Consumer,Paid social,False
+10555,2026-03-21,United States,Consumer,Referral,False
+10556,2026-05-17,United States,Consumer,Organic search,False
+10557,2025-03-05,United States,Consumer,Referral,False
+10558,2025-12-28,Germany,Consumer,Marketplace,False
+10559,2023-12-29,Ireland,Consumer,Organic search,False
+10560,2025-02-17,United Kingdom,Consumer,Referral,False
+10561,2023-08-28,United States,Consumer,Organic search,False
+10562,2025-04-23,United Kingdom,Consumer,Email,False
+10563,2025-02-27,Germany,Consumer,Organic search,False
+10564,2023-06-12,United States,Consumer,Organic search,False
+10565,2023-07-21,United States,Consumer,Referral,False
+10566,2024-08-28,Germany,Consumer,Organic search,False
+10567,2023-09-18,United States,Consumer,Paid social,False
+10568,2023-10-07,United States,Consumer,Marketplace,False
+10569,2023-06-05,United States,Business,Organic search,False
+10570,2025-03-07,United Kingdom,Business,Organic search,False
+10571,2026-01-12,United States,Business,Paid social,False
+10572,2024-04-01,France,Consumer,Paid social,False
+10573,2024-05-05,United States,Consumer,Organic search,False
+10574,2024-07-26,United States,Consumer,Paid social,False
+10575,2023-06-14,Ireland,Consumer,Marketplace,False
+10576,2023-09-29,Germany,Consumer,Email,False
+10577,2025-03-25,United States,Consumer,Paid social,False
+10578,2024-02-22,United Kingdom,Business,Email,False
+10579,2024-12-24,United States,Consumer,Email,False
+10580,2024-07-31,United States,Consumer,Paid social,False
+10581,2025-10-28,United Kingdom,Consumer,Marketplace,False
+10582,2023-12-27,United States,Consumer,Marketplace,False
+10583,2025-11-30,United Kingdom,Consumer,Organic search,False
+10584,2025-08-25,United Kingdom,Business,Marketplace,False
+10585,2025-12-22,United States,Consumer,Organic search,False
+10586,2023-08-03,United Kingdom,Consumer,Paid social,False
+10587,2024-07-19,Netherlands,Consumer,Marketplace,False
+10588,2024-09-21,Germany,Consumer,Email,False
+10589,2025-11-19,Germany,Consumer,Paid social,False
+10590,2025-01-14,United States,Consumer,Paid social,False
+10591,2025-10-31,United States,Consumer,Organic search,False
+10592,2024-09-22,United States,Consumer,Referral,False
+10593,2024-06-22,Ireland,Consumer,Email,False
+10594,2023-08-27,United States,Consumer,Marketplace,False
+10595,2024-11-10,United Kingdom,Consumer,Referral,False
+10596,2023-12-03,Germany,Consumer,Organic search,False
+10597,2024-06-25,France,Consumer,Email,False
+10598,2026-02-20,United States,Consumer,Email,False
+10599,2025-03-05,Ireland,Consumer,Paid social,False
+10600,2024-07-05,United Kingdom,Consumer,Organic search,False
+10601,2023-10-17,France,Consumer,Paid social,False
+10602,2025-06-22,Germany,Consumer,Marketplace,False
+10603,2024-02-28,Germany,Consumer,Marketplace,False
+10604,2024-02-25,United States,Consumer,Paid social,False
+10605,2024-11-10,United States,Consumer,Marketplace,False
+10606,2024-09-04,Ireland,Business,Paid social,False
+10607,2025-05-18,United States,Consumer,Email,False
+10608,2025-06-28,United States,Consumer,Marketplace,False
+10609,2024-10-21,United States,Consumer,Referral,False
+10610,2023-06-09,United States,Consumer,Organic search,False
+10611,2024-01-27,United States,Business,Organic search,False
+10612,2025-06-13,United States,Consumer,Paid social,False
+10613,2025-04-19,Germany,Consumer,Referral,False
+10614,2025-04-28,United States,Consumer,Marketplace,False
+10615,2024-03-12,United States,Consumer,Referral,False
+10616,2025-03-02,United States,Consumer,Organic search,False
+10617,2024-11-13,France,Consumer,Email,False
+10618,2024-12-20,Germany,Consumer,Email,False
+10619,2023-11-07,United States,Consumer,Organic search,False
+10620,2023-11-12,United States,Consumer,Email,False
+10621,2023-11-21,Germany,Business,Organic search,False
+10622,2025-09-19,United States,Consumer,Paid social,False
+10623,2025-06-14,United States,Consumer,Organic search,False
+10624,2023-10-28,United States,Consumer,Email,False
+10625,2025-10-28,United States,Consumer,Email,False
+10626,2026-02-17,France,Consumer,Marketplace,False
+10627,2026-01-21,United Kingdom,Consumer,Organic search,False
+10628,2025-07-26,United States,Consumer,Paid social,False
+10629,2023-09-27,United Kingdom,Consumer,Email,False
+10630,2023-06-03,United States,Business,Marketplace,False
+10631,2024-06-03,United States,Consumer,Referral,False
+10632,2026-03-23,United States,Consumer,Organic search,False
+10633,2026-05-22,United States,Consumer,Marketplace,False
+10634,2025-08-18,Netherlands,Consumer,Marketplace,False
+10635,2023-11-15,United States,Consumer,Organic search,False
+10636,2025-08-13,United States,Consumer,Referral,False
+10637,2025-06-23,France,Consumer,Organic search,False
+10638,2023-11-02,United States,Consumer,Email,False
+10639,2026-01-12,Germany,Consumer,Referral,False
+10640,2026-01-11,United States,Consumer,Organic search,False
+10641,2023-08-06,United Kingdom,Consumer,Email,False
+10642,2024-10-28,United Kingdom,Consumer,Organic search,False
+10643,2023-12-29,United Kingdom,,Organic search,False
+10644,2023-11-12,United States,Consumer,Email,False
+10645,2024-11-21,United States,Consumer,Organic search,False
+10646,2025-12-20,Netherlands,Consumer,Marketplace,False
+10647,2025-05-04,Germany,Consumer,Paid social,False
+10648,2024-12-19,United States,Business,Organic search,False
+10649,2024-02-12,United States,Consumer,Organic search,False
+10650,2024-10-20,United States,Consumer,Marketplace,False
+10651,2025-08-20,United States,Consumer,Email,False
+10652,2026-04-17,United Kingdom,Consumer,Paid social,False
+10653,2025-11-28,Germany,Consumer,Organic search,False
+10654,2024-08-18,United States,Consumer,Paid social,False
+10655,2026-03-23,United States,Consumer,Email,False
+10656,2023-09-24,United States,Consumer,Organic search,False
+10657,2024-06-25,Germany,Consumer,Marketplace,False
+10658,2025-03-19,United States,Consumer,Marketplace,False
+10659,2025-01-14,United Kingdom,Consumer,Organic search,False
+10660,2024-09-18,Germany,Consumer,Paid social,False
+10661,2026-05-20,United Kingdom,Consumer,Email,False
+10662,2025-04-03,United States,Consumer,Paid social,False
+10663,2024-01-05,United Kingdom,Consumer,Paid social,False
+10664,2023-09-03,United States,Consumer,Organic search,False
+10665,2024-04-21,United States,Consumer,Organic search,False
+10666,2024-05-24,United States,Consumer,Organic search,False
+10667,2024-04-19,United Kingdom,Consumer,Referral,False
+10668,2024-05-30,United States,Consumer,Paid social,False
+10669,2024-06-30,United States,Consumer,Paid social,False
+10670,2025-08-17,Germany,Consumer,Organic search,False
+10671,2024-08-13,Germany,Consumer,Email,False
+10672,2024-01-04,France,Consumer,Paid social,False
+10673,2024-02-02,United States,Consumer,Paid social,False
+10674,2024-05-24,United Kingdom,Consumer,Marketplace,False
+10675,2025-06-04,France,Consumer,Marketplace,False
+10676,2024-03-06,Germany,Consumer,Email,False
+10677,2024-08-09,United Kingdom,Consumer,Paid social,False
+10678,2025-02-07,United States,Consumer,Paid social,False
+10679,2025-01-05,Germany,Consumer,Paid social,False
+10680,2026-04-10,Ireland,Consumer,Referral,False
+10681,2024-02-07,United Kingdom,Consumer,Organic search,False
+10682,2025-04-19,United States,Consumer,Organic search,False
+10683,2025-03-25,United States,Consumer,Organic search,False
+10684,2026-05-05,United States,Consumer,Organic search,False
+10685,2024-01-20,United States,Consumer,Marketplace,False
+10686,2023-06-02,United States,Consumer,Marketplace,False
+10687,2024-10-06,France,Consumer,Paid social,False
+10688,2025-11-16,United States,Consumer,Email,False
+10689,2023-10-19,United States,Business,Email,False
+10690,2023-09-04,United States,Consumer,Marketplace,False
+10691,2024-12-02,United States,Consumer,Organic search,False
+10692,2025-10-15,United States,Consumer,Organic search,False
+10693,2023-09-01,United Kingdom,Consumer,Organic search,False
+10694,2025-08-14,France,Consumer,Organic search,False
+10695,2023-12-16,United States,Consumer,Paid social,False
+10696,2025-03-26,United States,Consumer,Organic search,False
+10697,2025-09-05,United States,Consumer,Email,False
+10698,2025-12-25,United States,Consumer,Paid social,False
+10699,2024-01-15,Germany,Consumer,Paid social,False
+10700,2023-09-10,France,Consumer,Organic search,False
+10701,2025-03-08,United States,Consumer,Referral,False
+10702,2024-04-25,United States,Consumer,Organic search,False
+10703,2025-03-14,Ireland,Consumer,Referral,False
+10704,2025-01-31,United States,Business,Paid social,False
+10705,2024-12-25,United States,Consumer,Organic search,False
+10706,2025-03-05,United States,Consumer,Organic search,False
+10707,2026-01-31,United States,Consumer,Organic search,False
+10708,2024-03-12,United States,Consumer,Paid social,False
+10709,2024-09-10,United States,Consumer,Email,False
+10710,2024-04-13,Ireland,Consumer,Email,False
+10711,2023-09-14,United Kingdom,Consumer,Marketplace,False
+10712,2023-12-06,United Kingdom,Consumer,Organic search,False
+10713,2025-12-20,United Kingdom,Business,Paid social,False
+10714,2026-04-12,United States,Consumer,Organic search,False
+10715,2025-03-27,France,Consumer,Organic search,False
+10716,2026-04-19,United States,Business,Referral,False
+10717,2023-12-18,United States,Consumer,Organic search,False
+10718,2024-03-31,United States,Business,Organic search,False
+10719,2025-08-11,United States,Consumer,Organic search,False
+10720,2024-02-13,United States,Consumer,Paid social,False
+10721,2024-11-19,Netherlands,Consumer,Paid social,False
+10722,2024-07-10,United Kingdom,Consumer,Organic search,False
+10723,2025-02-03,Germany,Consumer,Paid social,False
+10724,2026-05-18,United States,Business,Paid social,False
+10725,2025-12-25,United States,Consumer,Marketplace,False
+10726,2025-07-16,United States,Business,Paid social,False
+10727,2024-04-24,United States,Consumer,Email,False
+10728,2023-12-14,United States,Consumer,Marketplace,False
+10729,2023-12-18,United States,Consumer,Organic search,False
+10730,2025-08-01,United States,Consumer,Organic search,False
+10731,2025-05-21,United States,Consumer,Email,False
+10732,2025-02-11,Ireland,Consumer,Paid social,False
+10733,2024-06-07,United States,Consumer,Marketplace,False
+10734,2026-03-14,France,Consumer,Referral,False
+10735,2024-09-22,United States,Consumer,Organic search,False
+10736,2025-01-09,United States,Consumer,Referral,False
+10737,2025-01-12,United States,Business,Organic search,False
+10738,2023-09-21,Netherlands,Consumer,Organic search,False
+10739,2025-06-30,United States,Consumer,Organic search,False
+10740,2024-04-30,United States,Consumer,Paid social,False
+10741,2024-05-30,Netherlands,Consumer,Marketplace,False
+10742,2024-04-25,United States,Business,Organic search,False
+10743,2024-08-15,United States,Consumer,Email,False
+10744,2025-09-01,United States,Consumer,Paid social,False
+10745,2023-11-26,Ireland,Consumer,Email,False
+10746,2023-09-26,Germany,Consumer,Email,False
+10747,2025-11-12,United Kingdom,,Paid social,False
+10748,2025-07-09,United Kingdom,Consumer,Marketplace,False
+10749,2024-08-27,United Kingdom,Consumer,Organic search,False
+10750,2023-06-03,Netherlands,Consumer,Paid social,False
+10751,2024-11-17,United Kingdom,,Email,False
+10752,2024-09-07,United Kingdom,Consumer,Email,False
+10753,2026-04-27,United Kingdom,,Organic search,False
+10754,2024-12-14,United States,Consumer,Paid social,False
+10755,2026-03-13,Ireland,Consumer,Organic search,False
+10756,2025-03-17,Germany,Consumer,Referral,False
+10757,2023-06-09,Germany,Consumer,Organic search,False
+10758,2025-06-05,United States,Consumer,Email,False
+10759,2025-07-24,United States,Consumer,Marketplace,False
+10760,2024-02-01,United States,Consumer,Email,False
+10761,2025-03-14,United States,Consumer,Email,False
+10762,2024-05-17,United Kingdom,Consumer,Organic search,False
+10763,2023-08-22,United States,Consumer,Organic search,False
+10764,2025-11-20,United States,Consumer,Paid social,False
+10765,2024-09-11,United States,Consumer,Marketplace,False
+10766,2025-12-18,United States,Business,Marketplace,False
+10767,2024-12-19,United States,Business,Organic search,False
+10768,2026-04-26,United States,Consumer,Organic search,False
+10769,2024-03-22,United Kingdom,Business,Organic search,False
+10770,2023-09-22,United States,Consumer,Marketplace,False
+10771,2024-08-14,United States,Business,Organic search,False
+10772,2023-11-06,United States,Consumer,Paid social,False
+10773,2025-05-24,United States,Business,Email,False
+10774,2024-01-02,United Kingdom,Consumer,Email,False
+10775,2025-12-06,Netherlands,Consumer,Referral,False
+10776,2024-12-31,United Kingdom,Consumer,Email,False
+10777,2024-03-04,United States,Consumer,Organic search,False
+10778,2026-03-28,United States,Consumer,Paid social,False
+10779,2025-06-21,United Kingdom,Consumer,Paid social,False
+10780,2025-08-17,United States,Consumer,Paid social,False
+10781,2025-03-09,United States,Consumer,Paid social,False
+10782,2026-05-23,United States,Business,Paid social,False
+10783,2023-08-08,Germany,Consumer,Organic search,False
+10784,2025-04-16,United States,Consumer,Organic search,False
+10785,2025-03-21,United States,Consumer,Marketplace,False
+10786,2024-09-01,United States,Consumer,Email,False
+10787,2026-05-12,United Kingdom,Consumer,Marketplace,False
+10788,2024-10-07,United Kingdom,Consumer,Organic search,False
+10789,2023-09-04,United States,Business,Referral,False
+10790,2023-10-25,United States,Consumer,Marketplace,False
+10791,2023-12-21,United States,Consumer,Referral,False
+10792,2024-03-02,United Kingdom,Consumer,Referral,False
+10793,2025-11-18,United States,Consumer,Paid social,False
+10794,2025-05-28,France,Business,Paid social,False
+10795,2025-07-29,Germany,Consumer,Organic search,False
+10796,2024-01-20,Germany,Consumer,Email,False
+10797,2023-12-01,United States,Business,Paid social,False
+10798,2024-12-03,United Kingdom,Consumer,Organic search,False
+10799,2026-05-07,United Kingdom,Consumer,Paid social,False
+10800,2025-05-31,United States,Consumer,Organic search,False
+10801,2026-05-03,United Kingdom,Consumer,Paid social,False
+10802,2024-08-09,United States,Consumer,Email,False
+10803,2024-11-30,United States,Consumer,Email,False
+10804,2023-10-29,United Kingdom,Consumer,Email,False
+10805,2024-08-09,United States,Business,Paid social,False
+10806,2023-08-31,Netherlands,Business,Referral,False
+10807,2024-11-05,France,Consumer,Paid social,False
+10808,2024-12-18,United Kingdom,Consumer,Paid social,False
+10809,2025-06-23,United States,Consumer,Marketplace,False
+10810,2024-04-26,United States,Consumer,Paid social,False
+10811,2023-11-27,Netherlands,Business,Organic search,False
+10812,2023-06-28,Germany,Consumer,Marketplace,False
+10813,2024-05-26,United States,Business,Paid social,False
+10814,2024-01-30,United States,Consumer,Marketplace,False
+10815,2024-09-05,Germany,Consumer,Organic search,False
+10816,2026-05-26,United Kingdom,Consumer,Organic search,False
+10817,2025-08-28,United States,Consumer,Paid social,False
+10818,2023-12-12,United States,Consumer,Paid social,False
+10819,2023-07-26,United States,Consumer,Referral,False
+10820,2026-04-01,Germany,Consumer,Marketplace,False
+10821,2023-09-28,United Kingdom,,Paid social,False
+10822,2024-03-30,United Kingdom,Consumer,Organic search,False
+10823,2023-08-28,United Kingdom,Consumer,Organic search,False
+10824,2026-04-05,United States,Consumer,Paid social,False
+10825,2026-05-28,United States,Consumer,Paid social,False
+10826,2025-11-08,United States,Consumer,Organic search,False
+10827,2025-10-29,United States,Consumer,Referral,False
+10828,2026-04-13,United States,Consumer,Paid social,False
+10829,2024-11-25,United States,Consumer,Paid social,False
+10830,2025-10-17,United Kingdom,Consumer,Referral,False
+10831,2026-03-28,United States,Consumer,Paid social,False
+10832,2024-09-02,United States,Consumer,Organic search,False
+10833,2024-07-08,United States,Consumer,Paid social,False
+10834,2023-10-08,United States,Business,Organic search,False
+10835,2024-08-18,Netherlands,Consumer,Referral,False
+10836,2025-07-11,United States,Consumer,Referral,False
+10837,2025-07-31,United States,Consumer,Referral,False
+10838,2025-12-24,United States,Consumer,Paid social,False
+10839,2025-02-14,France,Business,Email,False
+10840,2026-04-24,Netherlands,Consumer,Paid social,False
+10841,2025-11-10,United States,Consumer,Organic search,False
+10842,2023-08-06,United States,Consumer,Marketplace,False
+10843,2025-09-24,United States,Consumer,Organic search,False
+10844,2024-09-23,United States,Consumer,Paid social,False
+10845,2023-11-07,Germany,Business,Organic search,False
+10846,2025-08-10,United States,Consumer,Paid social,False
+10847,2024-04-29,Germany,Consumer,Paid social,False
+10848,2026-01-16,United States,Consumer,Organic search,False
+10849,2024-03-15,Netherlands,Consumer,Organic search,False
+10850,2026-01-22,United States,Consumer,Organic search,False
+10851,2025-08-09,Germany,Consumer,Organic search,False
+10852,2026-03-01,United States,Consumer,Marketplace,False
+10853,2024-12-11,United States,Consumer,Email,False
+10854,2025-11-21,Germany,Consumer,Organic search,False
+10855,2024-04-19,United States,Consumer,Organic search,False
+10856,2023-06-15,United States,Consumer,Organic search,False
+10857,2023-12-28,United Kingdom,Consumer,Organic search,False
+10858,2023-11-23,United Kingdom,Consumer,Email,False
+10859,2025-06-05,United States,Consumer,Organic search,False
+10860,2024-09-17,France,Consumer,Email,False
+10861,2023-08-16,United States,Consumer,Organic search,False
+10862,2025-09-08,United States,Business,Referral,False
+10863,2023-07-20,United States,Consumer,Paid social,False
+10864,2024-03-20,United Kingdom,Consumer,Organic search,False
+10865,2025-02-19,United Kingdom,Business,Email,False
+10866,2023-06-28,United States,Consumer,Email,False
+10867,2025-01-09,United States,Consumer,Marketplace,False
+10868,2023-08-14,Germany,Consumer,Email,False
+10869,2025-09-17,United States,Consumer,Paid social,False
+10870,2025-07-15,Ireland,Consumer,Paid social,False
+10871,2024-10-20,United States,Business,Organic search,False
+10872,2025-08-30,United States,Consumer,Paid social,False
+10873,2025-05-31,France,Business,Paid social,False
+10874,2024-05-11,United States,Business,Organic search,False
+10875,2025-09-16,United States,Consumer,Organic search,False
+10876,2024-07-01,United States,Consumer,Paid social,False
+10877,2023-08-28,United States,Business,Organic search,False
+10878,2025-06-11,Germany,Consumer,Organic search,False
+10879,2024-07-10,United States,Consumer,Paid social,False
+10880,2023-12-03,United States,Consumer,Organic search,False
+10881,2024-01-18,United States,Consumer,Email,False
+10882,2025-07-14,Netherlands,Consumer,Email,False
+10883,2023-07-21,United States,Business,Organic search,False
+10884,2024-12-06,United States,Consumer,Email,False
+10885,2025-01-06,United States,Consumer,Paid social,False
+10886,2024-01-06,United Kingdom,Consumer,Organic search,False
+10887,2026-01-13,United Kingdom,Consumer,Organic search,False
+10888,2025-08-12,United States,Consumer,Organic search,False
+10889,2025-08-14,United States,Consumer,Paid social,False
+10890,2025-03-25,United States,Consumer,Organic search,False
+10891,2024-01-10,United States,Consumer,Marketplace,False
+10892,2025-01-14,United States,Consumer,Organic search,False
+10893,2023-12-05,United States,Consumer,Organic search,False
+10894,2024-03-16,United States,Consumer,Organic search,False
+10895,2024-11-15,United Kingdom,Consumer,Email,False
+10896,2026-02-09,United Kingdom,Consumer,Marketplace,False
+10897,2025-03-08,Ireland,Consumer,Referral,False
+10898,2023-06-13,United States,Business,Paid social,False
+10899,2023-08-27,United Kingdom,Consumer,Paid social,False
+10900,2025-09-16,United States,Consumer,Organic search,False
+10901,2025-08-16,United States,Consumer,Organic search,False
+10902,2025-09-29,United Kingdom,Consumer,Marketplace,False
+10903,2025-04-12,France,Consumer,Organic search,False
+10904,2025-05-30,France,Consumer,Paid social,False
+10905,2025-01-06,France,Consumer,Organic search,False
+10906,2025-03-02,United Kingdom,Consumer,Email,False
+10907,2026-01-30,United States,Business,Email,False
+10908,2025-02-08,United Kingdom,,Referral,False
+10909,2025-04-26,United Kingdom,Consumer,Paid social,False
+10910,2025-03-25,United States,Consumer,Organic search,False
+10911,2025-10-02,United States,Consumer,Paid social,False
+10912,2024-07-01,Netherlands,Consumer,Organic search,False
+10913,2025-08-25,United States,Consumer,Referral,False
+10914,2023-11-13,United States,Business,Paid social,False
+10915,2026-01-26,Germany,Consumer,Paid social,False
+10916,2025-12-13,United States,Consumer,Paid social,False
+10917,2023-07-09,United States,Consumer,Organic search,False
+10918,2024-09-02,United States,Consumer,Organic search,False
+10919,2024-03-15,United States,Consumer,Referral,False
+10920,2023-07-07,United States,Consumer,Organic search,False
+10921,2025-05-26,United States,Business,Referral,False
+10922,2025-01-26,Netherlands,Consumer,Paid social,False
+10923,2023-10-24,Netherlands,Business,Organic search,False
+10924,2024-02-25,United States,Consumer,Referral,False
+10925,2023-07-19,United Kingdom,Consumer,Organic search,False
+10926,2024-08-23,United States,Consumer,Paid social,False
+10927,2023-07-24,United States,Consumer,Paid social,False
+10928,2023-11-25,Germany,Consumer,Paid social,False
+10929,2024-11-01,United States,Consumer,Paid social,False
+10930,2025-12-25,United States,Consumer,Organic search,False
+10931,2024-09-25,United States,Consumer,Marketplace,False
+10932,2024-07-20,France,Consumer,Marketplace,False
+10933,2024-08-14,United States,Consumer,Paid social,False
+10934,2025-05-04,United States,Consumer,Organic search,False
+10935,2024-10-25,United States,Consumer,Organic search,False
+10936,2026-05-31,France,Consumer,Organic search,False
+10937,2026-01-07,Ireland,Consumer,Marketplace,False
+10938,2024-12-27,Ireland,Consumer,Paid social,False
+10939,2025-08-11,France,Consumer,Marketplace,False
+10940,2025-03-20,Germany,Consumer,Organic search,False
+10941,2024-12-10,United States,Consumer,Organic search,False
+10942,2025-10-16,United States,Consumer,Organic search,False
+10943,2025-01-23,United States,Consumer,Organic search,False
+10944,2023-11-18,United States,Consumer,Referral,False
+10945,2026-04-12,United States,Consumer,Paid social,False
+10946,2026-03-31,United States,Consumer,Referral,False
+10947,2026-02-09,United States,Consumer,Organic search,False
+10948,2024-11-21,United Kingdom,,Organic search,False
+10949,2024-03-29,United States,Consumer,Organic search,False
+10950,2023-12-07,United States,Consumer,Organic search,False
+10951,2026-01-05,Germany,Consumer,Paid social,False
+10952,2025-11-03,United States,Consumer,Organic search,False
+10953,2024-09-04,United States,Consumer,Organic search,False
+10954,2025-09-09,Germany,Business,Referral,False
+10955,2025-12-08,Netherlands,Consumer,Paid social,False
+10956,2024-04-23,United States,Consumer,Paid social,False
+10957,2026-04-30,United States,,Email,False
+10958,2024-02-01,United States,Consumer,Marketplace,False
+10959,2024-10-01,France,Consumer,Referral,False
+10960,2024-10-14,Netherlands,Consumer,Organic search,False
+10961,2025-04-15,United States,Business,Referral,False
+10962,2025-06-14,United States,Business,Referral,False
+10963,2024-12-22,Germany,Consumer,Referral,False
+10964,2025-04-03,United States,Consumer,Email,False
+10965,2024-05-11,Netherlands,Consumer,Referral,False
+10966,2026-01-17,France,Consumer,Marketplace,False
+10967,2024-01-10,United States,Consumer,Paid social,False
+10968,2025-09-26,France,Consumer,Paid social,False
+10969,2025-07-09,United States,Business,Marketplace,False
+10970,2024-11-29,United States,Consumer,Email,False
+10971,2023-11-16,United States,Consumer,Paid social,False
+10972,2023-06-30,Netherlands,Consumer,Paid social,False
+10973,2023-10-04,United Kingdom,Business,Referral,False
+10974,2025-03-16,United States,Consumer,Paid social,False
+10975,2024-07-22,United States,,Paid social,False
+10976,2026-02-21,United States,Consumer,Organic search,False
+10977,2023-08-17,Germany,Business,Paid social,False
+10978,2023-08-27,United Kingdom,Consumer,Marketplace,False
+10979,2025-03-24,United Kingdom,Consumer,Marketplace,False
+10980,2023-11-11,France,Consumer,Referral,False
+10981,2025-08-19,United States,Consumer,Organic search,False
+10982,2025-05-27,United States,Consumer,Organic search,False
+10983,2024-02-20,United States,Consumer,Marketplace,False
+10984,2024-12-08,United States,Consumer,Referral,False
+10985,2024-01-16,Germany,Consumer,Paid social,False
+10986,2024-05-15,United States,Consumer,Marketplace,False
+10987,2024-01-22,Ireland,Consumer,Marketplace,False
+10988,2025-09-23,United States,Consumer,Email,False
+10989,2023-10-14,United Kingdom,Consumer,Paid social,False
+10990,2025-08-17,United States,Consumer,Referral,False
+10991,2023-08-31,France,Consumer,Organic search,False
+10992,2025-04-03,United States,Consumer,Paid social,False
+10993,2024-07-14,France,Consumer,Email,False
+10994,2023-12-29,United States,Consumer,Referral,False
+10995,2024-04-23,Germany,Consumer,Paid social,False
+10996,2026-01-08,United States,Consumer,Organic search,False
+10997,2024-07-15,United States,Consumer,Paid social,False
+10998,2024-03-12,United States,Consumer,Organic search,False
+10999,2025-11-16,United States,Consumer,Paid social,False
+11000,2025-06-21,Germany,Consumer,Paid social,False
+11001,2024-11-04,United States,Consumer,Organic search,False
+11002,2023-10-08,United States,Consumer,Paid social,False
+11003,2023-06-20,Germany,Business,Organic search,False
+11004,2024-03-27,Germany,Consumer,Email,False
+11005,2025-08-09,United Kingdom,Business,Marketplace,False
+11006,2024-01-07,United Kingdom,Consumer,Marketplace,False
+11007,2023-07-08,France,Consumer,Referral,False
+11008,2025-02-12,Ireland,Consumer,Marketplace,False
+11009,2024-11-16,United States,Consumer,Organic search,False
+11010,2026-03-17,Germany,Consumer,Paid social,False
+11011,2024-11-02,United States,Consumer,Paid social,False
+11012,2025-12-18,United States,Consumer,Paid social,False
+11013,2025-10-23,Ireland,Consumer,Marketplace,False
+11014,2025-01-20,Germany,Consumer,Paid social,False
+11015,2024-09-09,United States,Consumer,Organic search,False
+11016,2025-01-03,Germany,Consumer,Referral,False
+11017,2023-09-14,United States,Consumer,Paid social,False
+11018,2023-10-27,Germany,Consumer,Paid social,False
+11019,2023-12-21,United Kingdom,Consumer,Paid social,False
+11020,2023-08-07,Ireland,Consumer,Email,False
+11021,2024-10-28,France,Consumer,Organic search,False
+11022,2026-01-11,Ireland,Consumer,Organic search,False
+11023,2026-01-20,United States,Consumer,Organic search,False
+11024,2025-07-13,United States,Consumer,Paid social,False
+11025,2025-01-22,United Kingdom,Consumer,Referral,False
+11026,2024-08-18,United States,Consumer,Referral,False
+11027,2024-02-02,United States,Consumer,Email,False
+11028,2024-06-14,United States,Consumer,Email,False
+11029,2026-05-09,Germany,Consumer,Marketplace,False
+11030,2023-06-13,United Kingdom,Consumer,Organic search,False
+11031,2025-12-06,United States,Consumer,Organic search,False
+11032,2024-09-12,France,Consumer,Organic search,False
+11033,2023-06-28,United States,Business,Referral,False
+11034,2025-07-17,Ireland,Business,Marketplace,False
+11035,2024-05-14,France,Consumer,Organic search,False
+11036,2025-07-09,United Kingdom,Consumer,Organic search,False
+11037,2024-11-16,United States,Consumer,Marketplace,False
+11038,2025-10-04,Germany,Consumer,Email,False
+11039,2024-02-21,United States,Consumer,Organic search,False
+11040,2026-03-18,United Kingdom,Consumer,Paid social,False
+11041,2026-03-09,Germany,Consumer,Organic search,False
+11042,2024-08-04,United States,Consumer,Organic search,False
+11043,2024-11-06,Germany,Consumer,Organic search,False
+11044,2026-02-16,United States,Consumer,Marketplace,False
+11045,2023-09-08,United States,Consumer,Paid social,False
+11046,2024-06-04,United States,Consumer,Organic search,False
+11047,2026-04-03,United States,Consumer,Marketplace,False
+11048,2024-10-09,United States,Consumer,Marketplace,False
+11049,2025-01-17,United Kingdom,Consumer,Organic search,False
+11050,2024-11-16,United States,Consumer,Paid social,False
+11051,2023-09-11,United States,Consumer,Marketplace,False
+11052,2024-12-01,United States,Consumer,Organic search,False
+11053,2026-03-19,United States,Consumer,Referral,False
+11054,2025-01-27,United States,Business,Organic search,False
+11055,2023-09-01,United States,Consumer,Paid social,False
+11056,2024-03-18,United Kingdom,Consumer,Paid social,False
+11057,2026-02-16,France,Consumer,Paid social,False
+11058,2023-12-16,United States,Consumer,Organic search,False
+11059,2025-10-03,United States,Consumer,Email,False
+11060,2025-03-17,United Kingdom,Consumer,Organic search,False
+11061,2025-03-13,United States,Consumer,Organic search,False
+11062,2024-11-10,Netherlands,Consumer,Organic search,False
+11063,2025-10-23,United States,Consumer,Organic search,False
+11064,2025-03-05,Netherlands,Consumer,Email,False
+11065,2024-04-24,United States,Consumer,Organic search,False
+11066,2026-02-07,United States,Consumer,Email,False
+11067,2023-12-15,France,Consumer,Marketplace,False
+11068,2025-02-04,United Kingdom,Consumer,Referral,False
+11069,2023-06-11,Ireland,,Paid social,False
+11070,2023-11-04,Ireland,,Paid social,False
+11071,2025-03-21,United States,Business,Paid social,False
+11072,2023-12-28,France,Consumer,Organic search,False
+11073,2025-06-23,Ireland,Consumer,Organic search,False
+11074,2025-02-25,Germany,Consumer,Paid social,False
+11075,2026-01-25,United States,Consumer,Email,False
+11076,2024-04-08,Germany,Consumer,Marketplace,False
+11077,2024-02-08,United States,Consumer,Organic search,False
+11078,2024-07-09,United States,Consumer,Organic search,False
+11079,2024-05-18,United States,Consumer,Organic search,False
+11080,2025-05-01,United States,Consumer,Organic search,False
+11081,2025-01-05,United States,,Organic search,False
+11082,2025-05-13,United States,Business,Marketplace,False
+11083,2023-11-24,United States,Consumer,Referral,False
+11084,2024-02-10,United States,Consumer,Organic search,False
+11085,2025-10-17,United States,Consumer,Organic search,False
+11086,2025-07-12,United States,Consumer,Paid social,False
+11087,2023-10-24,United States,Consumer,Organic search,False
+11088,2024-04-23,United States,Consumer,Paid social,False
+11089,2024-04-23,United Kingdom,Consumer,Marketplace,False
+11090,2025-12-14,United States,Business,Organic search,False
+11091,2026-01-07,United States,Business,Referral,False
+11092,2025-07-14,United States,Business,Referral,False
+11093,2025-04-19,United Kingdom,Consumer,Marketplace,False
+11094,2025-09-17,Germany,Consumer,Referral,False
+11095,2025-07-07,United States,Consumer,Paid social,False
+11096,2025-11-07,United States,Consumer,Marketplace,False
+11097,2025-12-29,United Kingdom,Consumer,Referral,False
+11098,2026-03-10,United States,Consumer,Organic search,False
+11099,2024-02-08,United Kingdom,Consumer,Paid social,False
+11100,2025-01-31,United States,Consumer,Email,False
+11101,2024-11-19,United States,Consumer,Referral,False
+11102,2024-09-30,United States,Consumer,Organic search,False
+11103,2023-09-06,United States,Consumer,Email,False
+11104,2025-07-30,United Kingdom,Consumer,Paid social,False
+11105,2023-10-02,United States,Consumer,Organic search,False
+11106,2024-11-10,Germany,Consumer,Email,False
+11107,2024-07-15,Ireland,Consumer,Paid social,False
+11108,2023-06-09,United States,Consumer,Paid social,False
+11109,2024-06-22,United States,Consumer,Organic search,False
+11110,2025-04-06,United States,Consumer,Email,False
+11111,2023-08-01,United States,Consumer,Marketplace,False
+11112,2024-03-23,United States,Consumer,Organic search,False
+11113,2025-09-23,United States,Consumer,Paid social,False
+11114,2023-11-01,United States,Consumer,Organic search,False
+11115,2025-06-04,Netherlands,Consumer,Marketplace,False
+11116,2024-11-25,United States,Consumer,Paid social,False
+11117,2025-12-25,United Kingdom,Consumer,Paid social,False
+11118,2023-09-11,United States,Consumer,Organic search,False
+11119,2024-06-03,United Kingdom,Consumer,Email,False
+11120,2024-01-22,United Kingdom,Consumer,Marketplace,False
+11121,2026-04-10,Germany,Consumer,Organic search,False
+11122,2025-11-13,United Kingdom,Consumer,Organic search,False
+11123,2025-11-15,United States,Consumer,Organic search,False
+11124,2025-03-27,United States,Consumer,Referral,False
+11125,2023-06-01,United States,Consumer,Paid social,False
+11126,2024-10-08,United States,Consumer,Referral,False
+11127,2023-07-20,Netherlands,Consumer,Email,False
+11128,2024-02-18,United States,Consumer,Paid social,False
+11129,2025-09-07,United States,Consumer,Organic search,False
+11130,2024-10-28,United Kingdom,Consumer,Organic search,False
+11131,2024-03-21,United States,Consumer,Paid social,False
+11132,2025-09-11,United States,Consumer,Email,False
+11133,2024-11-11,Germany,Consumer,Paid social,False
+11134,2025-06-21,Ireland,Consumer,Email,False
+11135,2026-01-04,United States,Consumer,Referral,False
+11136,2025-05-03,United States,Consumer,Email,False
+11137,2025-10-01,United States,Consumer,Organic search,False
+11138,2025-12-16,Germany,Consumer,Organic search,False
+11139,2025-03-16,United States,Consumer,Organic search,False
+11140,2024-09-22,Germany,Consumer,Organic search,False
+11141,2024-12-04,United States,Consumer,Paid social,False
+11142,2025-10-05,Germany,Consumer,Organic search,False
+11143,2024-01-18,United States,,Referral,False
+11144,2024-06-12,Germany,Consumer,Marketplace,False
+11145,2023-09-10,United States,Consumer,Paid social,False
+11146,2023-07-06,United States,Business,Email,False
+11147,2025-03-27,United States,Consumer,Paid social,False
+11148,2024-02-28,Ireland,Consumer,Organic search,False
+11149,2024-07-13,United States,Consumer,Paid social,False
+11150,2024-06-20,United States,Consumer,Email,False
+11151,2024-02-17,Germany,Business,Paid social,False
+11152,2024-09-25,United States,Consumer,Paid social,False
+11153,2023-07-08,United States,Consumer,Marketplace,False
+11154,2024-02-21,United States,Consumer,Paid social,False
+11155,2025-09-07,United States,Consumer,Marketplace,False
+11156,2025-02-10,United States,Consumer,Organic search,False
+11157,2025-03-23,United States,Consumer,Paid social,False
+11158,2024-12-16,United States,Business,Marketplace,False
+11159,2025-05-14,United States,Consumer,Organic search,False
+11160,2026-04-05,France,Business,Paid social,False
+11161,2025-01-12,United States,Consumer,Paid social,False
+11162,2025-05-31,Germany,Consumer,Paid social,False
+11163,2024-07-12,United Kingdom,Consumer,Marketplace,False
+11164,2024-09-08,United States,Consumer,Paid social,False
+11165,2026-04-24,United States,Consumer,Organic search,False
+11166,2026-05-18,United States,Business,Organic search,False
+11167,2024-05-13,Germany,Consumer,Paid social,False
+11168,2024-09-19,United States,Consumer,Paid social,False
+11169,2024-12-31,United States,Consumer,Paid social,False
+11170,2024-07-13,Netherlands,Consumer,Referral,False
+11171,2024-10-03,United States,Business,Marketplace,False
+11172,2023-08-30,Germany,Business,Marketplace,False
+11173,2025-04-06,United Kingdom,Consumer,Paid social,False
+11174,2025-03-30,France,Consumer,Email,False
+11175,2023-09-20,United States,Consumer,Marketplace,False
+11176,2025-08-31,United Kingdom,Consumer,Referral,False
+11177,2024-01-13,United States,Consumer,Organic search,False
+11178,2025-03-08,Germany,Consumer,Referral,False
+11179,2025-10-27,United States,Consumer,Organic search,False
+11180,2024-10-08,Germany,Consumer,Referral,False
+11181,2024-07-05,United States,Business,Referral,False
+11182,2023-11-11,France,,Referral,False
+11183,2024-08-08,United States,Consumer,Organic search,False
+11184,2024-11-04,United States,Consumer,Organic search,False
+11185,2023-10-27,Germany,Consumer,Marketplace,False
+11186,2025-02-28,Germany,Business,Organic search,False
+11187,2026-05-05,United States,Consumer,Email,False
+11188,2025-08-06,United States,,Marketplace,False
+11189,2024-08-26,United Kingdom,Consumer,Referral,False
+11190,2023-12-10,Germany,Business,Paid social,False
+11191,2024-06-29,United States,,Email,False
+11192,2024-08-15,Germany,Consumer,Email,False
+11193,2024-03-29,United States,Consumer,Email,False
+11194,2025-11-25,United States,Consumer,Referral,False
+11195,2023-11-18,United States,Consumer,Organic search,False
+11196,2024-07-30,United States,Consumer,Paid social,False
+11197,2023-09-12,Netherlands,Consumer,Organic search,False
+11198,2024-08-22,United States,Consumer,Marketplace,False
+11199,2024-03-20,United States,Consumer,Organic search,False
+11200,2026-01-09,Netherlands,Consumer,Referral,False
+11201,2026-02-07,United States,Consumer,Organic search,False
+11202,2026-01-24,United Kingdom,Consumer,Marketplace,False
+11203,2026-05-21,United States,Consumer,Marketplace,False
+11204,2023-12-20,United States,Consumer,Referral,False
+11205,2024-01-24,Germany,Consumer,Email,False
+11206,2024-07-05,Germany,Consumer,Email,False
+11207,2024-06-23,United Kingdom,Consumer,Marketplace,False
+11208,2023-06-02,United States,Consumer,Organic search,False
+11209,2024-09-28,Germany,Consumer,Organic search,False
+11210,2024-07-27,United Kingdom,Consumer,Organic search,False
+11211,2023-09-20,United States,Business,Organic search,False
+11212,2026-05-16,United States,Consumer,Marketplace,False
+11213,2025-07-06,United States,Consumer,Paid social,False
+11214,2024-05-03,Germany,Business,Organic search,False
+11215,2026-01-27,France,Consumer,Organic search,False
+11216,2024-10-16,United States,Consumer,Referral,False
+11217,2024-02-14,United Kingdom,Consumer,Paid social,False
+11218,2023-09-08,United States,Business,Paid social,False
+11219,2023-07-14,France,Consumer,Organic search,False
+11220,2023-11-18,United States,Consumer,Marketplace,False
+11221,2025-06-06,United States,Consumer,Paid social,False
+11222,2025-06-18,United States,Business,Organic search,False
+11223,2024-06-01,United States,Consumer,Paid social,False
+11224,2023-08-18,United States,Consumer,Email,False
+11225,2025-12-07,United States,Consumer,Organic search,False
+11226,2026-04-30,United States,Business,Paid social,False
+11227,2025-08-26,United States,Consumer,Marketplace,False
+11228,2025-04-14,United States,Consumer,Paid social,False
+11229,2025-08-30,Germany,Consumer,Email,False
+11230,2025-04-14,Ireland,Consumer,Paid social,False
+11231,2024-12-26,France,Consumer,Organic search,False
+11232,2025-06-07,United Kingdom,Consumer,Paid social,False
+11233,2026-01-16,United States,Consumer,Email,False
+11234,2026-05-25,France,Consumer,Organic search,False
+11235,2024-12-01,United Kingdom,Consumer,Organic search,False
+11236,2025-01-19,United States,Consumer,Organic search,False
+11237,2025-07-15,Ireland,Business,Paid social,False
+11238,2024-08-14,Germany,Consumer,Referral,False
+11239,2025-06-09,Germany,Consumer,Referral,False
+11240,2025-10-18,United States,Consumer,Paid social,False
+11241,2025-10-03,United Kingdom,Business,Paid social,False
+11242,2026-03-25,United Kingdom,Consumer,Paid social,False
+11243,2025-06-15,United States,Consumer,Marketplace,False
+11244,2024-06-28,United States,Consumer,Marketplace,False
+11245,2025-07-21,United States,Consumer,Marketplace,False
+11246,2025-09-13,United States,Consumer,Referral,False
+11247,2025-01-15,United States,,Organic search,False
+11248,2023-06-27,United States,Consumer,Email,False
+11249,2024-07-14,Germany,Consumer,Referral,False
+11250,2026-03-01,United States,Consumer,Email,False
+11251,2024-01-04,Netherlands,Consumer,Paid social,False
+11252,2023-09-15,Germany,Consumer,Paid social,False
+11253,2023-07-04,United States,Consumer,Organic search,False
+11254,2023-08-22,Germany,Consumer,Organic search,False
+11255,2024-09-15,United Kingdom,Consumer,Organic search,False
+11256,2025-07-18,United States,Consumer,Organic search,False
+11257,2024-07-08,United Kingdom,,Organic search,False
+11258,2024-07-04,Ireland,Consumer,Email,False
+11259,2024-04-27,United States,Business,Organic search,False
+11260,2025-03-06,United Kingdom,Consumer,Referral,False
+11261,2024-09-04,France,Consumer,Paid social,False
+11262,2023-08-19,United States,Consumer,Marketplace,False
+11263,2025-02-17,United Kingdom,,Email,False
+11264,2023-06-28,Ireland,Consumer,Email,False
+11265,2024-09-16,United Kingdom,Consumer,Organic search,False
+11266,2024-12-19,United States,Consumer,Referral,False
+11267,2024-04-28,United States,Consumer,Referral,False
+11268,2025-12-05,United States,Consumer,Organic search,False
+11269,2024-06-09,United States,Consumer,Paid social,False
+11270,2025-08-10,United States,Consumer,Referral,False
+11271,2025-01-30,United States,Business,Paid social,False
+11272,2025-05-10,United Kingdom,Consumer,Organic search,False
+11273,2024-12-18,United States,Business,Marketplace,False
+11274,2024-02-15,Ireland,Consumer,Paid social,False
+11275,2024-10-19,Germany,Consumer,Marketplace,False
+11276,2025-08-28,United States,Business,Organic search,False
+11277,2024-09-24,France,Consumer,Paid social,False
+11278,2026-01-04,United States,Consumer,Email,False
+11279,2025-06-08,United States,Consumer,Email,False
+11280,2023-08-05,Germany,Business,Referral,False
+11281,2024-09-12,Ireland,Consumer,Marketplace,False
+11282,2025-01-19,United States,Consumer,Email,False
+11283,2025-10-07,United States,Consumer,Organic search,False
+11284,2024-10-27,United States,Consumer,Referral,False
+11285,2026-01-05,France,Consumer,Organic search,False
+11286,2025-08-05,France,Consumer,Referral,False
+11287,2024-08-21,United Kingdom,Consumer,Marketplace,False
+11288,2026-02-04,United States,Consumer,Organic search,False
+11289,2024-03-07,Netherlands,Consumer,Marketplace,False
+11290,2024-03-05,Netherlands,Consumer,Email,False
+11291,2024-07-05,United States,Consumer,Referral,False
+11292,2024-07-27,United Kingdom,Consumer,Marketplace,False
+11293,2026-02-14,United States,Consumer,Organic search,False
+11294,2023-07-04,United Kingdom,Business,Organic search,False
+11295,2024-01-31,France,Consumer,Organic search,False
+11296,2025-08-13,Germany,Consumer,Paid social,False
+11297,2025-07-05,France,Consumer,Paid social,False
+11298,2026-01-14,United States,Consumer,Referral,False
+11299,2024-01-25,United Kingdom,Consumer,Paid social,False
+11300,2025-03-31,Netherlands,Consumer,Email,False
+11301,2024-11-14,United States,Consumer,Paid social,False
+11302,2025-10-26,United States,Consumer,Referral,False
+11303,2023-06-30,United States,Consumer,Organic search,False
+11304,2024-06-19,United Kingdom,Consumer,Organic search,False
+11305,2025-05-18,United States,Consumer,Marketplace,False
+11306,2023-09-03,United States,Consumer,Referral,False
+11307,2026-01-31,United States,Consumer,Paid social,False
+11308,2026-01-12,United Kingdom,Consumer,Referral,False
+11309,2026-01-17,United States,Consumer,Paid social,False
+11310,2024-12-22,United States,Consumer,Referral,False
+11311,2025-03-03,Netherlands,Consumer,Organic search,False
+11312,2024-04-09,France,Consumer,Email,False
+11313,2025-09-23,Netherlands,Consumer,Organic search,False
+11314,2023-10-22,United States,Consumer,Organic search,False
+11315,2023-06-30,United States,Consumer,Referral,False
+11316,2025-11-04,France,Consumer,Organic search,False
+11317,2024-02-16,United States,Consumer,Marketplace,False
+11318,2026-03-31,United States,Consumer,Paid social,False
+11319,2024-09-11,United States,Consumer,Email,False
+11320,2024-07-08,United States,Consumer,Paid social,False
+11321,2025-08-01,United States,Consumer,Organic search,False
+11322,2025-07-22,United States,Consumer,Referral,False
+11323,2024-06-15,United States,Business,Organic search,False
+11324,2023-11-22,United States,Consumer,Email,False
+11325,2023-08-24,France,Consumer,Marketplace,False
+11326,2023-12-06,United States,Consumer,Marketplace,False
+11327,2024-09-21,Netherlands,,Organic search,False
+11328,2025-06-09,United States,Consumer,Organic search,False
+11329,2025-07-02,United States,Consumer,Email,False
+11330,2024-01-21,United States,Consumer,Marketplace,False
+11331,2025-10-25,United Kingdom,Consumer,Referral,False
+11332,2023-07-14,United States,Business,Marketplace,False
+11333,2024-08-30,United States,,Email,False
+11334,2023-08-29,United States,Consumer,Organic search,False
+11335,2024-06-04,United States,Consumer,Paid social,False
+11336,2023-07-31,Germany,Business,Paid social,False
+11337,2023-09-25,United States,Consumer,Organic search,False
+11338,2025-08-17,United States,Consumer,Referral,False
+11339,2025-04-11,United Kingdom,Business,Email,False
+11340,2025-06-06,United Kingdom,Consumer,Paid social,False
+11341,2024-08-26,United Kingdom,Consumer,Marketplace,False
+11342,2024-08-18,United States,Consumer,Referral,False
+11343,2024-07-12,United States,Consumer,Organic search,False
+11344,2024-09-29,United Kingdom,Consumer,Organic search,False
+11345,2025-03-13,United States,Consumer,Paid social,False
+11346,2024-03-02,United States,Consumer,Email,False
+11347,2025-05-19,United States,Consumer,Paid social,False
+11348,2023-10-09,Germany,Consumer,Marketplace,False
+11349,2024-02-22,Germany,Consumer,Email,False
+11350,2024-01-12,United States,Business,Paid social,False
+11351,2026-03-29,United States,Consumer,Organic search,False
+11352,2025-03-11,United Kingdom,Consumer,Paid social,False
+11353,2023-10-18,Germany,Consumer,Paid social,False
+11354,2026-03-02,United States,Consumer,Email,False
+11355,2023-11-29,United Kingdom,Consumer,Organic search,False
+11356,2024-04-30,Germany,,Paid social,False
+11357,2025-01-09,United States,Consumer,Referral,False
+11358,2026-04-10,United Kingdom,Consumer,Organic search,False
+11359,2025-03-16,United States,Consumer,Marketplace,False
+11360,2024-05-23,United Kingdom,Consumer,Organic search,False
+11361,2025-10-29,United Kingdom,Consumer,Marketplace,False
+11362,2023-07-24,United Kingdom,Consumer,Paid social,False
+11363,2025-05-08,United Kingdom,Consumer,Referral,False
+11364,2025-05-16,Germany,Consumer,Referral,False
+11365,2024-09-22,Germany,Business,Paid social,False
+11366,2026-01-04,United States,Consumer,Organic search,False
+11367,2026-05-08,Netherlands,Consumer,Paid social,False
+11368,2023-08-23,United States,Consumer,Marketplace,False
+11369,2024-07-21,United States,Consumer,Organic search,False
+11370,2023-06-18,United States,Consumer,Referral,False
+11371,2024-09-13,United States,Business,Organic search,False
+11372,2026-05-31,France,Consumer,Organic search,False
+11373,2025-04-11,United States,Consumer,Organic search,False
+11374,2024-03-11,Germany,Consumer,Paid social,False
+11375,2024-01-19,United Kingdom,Consumer,Organic search,False
+11376,2025-11-19,Germany,Consumer,Organic search,False
+11377,2025-06-29,Germany,Business,Paid social,False
+11378,2024-12-15,France,Consumer,Marketplace,False
+11379,2025-11-26,United States,Consumer,Organic search,False
+11380,2026-04-16,United States,Consumer,Paid social,False
+11381,2024-02-13,United Kingdom,Consumer,Organic search,False
+11382,2025-04-20,United States,Consumer,Marketplace,False
+11383,2024-08-31,United States,Business,Referral,False
+11384,2026-03-29,Ireland,Consumer,Marketplace,False
+11385,2025-10-02,United States,Consumer,Organic search,False
+11386,2025-11-23,United Kingdom,Consumer,Marketplace,False
+11387,2024-07-21,United States,Consumer,Referral,False
+11388,2023-10-20,United States,Business,Organic search,False
+11389,2023-10-29,United States,Consumer,Referral,False
+11390,2025-01-26,United States,Consumer,Marketplace,False
+11391,2024-11-01,France,Consumer,Email,False
+11392,2026-02-19,United Kingdom,Business,Email,False
+11393,2026-05-23,United States,Consumer,Referral,False
+11394,2025-06-07,United States,Consumer,Marketplace,False
+11395,2025-05-17,Germany,Consumer,Organic search,False
+11396,2024-04-26,United Kingdom,Consumer,Organic search,False
+11397,2025-03-20,United Kingdom,Consumer,Email,False
+11398,2024-10-30,United States,Consumer,Organic search,False
+11399,2025-07-05,United Kingdom,Consumer,Referral,False
+11400,2026-01-07,United States,Consumer,Organic search,False
+11401,2023-09-20,United Kingdom,Consumer,Organic search,False
+11402,2024-10-05,United States,Consumer,Email,False
+11403,2025-02-25,United States,Consumer,Marketplace,False
+11404,2023-09-11,United States,Consumer,Email,False
+11405,2024-12-03,United Kingdom,Consumer,Paid social,False
+11406,2025-08-22,United States,Consumer,Organic search,False
+11407,2025-07-08,United States,Consumer,Organic search,False
+11408,2025-10-28,United States,Consumer,Referral,False
+11409,2024-08-18,United Kingdom,Consumer,Referral,False
+11410,2024-12-07,France,Consumer,Referral,False
+11411,2024-02-05,France,Consumer,Email,False
+11412,2024-04-11,United States,Consumer,Marketplace,False
+11413,2024-10-25,United States,Consumer,Organic search,False
+11414,2024-10-07,Germany,Consumer,Paid social,False
+11415,2024-06-18,France,Consumer,Paid social,False
+11416,2024-10-06,United States,Consumer,Organic search,False
+11417,2026-03-24,France,Consumer,Organic search,False
+11418,2024-04-21,United States,Consumer,Paid social,False
+11419,2025-05-15,United States,Consumer,Referral,False
+11420,2026-01-01,Germany,Consumer,Organic search,False
+11421,2025-03-12,United States,Consumer,Organic search,False
+11422,2025-04-16,United States,Consumer,Email,False
+11423,2023-10-08,United States,Consumer,Paid social,False
+11424,2025-09-10,United Kingdom,Consumer,Marketplace,False
+11425,2024-04-17,Ireland,Business,Email,False
+11426,2026-02-15,United Kingdom,Consumer,Organic search,False
+11427,2025-03-19,United States,Consumer,Organic search,False
+11428,2025-05-13,United States,Consumer,Email,False
+11429,2025-09-15,United States,Consumer,Marketplace,False
+11430,2024-03-06,United States,Consumer,Email,False
+11431,2025-04-25,France,Consumer,Marketplace,False
+11432,2024-07-12,United States,Consumer,Email,False
+11433,2023-12-15,United States,Consumer,Paid social,False
+11434,2026-04-09,United Kingdom,Consumer,Paid social,False
+11435,2024-11-13,United States,Consumer,Paid social,False
+11436,2023-06-02,United States,,Organic search,False
+11437,2024-12-17,United States,Consumer,Paid social,False
+11438,2023-08-26,United States,Consumer,Paid social,False
+11439,2026-04-05,United States,Consumer,Paid social,False
+11440,2024-07-25,United Kingdom,Business,Organic search,False
+11441,2025-09-29,United States,Business,Organic search,False
+11442,2024-04-22,United States,Consumer,Referral,False
+11443,2026-02-19,United States,,Email,False
+11444,2026-03-05,United States,Business,Organic search,False
+11445,2023-12-06,France,Consumer,Referral,False
+11446,2025-10-07,France,Consumer,Referral,False
+11447,2024-12-04,United Kingdom,Consumer,Paid social,False
+11448,2023-07-09,United States,Business,Paid social,False
+11449,2024-02-18,United States,Consumer,Organic search,False
+11450,2024-12-29,United States,Consumer,Paid social,False
+11451,2026-01-03,United States,,Organic search,False
+11452,2024-07-19,Germany,Consumer,Email,False
+11453,2024-12-15,United States,Consumer,Organic search,False
+11454,2025-12-02,France,Consumer,Organic search,False
+11455,2023-08-21,United States,Consumer,Marketplace,False
+11456,2024-02-20,Ireland,Consumer,Organic search,False
+11457,2023-11-13,United Kingdom,Consumer,Marketplace,False
+11458,2024-09-17,United States,Consumer,Email,False
+11459,2024-07-20,United States,Consumer,Organic search,False
+11460,2025-03-08,United States,,Paid social,False
+11461,2023-07-23,United States,Business,Marketplace,False
+11462,2023-10-01,Germany,Consumer,Marketplace,False
+11463,2024-12-09,United Kingdom,Consumer,Marketplace,False
+11464,2025-12-17,United Kingdom,Consumer,Organic search,False
+11465,2025-02-15,United States,Consumer,Organic search,False
+11466,2024-09-05,United States,Consumer,Organic search,False
+11467,2024-01-10,United States,Consumer,Marketplace,False
+11468,2025-01-05,France,Consumer,Marketplace,False
+11469,2024-11-22,United States,Consumer,Organic search,False
+11470,2023-10-04,United Kingdom,Consumer,Paid social,False
+11471,2024-01-31,United States,Consumer,Referral,False
+11472,2025-01-11,United States,Consumer,Marketplace,False
+11473,2025-01-22,United States,Consumer,Organic search,False
+11474,2023-06-29,Germany,Consumer,Paid social,False
+11475,2025-10-17,France,Consumer,Organic search,False
+11476,2026-02-07,United States,Consumer,Email,False
+11477,2026-03-29,United States,Consumer,Organic search,False
+11478,2026-02-14,Ireland,Consumer,Organic search,False
+11479,2023-07-31,United States,Business,Referral,False
+11480,2024-12-22,United States,Business,Organic search,False
+11481,2025-08-05,United States,Consumer,Referral,False
+11482,2023-09-24,United Kingdom,Consumer,Paid social,False
+11483,2025-05-02,United States,Business,Paid social,False
+11484,2024-01-24,France,Consumer,Marketplace,False
+11485,2025-09-18,Germany,Consumer,Organic search,False
+11486,2025-11-06,United Kingdom,Consumer,Organic search,False
+11487,2023-11-11,United States,Consumer,Paid social,False
+11488,2025-03-23,Germany,Consumer,Marketplace,False
+11489,2024-06-05,United States,Consumer,Referral,False
+11490,2023-06-26,United Kingdom,Business,Organic search,False
+11491,2025-06-02,United States,Consumer,Organic search,False
+11492,2024-03-23,France,Consumer,Organic search,False
+11493,2023-11-22,United States,Consumer,Organic search,False
+11494,2026-05-01,United States,Business,Referral,False
+11495,2025-06-11,Ireland,Consumer,Organic search,False
+11496,2024-08-03,United States,Consumer,Email,False
+11497,2023-06-16,Germany,Business,Marketplace,False
+11498,2023-07-05,United States,Business,Paid social,False
+11499,2024-07-21,United States,Consumer,Email,False
+11500,2023-07-10,Germany,Consumer,Paid social,False
+11501,2024-11-09,United Kingdom,Consumer,Organic search,False
+11502,2023-11-19,Ireland,Consumer,Referral,False
+11503,2024-08-07,United States,Business,Referral,False
+11504,2025-07-11,United States,Consumer,Paid social,False
+11505,2024-01-04,United States,Consumer,Paid social,False
+11506,2024-06-21,Germany,Business,Paid social,False
+11507,2025-06-12,United States,Consumer,Referral,False
+11508,2025-09-14,United States,Consumer,Paid social,False
+11509,2023-09-25,United States,Consumer,Paid social,False
+11510,2023-08-23,United States,Business,Paid social,False
+11511,2025-10-12,United States,Consumer,Email,False
+11512,2024-02-14,United States,Consumer,Referral,False
+11513,2025-07-05,United States,Consumer,Organic search,False
+11514,2024-08-09,United States,Business,Marketplace,False
+11515,2026-03-09,United States,Consumer,Marketplace,False
+11516,2024-12-02,United States,Consumer,Referral,False
+11517,2024-03-07,United States,Consumer,Paid social,False
+11518,2023-07-11,United States,Consumer,Paid social,False
+11519,2024-08-12,United States,Consumer,Paid social,False
+11520,2025-10-07,United States,Consumer,Email,False
+11521,2024-10-29,Germany,Consumer,Referral,False
+11522,2024-12-15,United States,Business,Paid social,False
+11523,2025-10-04,United States,Consumer,Email,False
+11524,2025-05-27,United States,Consumer,Paid social,False
+11525,2025-12-26,Germany,Consumer,Organic search,False
+11526,2026-02-15,Ireland,Business,Organic search,False
+11527,2023-12-08,Germany,Consumer,Referral,False
+11528,2025-04-04,Ireland,Consumer,Paid social,False
+11529,2024-12-09,United Kingdom,Consumer,Paid social,False
+11530,2024-08-18,Netherlands,Consumer,Organic search,False
+11531,2023-07-26,United States,Consumer,Email,False
+11532,2023-12-11,United States,Consumer,Organic search,False
+11533,2025-09-20,Germany,Consumer,Email,False
+11534,2025-03-07,Germany,Consumer,Referral,False
+11535,2025-06-03,United States,Consumer,Organic search,False
+11536,2024-05-27,United States,Consumer,Organic search,False
+11537,2024-08-14,United States,Consumer,Organic search,False
+11538,2025-09-26,United States,Consumer,Paid social,False
+11539,2026-04-20,United States,Consumer,Marketplace,False
+11540,2024-01-25,United Kingdom,Business,Organic search,False
+11541,2025-05-09,Germany,Consumer,Paid social,False
+11542,2026-02-07,United States,Consumer,Marketplace,False
+11543,2025-03-11,United States,Consumer,Paid social,False
+11544,2023-11-15,Ireland,Consumer,Organic search,False
+11545,2024-11-04,Germany,Consumer,Organic search,False
+11546,2023-09-12,United States,Consumer,Paid social,False
+11547,2025-06-11,United States,Consumer,Paid social,False
+11548,2025-04-09,France,Consumer,Organic search,False
+11549,2024-04-07,United States,,Paid social,False
+11550,2023-07-04,United Kingdom,Business,Organic search,False
+11551,2024-03-25,United States,Consumer,Organic search,False
+11552,2024-01-14,United Kingdom,Consumer,Organic search,False
+11553,2025-08-04,United States,Consumer,Marketplace,False
+11554,2025-11-20,Germany,Consumer,Organic search,False
+11555,2025-07-12,United States,Consumer,Paid social,False
+11556,2023-12-23,United States,Consumer,Paid social,False
+11557,2025-08-13,Germany,Consumer,Referral,False
+11558,2024-05-31,United Kingdom,Consumer,Organic search,False
+11559,2025-01-05,United Kingdom,Consumer,Referral,False
+11560,2025-07-02,United States,Consumer,Paid social,False
+11561,2024-09-18,United States,Consumer,Paid social,False
+11562,2025-01-23,Germany,Consumer,Email,False
+11563,2024-05-15,United States,Consumer,Referral,False
+11564,2025-06-13,Netherlands,Consumer,Organic search,False
+11565,2024-02-24,United States,Consumer,Paid social,False
+11566,2025-10-08,United States,Consumer,Organic search,False
+11567,2026-04-19,United States,Consumer,Organic search,False
+11568,2025-05-24,Germany,Consumer,Organic search,False
+11569,2025-10-02,United States,Consumer,Organic search,False
+11570,2026-03-29,Germany,Consumer,Marketplace,False
+11571,2026-02-15,United States,Consumer,Paid social,False
+11572,2025-08-31,United States,Consumer,Organic search,False
+11573,2023-07-19,Germany,Consumer,Organic search,False
+11574,2024-04-25,United States,Consumer,Paid social,False
+11575,2023-09-28,Ireland,Consumer,Email,False
+11576,2025-06-07,United States,Consumer,Referral,False
+11577,2023-06-12,United States,Consumer,Paid social,False
+11578,2026-02-05,United States,Consumer,Referral,False
+11579,2023-10-25,United Kingdom,Business,Organic search,False
+11580,2025-02-20,France,Consumer,Email,False
+11581,2024-08-23,United Kingdom,Consumer,Marketplace,False
+11582,2023-10-03,United States,Consumer,Organic search,False
+11583,2023-10-07,Germany,,Referral,False
+11584,2026-03-30,France,Consumer,Paid social,False
+11585,2025-08-09,United States,Consumer,Email,False
+11586,2025-03-26,United States,Consumer,Organic search,False
+11587,2023-06-15,United States,Consumer,Referral,False
+11588,2025-12-23,United States,Business,Paid social,False
+11589,2026-05-24,United Kingdom,Consumer,Paid social,False
+11590,2025-05-17,Netherlands,Consumer,Email,False
+11591,2023-12-16,United States,Consumer,Paid social,False
+11592,2025-09-23,United Kingdom,Consumer,Email,False
+11593,2025-05-16,Netherlands,Consumer,Marketplace,False
+11594,2023-10-16,Germany,Business,Organic search,False
+11595,2023-11-20,Netherlands,Consumer,Referral,False
+11596,2023-09-02,United Kingdom,Business,Referral,False
+11597,2024-05-27,United States,Consumer,Referral,False
+11598,2023-11-07,United States,Consumer,Paid social,False
+11599,2025-09-19,Netherlands,Consumer,Organic search,False
+11600,2025-12-12,United Kingdom,Consumer,Organic search,False
+11601,2025-11-06,United States,,Email,False
+11602,2025-09-16,United States,Consumer,Referral,False
+11603,2023-11-19,United Kingdom,Consumer,Organic search,False
+11604,2024-02-10,United States,Consumer,Paid social,False
+11605,2023-12-30,Germany,Consumer,Email,False
+11606,2026-02-27,France,Consumer,Marketplace,False
+11607,2023-09-26,Netherlands,Consumer,Organic search,False
+11608,2023-07-03,Ireland,Consumer,Organic search,False
+11609,2025-02-19,United States,Business,Organic search,False
+11610,2025-03-30,Germany,Consumer,Email,False
+11611,2025-12-09,United States,Consumer,Referral,False
+11612,2024-09-23,United Kingdom,Consumer,Organic search,False
+11613,2024-07-07,United Kingdom,Consumer,Organic search,False
+11614,2025-11-18,United States,Consumer,Organic search,False
+11615,2025-05-06,United States,Consumer,Email,False
+11616,2025-07-13,United Kingdom,Business,Paid social,False
+11617,2024-03-24,United Kingdom,Consumer,Organic search,False
+11618,2024-01-08,Germany,Consumer,Marketplace,False
+11619,2025-07-12,United Kingdom,Business,Referral,False
+11620,2024-07-03,United States,Consumer,Paid social,False
+11621,2024-11-18,France,Business,Email,False
+11622,2024-08-31,Germany,Consumer,Organic search,False
+11623,2025-11-05,United States,Consumer,Organic search,False
+11624,2025-09-02,United States,Consumer,Email,False
+11625,2024-12-25,United States,Business,Organic search,False
+11626,2024-03-05,France,Consumer,Email,False
+11627,2025-06-25,United States,Consumer,Email,False
+11628,2023-09-09,France,Consumer,Organic search,False
+11629,2024-01-10,Germany,Consumer,Email,False
+11630,2024-05-30,Germany,Consumer,Referral,False
+11631,2026-04-10,United States,Business,Email,False
+11632,2024-11-06,United States,Consumer,Organic search,False
+11633,2023-09-22,United Kingdom,Consumer,Organic search,False
+11634,2025-04-09,United Kingdom,Business,Organic search,False
+11635,2024-03-08,Germany,Business,Paid social,False
+11636,2025-11-18,United States,Business,Referral,False
+11637,2024-03-17,United States,Consumer,Referral,False
+11638,2026-01-26,United States,Consumer,Referral,False
+11639,2023-07-01,United Kingdom,Consumer,Organic search,False
+11640,2024-11-27,United States,Business,Organic search,False
+11641,2025-07-10,Germany,Consumer,Paid social,False
+11642,2025-02-25,United States,Consumer,Organic search,False
+11643,2026-05-24,United States,Consumer,Organic search,False
+11644,2024-01-28,Netherlands,Consumer,Paid social,False
+11645,2025-02-23,United Kingdom,Consumer,Organic search,False
+11646,2024-02-02,United States,Consumer,Paid social,False
+11647,2025-05-08,United Kingdom,Consumer,Organic search,False
+11648,2025-01-27,United States,Consumer,Organic search,False
+11649,2023-12-21,United States,Business,Paid social,False
+11650,2026-02-05,United States,Consumer,Paid social,False
+11651,2024-03-01,United Kingdom,Consumer,Paid social,False
+11652,2024-05-13,United States,Consumer,Referral,False
+11653,2024-07-23,United States,Consumer,Marketplace,False
+11654,2025-03-18,United States,Business,Paid social,False
+11655,2023-11-05,United Kingdom,Consumer,Organic search,False
+11656,2024-06-30,United States,Consumer,Organic search,False
+11657,2024-09-22,United States,Consumer,Email,False
+11658,2023-07-27,United Kingdom,Consumer,Marketplace,False
+11659,2023-11-06,United States,Consumer,Referral,False
+11660,2025-09-14,United States,Business,Paid social,False
+11661,2025-09-24,United States,Business,Organic search,False
+11662,2025-03-21,United States,Consumer,Paid social,False
+11663,2023-12-01,United States,Business,Organic search,False
+11664,2024-10-25,United States,Consumer,Email,False
+11665,2025-07-04,Netherlands,Consumer,Organic search,False
+11666,2023-09-12,United States,Consumer,Organic search,False
+11667,2025-07-28,France,Consumer,Organic search,False
+11668,2024-11-29,United States,Business,Marketplace,False
+11669,2025-07-12,United States,Consumer,Marketplace,False
+11670,2023-11-16,United States,Consumer,Email,False
+11671,2025-05-22,United States,Consumer,Organic search,False
+11672,2023-11-25,United States,Consumer,Organic search,False
+11673,2024-02-22,United States,Consumer,Email,False
+11674,2023-10-20,United States,Consumer,Marketplace,False
+11675,2024-03-17,United States,Consumer,Organic search,False
+11676,2025-05-06,United States,Consumer,Referral,False
+11677,2025-01-12,United Kingdom,Consumer,Organic search,False
+11678,2025-12-20,United States,,Organic search,False
+11679,2025-12-05,United States,Consumer,Email,False
+11680,2026-02-27,United States,Consumer,Organic search,False
+11681,2024-11-23,United Kingdom,Business,Paid social,False
+11682,2025-12-25,United States,Consumer,Marketplace,False
+11683,2023-12-16,United States,Consumer,Paid social,False
+11684,2025-06-03,United States,Consumer,Organic search,False
+11685,2023-08-18,United States,Consumer,Referral,False
+11686,2025-01-01,United States,Consumer,Paid social,False
+11687,2025-10-01,United Kingdom,Consumer,Organic search,False
+11688,2023-07-25,Germany,Consumer,Paid social,False
+11689,2025-04-06,United States,Consumer,Marketplace,False
+11690,2025-07-19,United States,Consumer,Paid social,False
+11691,2025-05-19,Netherlands,Consumer,Referral,False
+11692,2026-04-03,United States,Consumer,Organic search,False
+11693,2024-12-29,United States,Business,Organic search,False
+11694,2025-10-27,Germany,Business,Organic search,False
+11695,2025-07-06,United States,Business,Email,False
+11696,2025-03-07,United States,Consumer,Marketplace,False
+11697,2026-04-24,United States,Consumer,Organic search,False
+11698,2025-11-22,United States,Consumer,Organic search,False
+11699,2023-06-19,United States,Consumer,Email,False
+11700,2024-08-26,United States,Business,Paid social,False
+11701,2026-03-29,United Kingdom,Consumer,Organic search,False
+11702,2025-02-02,United States,Consumer,Paid social,False
+11703,2024-10-08,Germany,Consumer,Organic search,False
+11704,2023-09-21,Germany,Consumer,Email,False
+11705,2025-12-29,United States,Consumer,Paid social,False
+11706,2025-02-21,United Kingdom,Consumer,Paid social,False
+11707,2025-03-05,United States,Consumer,Organic search,False
+11708,2023-06-17,United States,Consumer,Paid social,False
+11709,2024-06-03,United Kingdom,Consumer,Organic search,False
+11710,2025-08-09,Germany,Business,Organic search,False
+11711,2023-10-24,United Kingdom,Consumer,Paid social,False
+11712,2026-02-28,United States,,Paid social,False
+11713,2024-04-07,United States,Consumer,Paid social,False
+11714,2025-04-23,United States,Consumer,Referral,False
+11715,2024-05-11,United States,Consumer,Paid social,False
+11716,2023-08-15,United Kingdom,Consumer,Email,False
+11717,2024-04-06,France,Consumer,Paid social,False
+11718,2024-08-16,Germany,Consumer,Organic search,False
+11719,2026-03-24,United States,Consumer,Paid social,False
+11720,2023-08-09,United States,Consumer,Email,False
+11721,2024-05-29,United States,Business,Paid social,False
+11722,2025-02-25,United States,Consumer,Marketplace,False
+11723,2025-03-23,Germany,Consumer,Organic search,False
+11724,2025-02-03,Germany,Consumer,Organic search,False
+11725,2024-12-21,United States,Consumer,Paid social,False
+11726,2023-07-19,United States,Consumer,Organic search,False
+11727,2026-03-02,Netherlands,Consumer,Paid social,False
+11728,2024-08-06,United States,Consumer,Marketplace,False
+11729,2023-10-07,United Kingdom,,Organic search,False
+11730,2026-04-23,United States,Consumer,Marketplace,False
+11731,2025-12-10,Germany,Consumer,Paid social,False
+11732,2026-03-27,United States,Consumer,Paid social,False
+11733,2023-12-31,United States,,Marketplace,False
+11734,2023-11-10,Netherlands,Consumer,Organic search,False
+11735,2024-11-27,Netherlands,Business,Organic search,False
+11736,2025-12-14,United Kingdom,Consumer,Marketplace,False
+11737,2024-10-28,United States,Consumer,Referral,False
+11738,2024-02-26,France,Consumer,Paid social,False
+11739,2026-05-29,United States,Consumer,Organic search,False
+11740,2024-09-04,United Kingdom,Consumer,Paid social,False
+11741,2025-07-28,United States,Consumer,Organic search,False
+11742,2026-05-31,United States,Consumer,Organic search,False
+11743,2026-05-29,United Kingdom,Consumer,Paid social,False
+11744,2025-08-03,United States,Consumer,Marketplace,False
+11745,2025-04-05,United States,Consumer,Organic search,False
+11746,2024-01-20,Netherlands,Consumer,Marketplace,False
+11747,2024-04-20,France,Consumer,Paid social,False
+11748,2024-03-08,United States,Consumer,Referral,False
+11749,2024-05-03,Ireland,Consumer,Paid social,False
+11750,2024-03-29,United States,Consumer,Paid social,False
+11751,2025-05-22,United States,Consumer,Organic search,False
+11752,2024-08-31,United Kingdom,Consumer,Organic search,False
+11753,2026-05-22,United Kingdom,Consumer,Referral,False
+11754,2025-10-05,United States,Consumer,Paid social,False
+11755,2025-10-15,Netherlands,Business,Paid social,False
+11756,2026-01-24,United States,Consumer,Email,False
+11757,2024-11-30,United States,Consumer,Email,False
+11758,2024-03-18,France,Consumer,Organic search,False
+11759,2025-07-20,United Kingdom,Consumer,Organic search,False
+11760,2024-10-29,United States,Consumer,Marketplace,False
+11761,2026-02-10,United Kingdom,Consumer,Email,False
+11762,2024-12-28,United States,Consumer,Organic search,False
+11763,2024-12-31,United States,Consumer,Email,False
+11764,2024-05-17,United States,Consumer,Paid social,False
+11765,2023-12-25,United Kingdom,Consumer,Referral,False
+11766,2024-10-16,United Kingdom,Consumer,Referral,False
+11767,2025-07-22,United States,Consumer,Organic search,False
+11768,2025-10-29,United States,Consumer,Paid social,False
+11769,2023-11-10,United States,,Email,False
+11770,2023-08-27,United States,Consumer,Organic search,False
+11771,2024-12-24,Germany,Consumer,Organic search,False
+11772,2023-07-15,United States,Consumer,Paid social,False
+11773,2024-11-10,United States,Consumer,Referral,False
+11774,2024-07-31,United States,Consumer,Paid social,False
+11775,2024-05-23,United States,Consumer,Paid social,False
+11776,2024-07-10,United States,Consumer,Marketplace,False
+11777,2023-11-18,Ireland,Consumer,Paid social,False
+11778,2026-02-23,United States,Consumer,Paid social,False
+11779,2026-02-11,United States,Consumer,Marketplace,False
+11780,2025-05-12,United States,Consumer,Email,False
+11781,2026-02-25,United States,Business,Referral,False
+11782,2026-05-29,United Kingdom,Consumer,Marketplace,False
+11783,2026-02-25,United States,Business,Marketplace,False
+11784,2024-08-01,Germany,Consumer,Organic search,False
+11785,2025-02-05,United States,Business,Referral,False
+11786,2023-07-09,United Kingdom,Consumer,Paid social,False
+11787,2023-09-01,United Kingdom,Consumer,Marketplace,False
+11788,2025-08-24,United States,Consumer,Paid social,False
+11789,2026-03-31,United Kingdom,Consumer,Email,False
+11790,2025-12-06,United Kingdom,Consumer,Organic search,False
+11791,2023-10-10,France,Consumer,Organic search,False
+11792,2025-03-25,United Kingdom,Business,Marketplace,False
+11793,2026-01-18,United States,Consumer,Organic search,False
+11794,2024-04-28,United States,Consumer,Referral,False
+11795,2024-04-08,United States,Consumer,Organic search,False
+11796,2025-03-17,United Kingdom,Consumer,Organic search,False
+11797,2025-03-30,United States,Consumer,Organic search,False
+11798,2024-09-09,United Kingdom,Consumer,Paid social,False
+11799,2025-11-09,United States,Consumer,Referral,False
+11800,2023-06-18,United States,,Paid social,False
+11801,2026-01-12,United States,Consumer,Email,False
+11802,2024-06-18,France,Consumer,Email,False
+11803,2024-10-28,United States,Consumer,Email,False
+11804,2024-05-28,United Kingdom,Consumer,Referral,False
+11805,2024-10-04,United States,Consumer,Paid social,False
+11806,2025-04-12,United States,Business,Organic search,False
+11807,2023-09-07,United States,Consumer,Referral,False
+11808,2025-04-29,United States,Consumer,Organic search,False
+11809,2025-12-15,United States,Business,Organic search,False
+11810,2025-01-19,United States,Business,Organic search,False
+11811,2024-03-10,United States,Consumer,Organic search,False
+11812,2024-05-07,United Kingdom,Consumer,Marketplace,False
+11813,2024-02-15,United States,Consumer,Paid social,False
+11814,2025-01-10,Germany,Consumer,Paid social,False
+11815,2024-09-09,United States,Consumer,Email,False
+11816,2023-09-18,Germany,Consumer,Organic search,False
+11817,2023-06-22,United States,Consumer,Email,False
+11818,2025-04-10,France,,Organic search,False
+11819,2025-02-07,United States,Consumer,Paid social,False
+11820,2024-03-18,United States,Consumer,Organic search,False
+11821,2024-12-24,United States,Consumer,Marketplace,False
+11822,2025-11-24,United States,Business,Organic search,False
+11823,2023-10-03,United States,Consumer,Paid social,False
+11824,2024-11-23,Germany,Consumer,Organic search,False
+11825,2026-04-24,United States,Consumer,Email,False
+11826,2024-01-13,United States,Business,Paid social,False
+11827,2023-10-26,United Kingdom,Business,Paid social,False
+11828,2025-11-19,United States,Consumer,Email,False
+11829,2025-06-18,Germany,Consumer,Referral,False
+11830,2023-08-19,United States,,Referral,False
+11831,2025-12-28,United Kingdom,Consumer,Email,False
+11832,2026-02-17,United States,Consumer,Marketplace,False
+11833,2025-03-04,United States,Consumer,Organic search,False
+11834,2025-10-17,United Kingdom,Consumer,Paid social,False
+11835,2025-12-10,United States,Business,Marketplace,False
+11836,2024-12-28,France,Consumer,Paid social,False
+11837,2023-08-02,United States,Consumer,Organic search,False
+11838,2024-05-24,United States,Consumer,Referral,False
+11839,2025-06-13,United States,Consumer,Email,False
+11840,2024-07-16,United Kingdom,Consumer,Referral,False
+11841,2025-02-18,United States,Consumer,Organic search,False
+11842,2024-08-03,United States,Consumer,Organic search,False
+11843,2025-12-26,United States,Consumer,Organic search,False
+11844,2024-03-06,United States,Consumer,Paid social,False
+11845,2024-06-07,United States,Consumer,Organic search,False
+11846,2024-06-13,United States,Consumer,Organic search,False
+11847,2024-07-31,United States,Consumer,Organic search,False
+11848,2026-05-04,United States,Consumer,Organic search,False
+11849,2023-07-02,United States,Consumer,Marketplace,False
+11850,2025-07-10,United Kingdom,Business,Referral,False
+11851,2023-12-07,Germany,Consumer,Email,False
+11852,2025-07-29,Germany,Business,Paid social,False
+11853,2025-06-05,Ireland,Consumer,Referral,False
+11854,2025-04-23,United Kingdom,Consumer,Organic search,False
+11855,2024-08-12,United States,Consumer,Organic search,False
+11856,2026-01-25,United States,Business,Organic search,False
+11857,2026-05-12,Netherlands,Consumer,Email,False
+11858,2023-07-21,United States,Consumer,Paid social,False
+11859,2023-08-05,France,Consumer,Organic search,False
+11860,2025-05-22,United States,Consumer,Marketplace,False
+11861,2025-10-22,Netherlands,Consumer,Paid social,False
+11862,2024-05-24,United Kingdom,Consumer,Marketplace,False
+11863,2026-04-21,United States,Consumer,Paid social,False
+11864,2024-03-22,United States,Business,Marketplace,False
+11865,2023-07-19,United States,Consumer,Referral,False
+11866,2023-11-18,United States,Consumer,Email,False
+11867,2023-08-24,United States,Consumer,Marketplace,False
+11868,2025-06-04,United States,Consumer,Referral,False
+11869,2023-12-07,United Kingdom,Consumer,Paid social,False
+11870,2025-04-06,France,Consumer,Referral,False
+11871,2024-07-06,United States,Consumer,Organic search,False
+11872,2023-11-28,United States,Business,Referral,False
+11873,2025-06-10,Germany,Consumer,Email,False
+11874,2023-12-23,United States,Business,Organic search,False
+11875,2024-04-05,United States,Business,Organic search,False
+11876,2023-08-13,United States,Consumer,Paid social,False
+11877,2024-08-02,United States,Consumer,Organic search,False
+11878,2024-11-01,United States,Consumer,Organic search,False
+11879,2025-03-13,United States,Consumer,Organic search,False
+11880,2023-07-28,France,Consumer,Organic search,False
+11881,2025-07-27,Germany,Consumer,Paid social,False
+11882,2024-08-15,United Kingdom,Consumer,Organic search,False
+11883,2023-08-25,United States,Consumer,Organic search,False
+11884,2024-05-29,Germany,Consumer,Organic search,False
+11885,2025-10-25,United States,Consumer,Marketplace,False
+11886,2023-11-19,Netherlands,Consumer,Paid social,False
+11887,2024-07-28,France,Business,Email,False
+11888,2025-06-23,Germany,Consumer,Organic search,False
+11889,2024-03-12,Germany,Consumer,Email,False
+11890,2025-02-01,United States,Business,Email,False
+11891,2026-05-14,Ireland,Consumer,Organic search,False
+11892,2025-10-06,United States,Consumer,Paid social,False
+11893,2025-09-24,United States,Consumer,Organic search,False
+11894,2024-08-14,United States,Consumer,Organic search,False
+11895,2024-02-16,United States,Consumer,Referral,False
+11896,2024-09-05,United States,Consumer,Organic search,False
+11897,2025-01-25,United States,Consumer,Organic search,False
+11898,2024-07-02,United States,Consumer,Marketplace,False
+11899,2025-01-28,United States,Consumer,Marketplace,False
+11900,2025-01-27,United States,Consumer,Organic search,False
+11901,2023-08-12,United Kingdom,Consumer,Organic search,False
+11902,2025-08-18,United States,Consumer,Organic search,False
+11903,2023-09-09,United States,Business,Email,False
+11904,2026-02-27,United States,Consumer,Organic search,False
+11905,2025-08-26,United Kingdom,Consumer,Organic search,False
+11906,2025-12-20,United States,Business,Paid social,False
+11907,2026-04-01,United States,Consumer,Referral,False
+11908,2025-09-01,United States,Consumer,Paid social,False
+11909,2024-12-10,Germany,Consumer,Referral,False
+11910,2024-09-30,United Kingdom,Consumer,Organic search,False
+11911,2025-04-23,France,Consumer,Email,False
+11912,2026-05-22,Germany,Consumer,Email,False
+11913,2026-04-14,United States,Consumer,Organic search,False
+11914,2025-01-20,United States,Consumer,Organic search,False
+11915,2026-02-11,United States,Consumer,Paid social,False
+11916,2024-05-30,United States,Consumer,Organic search,False
+11917,2025-04-30,United States,Consumer,Organic search,False
+11918,2023-06-17,United States,Consumer,Paid social,False
+11919,2023-08-09,United Kingdom,Consumer,Paid social,False
+11920,2024-07-13,United States,,Referral,False
+11921,2023-10-17,Germany,Consumer,Paid social,False
+11922,2024-12-27,United States,Consumer,Referral,False
+11923,2024-10-30,United Kingdom,Consumer,Organic search,False
+11924,2023-07-03,United States,Consumer,Referral,False
+11925,2025-11-04,United States,Consumer,Referral,False
+11926,2026-02-19,Ireland,Consumer,Referral,False
+11927,2024-06-01,United Kingdom,Consumer,Marketplace,False
+11928,2023-06-12,United Kingdom,Consumer,Email,False
+11929,2025-07-05,United States,Consumer,Organic search,False
+11930,2024-04-09,United States,Consumer,Referral,False
+11931,2025-09-08,United Kingdom,Consumer,Organic search,False
+11932,2023-06-17,United Kingdom,Consumer,Email,False
+11933,2024-10-19,United Kingdom,Business,Marketplace,False
+11934,2025-10-17,United States,Consumer,Paid social,False
+11935,2024-10-08,United States,Consumer,Organic search,False
+11936,2025-02-15,Germany,Business,Organic search,False
+11937,2023-08-28,Germany,Consumer,Organic search,False
+11938,2024-02-26,United States,Consumer,Email,False
+11939,2024-07-29,Germany,Consumer,Email,False
+11940,2023-12-16,Netherlands,Business,Email,False
+11941,2024-07-12,Germany,Consumer,Paid social,False
+11942,2025-01-05,Germany,Consumer,Paid social,False
+11943,2024-09-25,Germany,Consumer,Organic search,False
+11944,2025-06-13,United States,Consumer,Organic search,False
+11945,2025-04-04,United States,Consumer,Marketplace,False
+11946,2026-01-10,United Kingdom,Consumer,Referral,False
+11947,2025-10-20,United States,Consumer,Organic search,False
+11948,2024-04-12,United Kingdom,Consumer,Paid social,False
+11949,2025-04-19,United States,Consumer,Organic search,False
+11950,2026-02-17,United States,Consumer,Referral,False
+11951,2025-10-28,United States,Consumer,Organic search,False
+11952,2025-06-27,United Kingdom,Consumer,Paid social,False
+11953,2026-05-02,United States,Consumer,Paid social,False
+11954,2024-06-22,United States,Business,Organic search,False
+11955,2023-07-30,United States,Consumer,Referral,False
+11956,2024-03-16,United States,Business,Paid social,False
+11957,2024-03-24,Netherlands,Consumer,Organic search,False
+11958,2025-11-09,France,Consumer,Marketplace,False
+11959,2023-08-18,United Kingdom,Business,Marketplace,False
+11960,2023-07-28,Germany,Consumer,Organic search,False
+11961,2024-11-05,United States,Consumer,Organic search,False
+11962,2024-04-28,France,Consumer,Organic search,False
+11963,2024-02-18,United States,Consumer,Referral,False
+11964,2025-12-16,France,Consumer,Paid social,False
+11965,2026-02-02,United States,Consumer,Referral,False
+11966,2026-01-20,United Kingdom,Consumer,Marketplace,False
+11967,2023-08-03,United States,Consumer,Marketplace,False
+11968,2023-10-16,Ireland,Consumer,Paid social,False
+11969,2023-10-15,United States,Consumer,Marketplace,False
+11970,2025-03-16,United States,Business,Organic search,False
+11971,2023-12-27,United States,Consumer,Organic search,False
+11972,2026-04-12,United States,Consumer,Paid social,False
+11973,2025-04-15,United States,Consumer,Marketplace,False
+11974,2024-07-24,United States,Consumer,Organic search,False
+11975,2026-03-03,United States,Business,Organic search,False
+11976,2024-03-04,United States,Consumer,Marketplace,False
+11977,2023-11-17,United States,Consumer,Organic search,False
+11978,2025-06-16,United States,Consumer,Paid social,False
+11979,2025-07-17,France,Consumer,Organic search,False
+11980,2025-07-24,United States,Consumer,Email,False
+11981,2026-01-11,United Kingdom,Consumer,Paid social,False
+11982,2025-09-12,United States,,Paid social,False
+11983,2024-08-05,United States,Business,Organic search,False
+11984,2026-05-29,United States,Consumer,Organic search,False
+11985,2024-12-07,United States,Consumer,Paid social,False
+11986,2023-07-23,Germany,Consumer,Paid social,False
+11987,2026-03-14,United States,Consumer,Organic search,False
+11988,2026-04-29,United States,Consumer,Paid social,False
+11989,2025-12-29,Germany,Consumer,Paid social,False
+11990,2026-02-11,United States,Consumer,Organic search,False
+11991,2023-11-28,United States,Consumer,Organic search,False
+11992,2024-10-09,United States,Consumer,Organic search,False
+11993,2023-09-21,United States,Business,Referral,False
+11994,2024-07-07,United Kingdom,Consumer,Paid social,False
+11995,2023-09-07,United States,Business,Referral,False
+11996,2025-03-14,United States,Consumer,Paid social,False
+11997,2024-10-16,United Kingdom,Consumer,Organic search,False
+11998,2026-05-15,United States,Consumer,Organic search,False
+11999,2024-07-23,United States,Business,Referral,False
+12000,2025-06-18,Netherlands,Consumer,Organic search,False
+12001,2023-11-28,Germany,Consumer,Paid social,False
+12002,2025-05-31,United States,Consumer,Email,False
+12003,2026-01-04,United States,Consumer,Paid social,False
+12004,2023-07-31,United States,Consumer,Organic search,False
+12005,2025-01-06,United States,Business,Referral,False
+12006,2026-01-09,United States,Consumer,Organic search,False
+12007,2026-01-31,Germany,Consumer,Organic search,False
+12008,2024-05-13,United States,Consumer,Referral,False
+12009,2023-06-30,France,Consumer,Paid social,False
+12010,2023-11-03,United States,Consumer,Marketplace,False
+12011,2026-05-29,United States,Consumer,Paid social,False
+12012,2024-06-27,United States,Consumer,Paid social,False
+12013,2024-05-21,United States,,Paid social,False
+12014,2025-05-09,United States,Consumer,Paid social,False
+12015,2026-04-12,United States,Consumer,Paid social,False
+12016,2023-11-25,United States,Consumer,Organic search,False
+12017,2023-09-28,France,,Organic search,False
+12018,2024-05-28,Germany,Consumer,Organic search,False
+12019,2025-04-28,United States,Consumer,Marketplace,False
+12020,2023-12-13,United States,Consumer,Marketplace,False
+12021,2025-12-18,France,Consumer,Organic search,False
+12022,2024-01-14,Germany,Consumer,Marketplace,False
+12023,2023-09-21,United States,,Referral,False
+12024,2024-07-15,United States,Consumer,Email,False
+12025,2025-09-17,United States,Consumer,Referral,False
+12026,2023-12-04,United States,Consumer,Email,False
+12027,2026-04-04,France,Consumer,Organic search,False
+12028,2025-03-06,United States,Consumer,Paid social,False
+12029,2023-09-03,United States,Consumer,Organic search,False
+12030,2026-01-26,United Kingdom,Consumer,Referral,False
+12031,2024-12-20,United States,Consumer,Paid social,False
+12032,2024-11-16,United States,Consumer,Paid social,False
+12033,2025-03-05,United States,Consumer,Referral,False
+12034,2025-06-10,France,Consumer,Organic search,False
+12035,2026-02-15,United States,Consumer,Referral,False
+12036,2024-12-15,Germany,Consumer,Referral,False
+12037,2024-10-15,France,Consumer,Organic search,False
+12038,2024-12-02,United Kingdom,Consumer,Organic search,False
+12039,2024-03-15,United States,Consumer,Email,False
+12040,2025-06-25,United States,Consumer,Paid social,False
+12041,2023-09-01,United States,Consumer,Organic search,False
+12042,2025-02-20,United States,Consumer,Referral,False
+12043,2024-05-16,United States,Consumer,Referral,False
+12044,2025-08-19,United States,Consumer,Referral,False
+12045,2024-10-15,Netherlands,,Organic search,False
+12046,2023-12-31,United States,Consumer,Paid social,False
+12047,2026-04-04,United States,Consumer,Paid social,False
+12048,2023-09-03,United States,Consumer,Paid social,False
+12049,2023-10-07,United States,Consumer,Organic search,False
+12050,2024-03-29,United States,Consumer,Paid social,False
+12051,2026-05-05,Ireland,Consumer,Marketplace,False
+12052,2024-08-15,United Kingdom,Consumer,Referral,False
+12053,2024-01-07,United States,Consumer,Organic search,False
+12054,2024-12-17,United States,Consumer,Referral,False
+12055,2023-07-19,United States,Consumer,Marketplace,False
+12056,2025-06-21,United States,Consumer,Email,False
+12057,2026-04-06,United States,Consumer,Referral,False
+12058,2025-12-29,United States,Business,Paid social,False
+12059,2025-07-04,Germany,Consumer,Referral,False
+12060,2025-04-16,United States,Consumer,Paid social,False
+12061,2025-03-07,France,Consumer,Organic search,False
+12062,2025-04-04,United States,Consumer,Email,False
+12063,2024-03-29,United States,Consumer,Referral,False
+12064,2023-12-20,United States,Consumer,Organic search,False
+12065,2023-12-26,United States,Consumer,Paid social,False
+12066,2024-05-03,United Kingdom,Consumer,Marketplace,False
+12067,2023-10-02,Netherlands,Consumer,Organic search,False
+12068,2024-10-21,United Kingdom,Consumer,Marketplace,False
+12069,2024-11-21,Ireland,Consumer,Email,False
+12070,2026-02-24,United States,,Organic search,False
+12071,2025-02-13,France,Business,Marketplace,False
+12072,2026-01-19,United States,Consumer,Email,False
+12073,2025-03-24,France,Consumer,Organic search,False
+12074,2026-05-17,United States,Consumer,Paid social,False
+12075,2025-03-31,Germany,Consumer,Organic search,False
+12076,2024-02-29,United States,Consumer,Organic search,False
+12077,2024-08-18,United States,Consumer,Referral,False
+12078,2024-07-11,Germany,Consumer,Marketplace,False
+12079,2024-02-08,United States,Business,Paid social,False
+12080,2025-03-01,United States,Consumer,Paid social,False
+12081,2026-05-16,United Kingdom,Consumer,Marketplace,False
+12082,2025-09-24,United States,Consumer,Organic search,False
+12083,2023-08-13,United States,Consumer,Paid social,False
+12084,2026-02-13,United Kingdom,Consumer,Email,False
+12085,2025-09-03,Germany,Business,Organic search,False
+12086,2024-07-18,France,Consumer,Paid social,False
+12087,2025-07-09,France,Consumer,Paid social,False
+12088,2026-02-22,France,Consumer,Organic search,False
+12089,2024-08-21,France,Business,Organic search,False
+12090,2025-08-06,United States,Business,Email,False
+12091,2024-06-22,United States,Consumer,Paid social,False
+12092,2024-09-24,United Kingdom,Consumer,Paid social,False
+12093,2024-08-02,Germany,Business,Referral,False
+12094,2026-03-13,France,Consumer,Paid social,False
+12095,2024-03-13,United States,Consumer,Organic search,False
+12096,2025-09-11,United Kingdom,Consumer,Email,False
+12097,2025-10-28,United States,,Paid social,False
+12098,2024-08-04,United Kingdom,Consumer,Organic search,False
+12099,2026-01-13,United Kingdom,Consumer,Email,False
+12100,2025-05-23,Germany,Consumer,Paid social,False
+12101,2025-10-04,Germany,Consumer,Marketplace,False
+12102,2026-05-23,United States,Consumer,Marketplace,False
+12103,2026-02-09,United States,,Referral,False
+12104,2025-10-30,United States,Consumer,Paid social,False
+12105,2024-06-08,United States,Consumer,Referral,False
+12106,2025-08-29,United States,Consumer,Email,False
+12107,2026-03-30,United States,,Paid social,False
+12108,2023-07-03,United States,Consumer,Referral,False
+12109,2023-08-17,United States,Business,Paid social,False
+12110,2026-03-18,United States,Consumer,Organic search,False
+12111,2023-11-13,Netherlands,Consumer,Marketplace,False
+12112,2023-12-05,United Kingdom,Consumer,Organic search,False
+12113,2026-05-22,United States,Business,Marketplace,False
+12114,2023-06-03,Germany,Consumer,Marketplace,False
+12115,2025-06-25,United States,Consumer,Organic search,False
+12116,2026-01-15,Germany,Consumer,Email,False
+12117,2023-09-09,United States,Consumer,Paid social,False
+12118,2024-01-12,United States,Consumer,Paid social,False
+12119,2026-05-05,United States,Consumer,Organic search,False
+12120,2026-05-30,United States,Consumer,Organic search,False
+12121,2026-02-15,United States,Consumer,Organic search,False
+12122,2025-10-20,France,Business,Organic search,False
+12123,2025-01-27,United States,Business,Paid social,False
+12124,2025-09-13,United States,Business,Paid social,False
+12125,2024-11-21,United Kingdom,Consumer,Email,False
+12126,2023-11-17,United States,Consumer,Paid social,False
+12127,2026-05-31,United States,Consumer,Paid social,False
+12128,2026-05-23,Netherlands,Consumer,Paid social,False
+12129,2024-01-11,United States,Consumer,Organic search,False
+12130,2024-09-21,France,Consumer,Referral,False
+12131,2025-05-11,United Kingdom,Consumer,Organic search,False
+12132,2024-09-16,United States,Consumer,Email,False
+12133,2023-08-04,United States,Consumer,Marketplace,False
+12134,2026-05-13,United Kingdom,Consumer,Paid social,False
+12135,2024-08-02,Germany,Consumer,Organic search,False
+12136,2023-08-31,United States,Consumer,Paid social,False
+12137,2023-09-10,United States,Consumer,Referral,False
+12138,2025-08-17,United States,Consumer,Paid social,False
+12139,2024-10-03,United States,Consumer,Paid social,False
+12140,2024-11-07,United States,Consumer,Paid social,False
+12141,2024-05-27,United Kingdom,Consumer,Email,False
+12142,2024-03-18,United Kingdom,Consumer,Referral,False
+12143,2024-12-23,United Kingdom,Consumer,Paid social,False
+12144,2024-10-31,United States,Business,Referral,False
+12145,2024-07-03,Germany,Consumer,Organic search,False
+12146,2026-04-13,Germany,Consumer,Organic search,False
+12147,2025-07-08,United States,Consumer,Paid social,False
+12148,2025-06-08,United States,Consumer,Organic search,False
+12149,2024-09-09,France,Consumer,Referral,False
+12150,2025-06-28,United States,Consumer,Referral,False
+12151,2025-09-24,United States,Consumer,Paid social,False
+12152,2023-10-02,United States,Consumer,Referral,False
+12153,2025-06-16,Netherlands,Consumer,Marketplace,False
+12154,2025-05-24,United States,Consumer,Organic search,False
+12155,2023-10-24,United States,Consumer,Email,False
+12156,2026-04-28,United States,Business,Paid social,False
+12157,2025-09-02,United States,,Organic search,False
+12158,2024-12-20,United States,Consumer,Referral,False
+12159,2024-03-01,United States,Consumer,Paid social,False
+12160,2025-11-20,Germany,Consumer,Paid social,False
+12161,2024-11-12,United Kingdom,Consumer,Organic search,False
+12162,2024-04-13,Germany,Consumer,Marketplace,False
+12163,2024-12-06,United States,Consumer,Paid social,False
+12164,2023-07-09,United States,Consumer,Marketplace,False
+12165,2024-07-16,Germany,Consumer,Organic search,False
+12166,2023-08-13,United States,Consumer,Paid social,False
+12167,2026-02-07,United States,Consumer,Paid social,False
+12168,2026-04-27,United States,Business,Organic search,False
+12169,2025-01-25,United Kingdom,,Organic search,False
+12170,2023-10-29,United States,Business,Marketplace,False
+12171,2024-02-08,United States,Consumer,Organic search,False
+12172,2023-12-11,Germany,,Referral,False
+12173,2025-02-08,United Kingdom,Consumer,Organic search,False
+12174,2025-07-24,United Kingdom,Consumer,Email,False
+12175,2025-08-20,France,Consumer,Organic search,False
+12176,2026-05-24,United States,Consumer,Referral,False
+12177,2024-02-03,United States,Business,Organic search,False
+12178,2025-09-04,United States,Business,Paid social,False
+12179,2025-01-05,United Kingdom,Consumer,Referral,False
+12180,2025-10-31,United States,Consumer,Organic search,False
+12181,2024-04-22,Germany,Consumer,Organic search,False
+12182,2026-03-13,United Kingdom,Business,Referral,False
+12183,2024-02-08,United States,Consumer,Organic search,False
+12184,2024-11-05,United Kingdom,Consumer,Paid social,False
+12185,2025-03-08,United Kingdom,Consumer,Referral,False
+12186,2025-08-13,United States,Consumer,Organic search,False
+12187,2025-04-20,Germany,Consumer,Referral,False
+12188,2024-02-24,United States,Consumer,Referral,False
+12189,2026-01-29,United Kingdom,Consumer,Email,False
+12190,2023-11-16,United Kingdom,Consumer,Email,False
+12191,2026-04-19,United States,Consumer,Referral,False
+12192,2024-04-16,United States,Consumer,Email,False
+12193,2025-06-01,United States,Business,Organic search,False
+12194,2023-11-18,United Kingdom,Consumer,Paid social,False
+12195,2023-12-02,Germany,Business,Organic search,False
+12196,2025-08-16,United States,Consumer,Organic search,False
+12197,2025-08-13,United States,Consumer,Marketplace,False
+12198,2023-10-04,France,Consumer,Marketplace,False
+12199,2025-06-17,Netherlands,Consumer,Paid social,False
+12200,2026-02-21,Germany,Consumer,Marketplace,False
+12201,2023-09-26,United States,Consumer,Referral,False
+12202,2024-04-30,United States,,Email,False
+12203,2026-01-08,France,Consumer,Referral,False
+12204,2025-10-12,Germany,Business,Paid social,False
+12205,2023-06-19,United States,,Referral,False
+12206,2023-06-10,United States,,Paid social,False
+12207,2023-10-07,United Kingdom,Consumer,Email,False
+12208,2023-07-26,United States,Consumer,Paid social,False
+12209,2026-04-01,United States,Consumer,Paid social,False
+12210,2024-05-11,United Kingdom,Business,Organic search,False
+12211,2023-09-28,United States,Consumer,Paid social,False
+12212,2023-12-30,United States,Consumer,Paid social,False
+12213,2025-01-26,United Kingdom,Consumer,Paid social,False
+12214,2025-10-29,United Kingdom,Consumer,Paid social,False
+12215,2024-02-08,France,Consumer,Organic search,False
+12216,2024-07-17,United States,Business,Paid social,False
+12217,2026-03-05,United Kingdom,Consumer,Organic search,False
+12218,2025-09-28,France,Consumer,Organic search,False
+12219,2025-06-18,United States,Consumer,Organic search,False
+12220,2025-06-07,United States,Business,Referral,False
+12221,2024-07-24,Netherlands,Consumer,Paid social,False
+12222,2024-04-01,United States,Consumer,Organic search,False
+12223,2024-08-28,United States,Consumer,Paid social,False
+12224,2025-12-11,United Kingdom,Consumer,Paid social,False
+12225,2023-07-20,Ireland,Consumer,Email,False
+12226,2025-03-13,United Kingdom,Business,Paid social,False
+12227,2023-10-29,Germany,Consumer,Referral,False
+12228,2025-07-10,United Kingdom,Consumer,Referral,False
+12229,2023-12-31,United States,Business,Organic search,False
+12230,2023-11-21,France,Consumer,Paid social,False
+12231,2024-02-23,United Kingdom,Consumer,Marketplace,False
+12232,2023-11-01,France,Consumer,Organic search,False
+12233,2025-08-12,United States,Consumer,Email,False
+12234,2025-08-26,United Kingdom,Consumer,Email,False
+12235,2025-04-04,United States,Consumer,Referral,False
+12236,2024-03-10,United Kingdom,Consumer,Organic search,False
+12237,2024-10-27,United States,,Paid social,False
+12238,2024-10-02,United States,Consumer,Referral,False
+12239,2025-08-27,Germany,Consumer,Email,False
+12240,2024-05-05,United States,Consumer,Marketplace,False
+12241,2025-12-13,United States,,Paid social,False
+12242,2023-08-11,United States,Consumer,Organic search,False
+12243,2025-04-03,United Kingdom,Consumer,Marketplace,False
+12244,2026-03-27,United States,Business,Organic search,False
+12245,2024-08-03,Germany,Consumer,Organic search,False
+12246,2024-03-03,United States,Consumer,Paid social,False
+12247,2024-05-04,United States,Consumer,Paid social,False
+12248,2024-01-27,United Kingdom,Consumer,Organic search,False
+12249,2024-07-14,United States,Consumer,Paid social,False
+12250,2025-06-17,France,Business,Paid social,False
+12251,2026-05-02,United States,Consumer,Paid social,False
+12252,2024-09-10,United States,Consumer,Organic search,False
+12253,2024-05-14,United Kingdom,Consumer,Paid social,False
+12254,2024-11-01,United States,Consumer,Paid social,False
+12255,2023-10-25,Germany,Consumer,Marketplace,False
+12256,2024-03-06,United States,Consumer,Organic search,False
+12257,2026-01-22,France,Business,Paid social,False
+12258,2024-03-27,Germany,Consumer,Email,False
+12259,2023-12-18,United States,Consumer,Paid social,False
+12260,2024-12-02,Germany,,Email,False
+12261,2025-10-14,United States,Consumer,Referral,False
+12262,2024-04-06,Germany,Business,Referral,False
+12263,2024-10-08,United Kingdom,Consumer,Email,False
+12264,2025-10-28,Germany,Consumer,Referral,False
+12265,2025-03-15,Netherlands,Consumer,Email,False
+12266,2024-10-26,United Kingdom,Business,Organic search,False
+12267,2024-05-13,Germany,Consumer,Organic search,False
+12268,2024-09-02,United States,Consumer,Organic search,False
+12269,2025-10-01,Germany,Consumer,Organic search,False
+12270,2024-06-25,United States,Consumer,Email,False
+12271,2023-09-18,United States,Consumer,Organic search,False
+12272,2025-05-04,United States,Consumer,Paid social,False
+12273,2025-08-21,United States,Consumer,Email,False
+12274,2026-04-07,United Kingdom,Business,Organic search,False
+12275,2024-11-24,United Kingdom,Consumer,Organic search,False
+12276,2026-04-17,Germany,Consumer,Paid social,False
+12277,2023-11-13,United States,Consumer,Organic search,False
+12278,2023-12-01,Germany,,Paid social,False
+12279,2025-05-24,Germany,Consumer,Paid social,False
+12280,2025-10-12,Germany,Consumer,Paid social,False
+12281,2024-06-06,Netherlands,Consumer,Organic search,False
+12282,2024-09-19,United Kingdom,Consumer,Paid social,False
+12283,2023-11-30,Germany,Consumer,Marketplace,False
+12284,2024-11-30,United States,Consumer,Organic search,False
+12285,2025-02-27,France,Consumer,Organic search,False
+12286,2024-07-20,United States,Consumer,Referral,False
+12287,2023-11-06,United States,Consumer,Organic search,False
+12288,2025-05-10,United States,Consumer,Marketplace,False
+12289,2025-03-05,United States,Consumer,Organic search,False
+12290,2025-05-13,United States,Consumer,Paid social,False
+12291,2025-06-12,United States,Consumer,Organic search,False
+12292,2026-02-24,United States,Consumer,Paid social,False
+12293,2025-07-05,United States,Consumer,Email,False
+12294,2024-11-09,Netherlands,Consumer,Organic search,False
+12295,2025-03-09,France,Consumer,Marketplace,False
+12296,2024-12-26,France,Consumer,Email,False
+12297,2025-03-10,France,,Organic search,False
+12298,2024-08-06,United States,Consumer,Paid social,False
+12299,2024-10-15,United States,Business,Marketplace,False
+12300,2026-01-08,United States,Consumer,Paid social,False
+12301,2026-04-08,United States,Consumer,Paid social,False
+12302,2023-11-27,Germany,Consumer,Paid social,False
+12303,2024-05-31,United States,Consumer,Paid social,False
+12304,2023-10-23,United States,Consumer,Organic search,False
+12305,2025-10-13,Germany,Consumer,Paid social,False
+12306,2025-04-22,United States,Consumer,Organic search,False
+12307,2023-08-01,United States,Consumer,Marketplace,False
+12308,2023-09-26,United Kingdom,Consumer,Paid social,False
+12309,2023-06-27,United States,Consumer,Paid social,False
+12310,2024-01-18,United Kingdom,Business,Organic search,False
+12311,2025-02-24,United Kingdom,Consumer,Paid social,False
+12312,2024-02-29,United States,Consumer,Organic search,False
+12313,2023-12-21,United States,Consumer,Organic search,False
+12314,2023-09-07,United States,Consumer,Organic search,False
+12315,2025-11-27,Germany,Consumer,Organic search,False
+12316,2024-08-17,United States,Consumer,Marketplace,False
+12317,2025-02-23,Germany,Consumer,Email,False
+12318,2025-11-28,United States,Consumer,Marketplace,False
+12319,2025-08-24,United States,Consumer,Paid social,False
+12320,2025-12-24,United Kingdom,Consumer,Paid social,False
+12321,2024-11-14,United States,,Paid social,False
+12322,2024-09-22,Ireland,Consumer,Email,False
+12323,2026-04-16,France,Consumer,Referral,False
+12324,2025-05-05,United States,Consumer,Organic search,False
+12325,2023-10-07,United States,Consumer,Referral,False
+12326,2025-12-02,United States,Consumer,Organic search,False
+12327,2026-04-11,United States,Consumer,Marketplace,False
+12328,2023-11-05,United States,Consumer,Paid social,False
+12329,2023-11-14,United States,Consumer,Paid social,False
+12330,2024-12-08,United States,Business,Organic search,False
+12331,2026-05-28,United States,Consumer,Marketplace,False
+12332,2025-01-23,United States,Consumer,Paid social,False
+12333,2025-09-24,United Kingdom,Consumer,Organic search,False
+12334,2024-07-20,United States,Consumer,Paid social,False
+12335,2024-03-30,United Kingdom,Consumer,Referral,False
+12336,2023-10-05,United States,Business,Organic search,False
+12337,2026-01-08,United States,Business,Marketplace,False
+12338,2023-11-18,United States,Consumer,Marketplace,False
+12339,2025-07-06,United Kingdom,Business,Organic search,False
+12340,2023-07-02,United Kingdom,Consumer,Organic search,False
+12341,2024-05-06,United States,Consumer,Marketplace,False
+12342,2023-09-30,United States,Consumer,Paid social,False
+12343,2024-09-26,United States,Consumer,Organic search,False
+12344,2025-01-19,Netherlands,Business,Organic search,False
+12345,2024-12-27,United Kingdom,Consumer,Marketplace,False
+12346,2025-08-31,United Kingdom,Consumer,Organic search,False
+12347,2023-09-16,United Kingdom,Consumer,Paid social,False
+12348,2025-07-14,United Kingdom,Consumer,Marketplace,False
+12349,2024-01-24,United States,Consumer,Email,False
+12350,2025-09-24,Germany,Consumer,Paid social,False
+12351,2025-11-09,United States,Consumer,Organic search,False
+12352,2025-07-18,Germany,Business,Referral,False
+12353,2026-05-21,France,,Paid social,False
+12354,2025-08-16,United States,Consumer,Email,False
+12355,2024-09-14,United States,Consumer,Referral,False
+12356,2024-07-10,Germany,Consumer,Marketplace,False
+12357,2024-12-05,France,Consumer,Organic search,False
+12358,2025-12-05,United Kingdom,Consumer,Paid social,False
+12359,2025-01-29,Germany,Consumer,Email,False
+12360,2026-05-20,Germany,Business,Email,False
+12361,2025-08-18,United States,Consumer,Paid social,False
+12362,2025-03-09,United States,Business,Marketplace,False
+12363,2023-07-02,United States,Consumer,Paid social,False
+12364,2026-05-05,United Kingdom,Consumer,Email,False
+12365,2024-06-04,United Kingdom,Consumer,Referral,False
+12366,2025-07-03,United States,Consumer,Marketplace,False
+12367,2025-06-05,United States,Consumer,Organic search,False
+12368,2025-07-21,United States,Consumer,Marketplace,False
+12369,2025-06-22,France,Consumer,Organic search,False
+12370,2024-04-17,France,Consumer,Organic search,False
+12371,2025-08-24,Germany,Consumer,Paid social,False
+12372,2024-12-06,United Kingdom,Business,Organic search,False
+12373,2025-06-20,France,Consumer,Organic search,False
+12374,2024-08-25,United Kingdom,Consumer,Paid social,False
+12375,2025-06-19,United States,Consumer,Organic search,False
+12376,2025-09-08,United States,Consumer,Referral,False
+12377,2024-02-22,United States,Consumer,Paid social,False
+12378,2025-12-26,United Kingdom,Consumer,Marketplace,False
+12379,2023-08-05,United States,Consumer,Paid social,False
+12380,2023-07-08,United States,Consumer,Email,False
+12381,2025-12-26,United States,Consumer,Organic search,False
+12382,2023-11-05,United States,Consumer,Paid social,False
+12383,2025-09-11,United States,Business,Organic search,False
+12384,2023-08-20,United Kingdom,Consumer,Marketplace,False
+12385,2025-11-23,United States,Consumer,Organic search,False
+12386,2025-05-13,United States,Consumer,Email,False
+12387,2023-07-07,United Kingdom,Consumer,Email,False
+12388,2024-03-15,United States,Consumer,Email,False
+12389,2023-11-02,United States,Consumer,Paid social,False
+12390,2026-04-21,United States,Consumer,Email,False
+12391,2024-03-25,France,Consumer,Referral,False
+12392,2025-07-05,United States,Consumer,Marketplace,False
+12393,2023-11-20,United States,Consumer,Referral,False
+12394,2024-08-29,United Kingdom,Consumer,Organic search,False
+12395,2023-12-21,United States,Consumer,Referral,False
+12396,2024-02-10,France,Consumer,Organic search,False
+12397,2024-02-28,United States,Consumer,Email,False
+12398,2025-10-12,United States,Consumer,Paid social,False
+12399,2023-07-24,United Kingdom,Consumer,Paid social,False
+12400,2023-09-19,United States,Consumer,Marketplace,False
+12401,2026-05-21,United States,Business,Organic search,False
+12402,2025-08-11,United States,Business,Email,False
+12403,2025-12-06,United States,Consumer,Paid social,False
+12404,2024-10-03,Ireland,Consumer,Marketplace,False
+12405,2024-01-02,France,Business,Marketplace,False
+12406,2023-12-04,United States,Consumer,Email,False
+12407,2025-01-07,United States,Consumer,Email,False
+12408,2024-01-30,Germany,Consumer,Paid social,False
+12409,2024-03-10,United States,Consumer,Paid social,False
+12410,2025-04-25,Germany,Consumer,Organic search,False
+12411,2025-05-27,United Kingdom,Consumer,Paid social,False
+12412,2025-02-03,Ireland,Consumer,Email,False
+12413,2024-04-06,Netherlands,Consumer,Paid social,False
+12414,2025-07-18,Ireland,Consumer,Paid social,False
+12415,2025-01-29,United States,Consumer,Email,False
+12416,2025-10-19,United States,Consumer,Paid social,False
+12417,2024-10-27,United Kingdom,Consumer,Organic search,False
+12418,2024-01-27,United States,Consumer,Marketplace,False
+12419,2025-12-30,United States,Consumer,Organic search,False
+12420,2026-03-11,United States,Consumer,Referral,False
+12421,2023-12-18,United States,Business,Referral,False
+12422,2023-06-28,United States,Consumer,Marketplace,False
+12423,2025-10-22,United States,Consumer,Organic search,False
+12424,2024-08-27,United States,Consumer,Marketplace,False
+12425,2025-03-22,United States,Consumer,Marketplace,False
+12426,2025-09-23,United States,Consumer,Organic search,False
+12427,2023-09-25,United States,Consumer,Organic search,False
+12428,2024-05-03,United States,Consumer,Referral,False
+12429,2025-08-19,Netherlands,Consumer,Paid social,False
+12430,2025-02-02,United States,Consumer,Email,False
+12431,2025-07-20,Germany,Consumer,Organic search,False
+12432,2026-03-23,United States,Consumer,Paid social,False
+12433,2026-05-04,United States,Consumer,Paid social,False
+12434,2025-10-15,United Kingdom,Business,Organic search,False
+12435,2025-03-30,United States,Consumer,Referral,False
+12436,2023-11-26,France,Consumer,Marketplace,False
+12437,2024-11-22,Ireland,Consumer,Email,False
+12438,2026-03-11,United States,Consumer,Organic search,False
+12439,2024-11-25,United States,Business,Organic search,False
+12440,2025-10-05,United States,Business,Paid social,False
+12441,2025-09-17,United Kingdom,,Referral,False
+12442,2024-12-04,Ireland,Consumer,Organic search,False
+12443,2024-01-28,United States,Consumer,Email,False
+12444,2023-08-25,United States,Consumer,Organic search,False
+12445,2025-10-28,Ireland,Consumer,Paid social,False
+12446,2024-06-11,United Kingdom,Consumer,Organic search,False
+12447,2024-09-13,United States,Consumer,Organic search,False
+12448,2026-05-17,United Kingdom,Consumer,Referral,False
+12449,2026-05-08,United States,Consumer,Email,False
+12450,2026-01-31,France,Consumer,Organic search,False
+12451,2023-11-12,France,Consumer,Marketplace,False
+12452,2024-12-14,United States,Consumer,Organic search,False
+12453,2024-10-23,United States,Consumer,Referral,False
+12454,2025-07-05,United States,Business,Referral,False
+12455,2025-06-15,United States,Consumer,Paid social,False
+12456,2024-10-25,United States,Consumer,Email,False
+12457,2023-06-27,France,Consumer,Paid social,False
+12458,2025-12-31,United States,Consumer,Marketplace,False
+12459,2024-03-15,United States,Consumer,Marketplace,False
+12460,2026-03-31,Germany,Consumer,Email,False
+12461,2023-10-07,United States,Consumer,Organic search,False
+12462,2024-02-12,United States,Consumer,Paid social,False
+12463,2024-06-26,United Kingdom,Consumer,Organic search,False
+12464,2023-12-13,United States,Consumer,Organic search,False
+12465,2024-04-16,United Kingdom,Consumer,Organic search,False
+12466,2024-11-06,United States,Consumer,Organic search,False
+12467,2025-04-16,France,,Paid social,False
+12468,2024-07-05,United States,Consumer,Paid social,False
+12469,2025-05-17,United States,Consumer,Referral,False
+12470,2026-04-20,United Kingdom,Business,Paid social,False
+12471,2025-04-01,Ireland,Consumer,Email,False
+12472,2026-05-25,United States,Consumer,Marketplace,False
+12473,2025-04-12,France,Consumer,Paid social,False
+12474,2026-05-09,France,,Organic search,False
+12475,2026-03-12,United Kingdom,Consumer,Marketplace,False
+12476,2024-10-08,Germany,Consumer,Referral,False
+12477,2023-08-16,France,Consumer,Organic search,False
+12478,2025-03-12,United Kingdom,,Referral,False
+12479,2025-02-16,Germany,Consumer,Marketplace,False
+12480,2025-10-19,United States,Business,Organic search,False
+12481,2024-08-17,United States,Business,Paid social,False
+12482,2025-03-10,Germany,Consumer,Organic search,False
+12483,2025-02-03,United States,Consumer,Marketplace,False
+12484,2025-04-10,United States,Consumer,Organic search,False
+12485,2026-04-19,Germany,Consumer,Organic search,False
+12486,2024-11-16,United States,Consumer,Organic search,False
+12487,2024-08-02,United States,Consumer,Organic search,False
+12488,2025-07-10,United Kingdom,Consumer,Email,False
+12489,2024-10-18,United Kingdom,Consumer,Organic search,False
+12490,2023-06-17,United Kingdom,Consumer,Organic search,False
+12491,2024-11-27,Netherlands,Consumer,Referral,False
+12492,2026-03-25,Germany,Consumer,Organic search,False
+12493,2024-08-21,United Kingdom,Consumer,Paid social,False
+12494,2023-06-28,Germany,Consumer,Paid social,False
+12495,2024-08-29,United States,Business,Organic search,False
+12496,2024-06-26,United States,Consumer,Organic search,False
+12497,2024-12-11,United States,Consumer,Organic search,False
+12498,2024-01-13,United Kingdom,Consumer,Marketplace,False
+12499,2024-02-26,Ireland,Consumer,Email,False
+12500,2024-09-13,United Kingdom,Consumer,Paid social,False
+12501,2025-09-19,United States,Consumer,Email,False
+12502,2025-12-13,United States,Consumer,Paid social,False
+12503,2025-05-02,Germany,Consumer,Marketplace,False
+12504,2026-04-11,United Kingdom,Consumer,Referral,False
+12505,2026-01-25,United States,Consumer,Paid social,False
+12506,2025-11-20,United Kingdom,Consumer,Referral,False
+12507,2026-03-15,United Kingdom,Consumer,Organic search,False
+12508,2024-07-04,United Kingdom,Consumer,Marketplace,False
+12509,2024-12-31,Ireland,Consumer,Organic search,False
+12510,2024-10-29,Ireland,Consumer,Referral,False
+12511,2024-11-09,United Kingdom,Consumer,Email,False
+12512,2026-04-25,United States,Consumer,Paid social,False
+12513,2025-11-17,United States,Consumer,Marketplace,False
+12514,2025-01-19,United Kingdom,Consumer,Paid social,False
+12515,2025-04-25,United States,Consumer,Paid social,False
+12516,2025-11-18,United States,Consumer,Paid social,False
+12517,2024-01-16,United States,Consumer,Organic search,False
+12518,2025-10-30,United Kingdom,Consumer,Organic search,False
+12519,2025-11-30,United States,Consumer,Organic search,False
+12520,2024-07-05,United States,Consumer,Organic search,False
+12521,2024-10-27,Ireland,Consumer,Organic search,False
+12522,2023-07-04,United Kingdom,Consumer,Organic search,False
+12523,2024-11-25,France,Consumer,Paid social,False
+12524,2023-12-19,United States,Consumer,Organic search,False
+12525,2024-08-12,United States,Business,Paid social,False
+12526,2023-08-11,Germany,Business,Paid social,False
+12527,2026-03-30,United Kingdom,Consumer,Email,False
+12528,2023-09-07,United Kingdom,Consumer,Paid social,False
+12529,2026-01-27,United States,Business,Organic search,False
+12530,2024-06-07,Germany,Business,Organic search,False
+12531,2026-04-09,United States,Consumer,Referral,False
+12532,2023-10-06,United States,Consumer,Referral,False
+12533,2024-01-21,Germany,Consumer,Organic search,False
+12534,2025-11-06,United States,Business,Referral,False
+12535,2025-05-30,United States,Business,Paid social,False
+12536,2023-07-09,United Kingdom,Consumer,Organic search,False
+12537,2023-11-21,United States,Consumer,Organic search,False
+12538,2025-12-09,United States,Consumer,Organic search,False
+12539,2024-03-12,United States,Consumer,Marketplace,False
+12540,2025-07-05,United States,Consumer,Organic search,False
+12541,2024-02-08,United States,Consumer,Paid social,False
+12542,2024-11-18,United States,Consumer,Paid social,False
+12543,2025-05-25,United States,Consumer,Organic search,False
+12544,2026-02-28,United States,Consumer,Email,False
+12545,2025-04-30,United States,Consumer,Organic search,False
+12546,2025-01-31,United States,Consumer,Paid social,False
+12547,2024-07-02,United States,Consumer,Paid social,False
+12548,2024-05-09,United Kingdom,Consumer,Referral,False
+12549,2024-10-26,United States,Consumer,Referral,False
+12550,2026-05-25,United Kingdom,Consumer,Referral,False
+12551,2026-05-19,United Kingdom,Business,Paid social,False
+12552,2024-04-07,United States,Consumer,Marketplace,False
+12553,2024-11-07,United States,Consumer,Paid social,False
+12554,2024-03-27,United Kingdom,Consumer,Email,False
+12555,2025-06-07,France,Consumer,Marketplace,False
+12556,2026-05-05,United States,Consumer,Paid social,False
+12557,2025-02-08,United States,Business,Paid social,False
+12558,2023-08-21,United States,Consumer,Paid social,False
+12559,2026-03-04,France,Consumer,Organic search,False
+12560,2024-03-22,Germany,Business,Organic search,False
+12561,2025-10-20,United States,Consumer,Paid social,False
+12562,2025-04-28,United States,Consumer,Email,False
+12563,2023-10-27,United Kingdom,Consumer,Paid social,False
+12564,2024-01-19,United States,Business,Referral,False
+12565,2024-05-10,United States,Consumer,Organic search,False
+12566,2024-02-15,Germany,Consumer,Paid social,False
+12567,2024-05-20,United States,Consumer,Organic search,False
+12568,2023-09-10,United States,Consumer,Email,False
+12569,2025-11-26,United States,Business,Organic search,False
+12570,2023-11-03,France,Consumer,Email,False
+12571,2023-08-06,United States,Consumer,Organic search,False
+12572,2025-03-05,France,Consumer,Referral,False
+12573,2023-09-01,France,Consumer,Email,False
+12574,2026-03-12,Germany,Consumer,Paid social,False
+12575,2025-02-13,United Kingdom,Consumer,Email,False
+12576,2023-07-23,United Kingdom,Consumer,Paid social,False
+12577,2026-05-09,United States,Business,Paid social,False
+12578,2025-03-14,United States,Consumer,Organic search,False
+12579,2024-05-04,United States,Consumer,Organic search,False
+12580,2024-11-18,United States,Consumer,Organic search,False
+12581,2026-01-24,United States,Business,Paid social,False
+12582,2023-08-30,United States,Consumer,Referral,False
+12583,2025-02-03,United States,Consumer,Marketplace,False
+12584,2023-09-24,United States,Consumer,Referral,False
+12585,2025-12-03,United States,Business,Referral,False
+12586,2023-11-23,United States,Consumer,Email,False
+12587,2025-05-31,United States,Consumer,Organic search,False
+12588,2023-10-21,Ireland,,Paid social,False
+12589,2024-10-03,United States,Consumer,Organic search,False
+12590,2024-05-01,United States,Business,Organic search,False
+12591,2026-03-09,United States,Consumer,Paid social,False
+12592,2025-08-17,United States,Consumer,Organic search,False
+12593,2026-02-03,United States,Consumer,Paid social,False
+12594,2026-01-06,United States,Consumer,Organic search,False
+12595,2025-11-14,United Kingdom,Consumer,Email,False
+12596,2025-06-15,United States,Consumer,Organic search,False
+12597,2024-10-17,United States,Business,Organic search,False
+12598,2025-01-21,United States,Consumer,Organic search,False
+12599,2024-11-21,United States,Consumer,Organic search,False
+12600,2025-03-16,United States,Consumer,Paid social,False
+12601,2023-08-17,Germany,Consumer,Referral,False
+12602,2026-02-03,United States,Consumer,Organic search,False
+12603,2026-02-20,United States,Consumer,Paid social,False
+12604,2026-01-27,United States,Business,Marketplace,False
+12605,2025-09-12,Germany,Consumer,Organic search,False
+12606,2024-02-22,United Kingdom,Consumer,Organic search,False
+12607,2024-01-17,Netherlands,Consumer,Paid social,False
+12608,2024-12-13,United Kingdom,Consumer,Organic search,False
+12609,2026-04-15,United Kingdom,Business,Referral,False
+12610,2025-04-27,United Kingdom,Consumer,Marketplace,False
+12611,2026-01-10,United Kingdom,Business,Referral,False
+12612,2024-10-12,Germany,Business,Marketplace,False
+12613,2025-10-20,United States,Consumer,Email,False
+12614,2025-05-19,Germany,Consumer,Email,False
+12615,2023-10-31,United States,Consumer,Paid social,False
+12616,2025-04-29,Germany,Consumer,Organic search,False
+12617,2024-03-29,France,Business,Email,False
+12618,2024-08-19,Germany,Consumer,Email,False
+12619,2023-11-17,United Kingdom,Consumer,Paid social,False
+12620,2023-10-01,United Kingdom,Consumer,Paid social,False
+12621,2025-05-06,United Kingdom,,Marketplace,False
+12622,2023-07-08,United States,Business,Referral,False
+12623,2024-03-08,France,Consumer,Organic search,False
+12624,2024-08-28,Germany,Consumer,Referral,False
+12625,2024-06-28,France,Consumer,Email,False
+12626,2025-10-31,United Kingdom,Consumer,Organic search,False
+12627,2025-08-12,United States,Business,Paid social,False
+12628,2024-11-13,France,Consumer,Paid social,False
+12629,2025-06-13,United States,Consumer,Marketplace,False
+12630,2025-09-29,United Kingdom,Consumer,Organic search,False
+12631,2024-04-02,United Kingdom,Consumer,Paid social,False
+12632,2024-09-25,United States,Consumer,Paid social,False
+12633,2025-03-25,United States,Business,Email,False
+12634,2024-11-25,France,Consumer,Organic search,False
+12635,2026-02-20,United States,Business,Paid social,False
+12636,2023-08-19,Germany,Consumer,Organic search,False
+12637,2026-04-29,United States,Consumer,Organic search,False
+12638,2024-01-17,United States,Consumer,Paid social,False
+12639,2024-09-25,United Kingdom,Consumer,Referral,False
+12640,2024-05-17,United States,Consumer,Paid social,False
+12641,2024-02-23,France,Consumer,Organic search,False
+12642,2023-10-17,United States,Consumer,Organic search,False
+12643,2023-10-28,Germany,Consumer,Organic search,False
+12644,2025-02-09,France,Consumer,Paid social,False
+12645,2023-11-19,United States,Consumer,Paid social,False
+12646,2025-04-03,United States,Consumer,Organic search,False
+12647,2025-07-31,United States,Consumer,Organic search,False
+12648,2025-08-29,United States,Consumer,Email,False
+12649,2023-06-02,United States,Consumer,Paid social,False
+12650,2023-11-10,Germany,Consumer,Organic search,False
+12651,2025-04-27,United States,Consumer,Paid social,False
+12652,2023-07-19,United States,Consumer,Paid social,False
+12653,2023-11-08,Germany,Consumer,Email,False
+12654,2025-07-07,Germany,Consumer,Email,False
+12655,2024-12-14,United States,Business,Referral,False
+12656,2025-08-29,United Kingdom,Consumer,Paid social,False
+12657,2024-06-29,United Kingdom,Business,Referral,False
+12658,2025-04-10,United States,Consumer,Email,False
+12659,2023-09-24,Netherlands,Consumer,Organic search,False
+12660,2023-11-21,United States,Consumer,Paid social,False
+12661,2024-04-23,United Kingdom,Business,Paid social,False
+12662,2025-01-14,United Kingdom,Consumer,Organic search,False
+12663,2024-10-24,United States,Consumer,Paid social,False
+12664,2026-02-28,United States,Consumer,Organic search,False
+12665,2024-02-29,United States,Consumer,Paid social,False
+12666,2024-07-13,United States,Business,Referral,False
+12667,2025-02-08,Germany,Consumer,Paid social,False
+12668,2024-04-29,United Kingdom,Consumer,Organic search,False
+12669,2025-04-30,United States,Consumer,Organic search,False
+12670,2025-07-02,United Kingdom,Consumer,Email,False
+12671,2023-08-10,United States,Consumer,Organic search,False
+12672,2024-04-15,United States,Consumer,Marketplace,False
+12673,2026-03-09,United Kingdom,Consumer,Referral,False
+12674,2023-09-15,Ireland,Business,Paid social,False
+12675,2026-05-04,United States,Consumer,Paid social,False
+12676,2024-07-19,United Kingdom,Business,Organic search,False
+12677,2024-01-17,France,Business,Referral,False
+12678,2025-09-13,United Kingdom,Consumer,Referral,False
+12679,2025-07-19,United Kingdom,Business,Organic search,False
+12680,2023-08-29,United States,Business,Paid social,False
+12681,2025-10-18,Ireland,Consumer,Organic search,False
+12682,2024-10-25,United Kingdom,Consumer,Organic search,False
+12683,2024-04-04,United States,Consumer,Paid social,False
+12684,2026-02-21,United States,Business,Organic search,False
+12685,2023-10-18,United States,Consumer,Paid social,False
+12686,2026-05-22,United States,Consumer,Organic search,False
+12687,2024-08-30,United States,Consumer,Paid social,False
+12688,2026-04-21,Germany,Business,Referral,False
+12689,2024-02-06,United States,Consumer,Email,False
+12690,2025-08-25,United States,Consumer,Organic search,False
+12691,2025-05-25,United States,Business,Paid social,False
+12692,2025-03-21,United Kingdom,Business,Organic search,False
+12693,2025-03-07,United States,Consumer,Marketplace,False
+12694,2026-03-24,Ireland,Consumer,Organic search,False
+12695,2025-07-12,Germany,Consumer,Paid social,False
+12696,2024-07-04,United States,Business,Referral,False
+12697,2025-08-01,United States,Consumer,Paid social,False
+12698,2025-04-29,United States,Consumer,Paid social,False
+12699,2025-10-19,United Kingdom,Consumer,Organic search,False
+12700,2023-12-28,France,Consumer,Paid social,False
+12701,2024-04-18,United States,Consumer,Email,False
+12702,2025-07-14,United Kingdom,Business,Organic search,False
+12703,2024-01-16,United States,Consumer,Organic search,False
+12704,2025-11-19,United States,Consumer,Organic search,False
+12705,2026-03-21,United Kingdom,Consumer,Marketplace,False
+12706,2023-11-26,United States,Consumer,Referral,False
+12707,2024-03-01,United States,Consumer,Organic search,False
+12708,2024-11-08,France,Consumer,Paid social,False
+12709,2024-12-17,Netherlands,Business,Paid social,False
+12710,2026-03-31,United Kingdom,Consumer,Referral,False
+12711,2023-06-28,Netherlands,Consumer,Paid social,False
+12712,2026-05-13,United States,Business,Organic search,False
+12713,2025-04-01,United States,Consumer,Organic search,False
+12714,2025-10-17,United Kingdom,Consumer,Organic search,False
+12715,2025-07-21,United States,Consumer,Organic search,False
+12716,2026-04-19,United States,Consumer,Organic search,False
+12717,2025-09-23,United States,Consumer,Organic search,False
+12718,2026-03-02,United States,Consumer,Organic search,False
+12719,2025-08-27,United States,Consumer,Organic search,False
+12720,2025-10-01,United States,Business,Organic search,False
+12721,2026-04-02,United States,Business,Paid social,False
+12722,2024-11-11,United States,Consumer,Organic search,False
+12723,2023-12-24,United States,Consumer,Email,False
+12724,2026-05-19,United States,Business,Paid social,False
+12725,2025-08-06,United States,Consumer,Paid social,False
+12726,2024-01-27,United States,Consumer,Paid social,False
+12727,2026-02-23,United States,Consumer,Referral,False
+12728,2023-06-27,United States,Business,Paid social,False
+12729,2026-02-28,United States,Consumer,Organic search,False
+12730,2023-12-22,United States,Consumer,Paid social,False
+12731,2025-07-27,Ireland,Consumer,Email,False
+12732,2024-05-12,United States,Consumer,Organic search,False
+12733,2024-11-01,United States,Consumer,Referral,False
+12734,2024-12-27,United States,Business,Email,False
+12735,2025-07-31,Netherlands,Consumer,Paid social,False
+12736,2026-04-03,United States,Consumer,Marketplace,False
+12737,2024-05-21,United Kingdom,Consumer,Paid social,False
+12738,2024-01-10,United States,Consumer,Email,False
+12739,2025-08-07,Germany,Consumer,Paid social,False
+12740,2023-11-09,United States,Consumer,Organic search,False
+12741,2023-11-20,United States,Consumer,Organic search,False
+12742,2024-09-05,United Kingdom,Consumer,Marketplace,False
+12743,2026-05-15,United States,Consumer,Organic search,False
+12744,2025-04-14,United States,Consumer,Organic search,False
+12745,2024-07-22,Germany,Consumer,Paid social,False
+12746,2024-07-09,Ireland,Consumer,Organic search,False
+12747,2025-09-25,United Kingdom,Consumer,Paid social,False
+12748,2023-12-24,Germany,Consumer,Paid social,False
+12749,2025-12-18,Netherlands,Consumer,Organic search,False
+12750,2025-02-13,United Kingdom,Consumer,Marketplace,False
+12751,2024-10-16,United States,Consumer,Organic search,False
+12752,2023-10-16,United States,Consumer,Organic search,False
+12753,2024-03-24,United States,Consumer,Marketplace,False
+12754,2024-12-23,United States,Consumer,Organic search,False
+12755,2024-11-06,United States,Consumer,Organic search,False
+12756,2024-03-21,United States,Consumer,Referral,False
+12757,2024-02-18,United States,Consumer,Organic search,False
+12758,2024-07-11,United States,Consumer,Organic search,False
+12759,2023-12-25,France,Consumer,Paid social,False
+12760,2026-05-10,United States,Consumer,Email,False
+12761,2025-12-08,United States,Consumer,Marketplace,False
+12762,2024-03-29,United States,Business,Paid social,False
+12763,2025-08-25,United States,Consumer,Paid social,False
+12764,2024-10-26,France,Consumer,Organic search,False
+12765,2025-09-05,Germany,Consumer,Organic search,False
+12766,2025-09-14,United States,Consumer,Paid social,False
+12767,2024-08-01,Netherlands,Consumer,Organic search,False
+12768,2023-09-10,United States,Consumer,Paid social,False
+12769,2025-11-17,United States,Consumer,Organic search,False
+12770,2024-10-29,United States,Consumer,Referral,False
+12771,2024-04-05,United Kingdom,Consumer,Paid social,False
+12772,2025-12-16,United States,Consumer,Organic search,False
+12773,2023-09-16,United Kingdom,Consumer,Organic search,False
+12774,2025-06-20,United States,Consumer,Paid social,False
+12775,2025-10-31,France,Consumer,Marketplace,False
+12776,2025-12-25,Germany,Consumer,Marketplace,False
+12777,2025-06-23,United States,Consumer,Organic search,False
+12778,2024-11-06,United States,Consumer,Email,False
+12779,2024-12-08,United States,Consumer,Paid social,False
+12780,2025-07-13,United States,Consumer,Paid social,False
+12781,2024-01-19,United States,Consumer,Marketplace,False
+12782,2025-05-07,United Kingdom,Consumer,Paid social,False
+12783,2025-03-04,United States,Consumer,Email,False
+12784,2023-11-27,United States,Consumer,Referral,False
+12785,2023-09-22,Germany,Consumer,Organic search,False
+12786,2023-07-15,United States,Consumer,Paid social,False
+12787,2024-10-15,United States,Consumer,Paid social,False
+12788,2024-11-09,Germany,Business,Referral,False
+12789,2024-02-25,Germany,Consumer,Email,False
+12790,2023-09-17,United States,Consumer,Organic search,False
+12791,2023-11-07,Germany,Consumer,Organic search,False
+12792,2024-12-15,Germany,Business,Organic search,False
+12793,2026-02-13,United Kingdom,,Organic search,False
+12794,2026-03-01,United States,Business,Marketplace,False
+12795,2024-08-17,United States,Business,Organic search,False
+12796,2024-05-04,France,Consumer,Email,False
+12797,2026-04-19,United States,Consumer,Organic search,False
+12798,2026-02-09,United Kingdom,Consumer,Organic search,False
+12799,2025-09-07,United States,Consumer,Organic search,False
+12800,2025-10-29,United States,Consumer,Organic search,False
+12801,2026-01-14,United States,Consumer,Marketplace,False
+12802,2024-01-13,United Kingdom,Consumer,Paid social,False
+12803,2024-01-11,Ireland,Consumer,Organic search,False
+12804,2025-04-19,United States,Consumer,Organic search,False
+12805,2024-07-08,Ireland,Consumer,Organic search,False
+12806,2023-06-20,United States,Consumer,Paid social,False
+12807,2026-05-15,Germany,Consumer,Email,False
+12808,2024-03-09,United Kingdom,Consumer,Marketplace,False
+12809,2026-01-20,France,,Organic search,False
+12810,2024-01-18,Netherlands,Consumer,Organic search,False
+12811,2023-06-15,United States,Consumer,Paid social,False
+12812,2024-12-30,United States,Consumer,Paid social,False
+12813,2025-12-08,United Kingdom,Consumer,Email,False
+12814,2023-06-06,Netherlands,Consumer,Paid social,False
+12815,2026-01-17,Netherlands,Consumer,Email,False
+12816,2025-07-08,United States,Business,Paid social,False
+12817,2025-02-13,Germany,Consumer,Referral,False
+12818,2025-05-30,Germany,Business,Paid social,False
+12819,2024-02-23,United States,Consumer,Marketplace,False
+12820,2025-11-16,United States,Consumer,Referral,False
+12821,2025-03-09,Germany,Consumer,Organic search,False
+12822,2023-09-05,United States,Consumer,Paid social,False
+12823,2025-02-18,United States,Consumer,Marketplace,False
+12824,2023-12-10,United States,Consumer,Referral,False
+12825,2025-12-01,United States,Consumer,Email,False
+12826,2025-11-06,United States,Consumer,Organic search,False
+12827,2023-08-18,Germany,Consumer,Paid social,False
+12828,2024-10-30,Germany,Consumer,Paid social,False
+12829,2025-06-25,United States,Consumer,Email,False
+12830,2026-03-05,United States,Business,Paid social,False
+12831,2023-12-29,United States,Consumer,Paid social,False
+12832,2026-04-05,United States,Business,Organic search,False
+12833,2025-09-15,United Kingdom,Consumer,Referral,False
+12834,2025-09-01,United Kingdom,Consumer,Referral,False
+12835,2023-11-11,Netherlands,Consumer,Referral,False
+12836,2024-05-14,United Kingdom,Consumer,Organic search,False
+12837,2025-01-28,Ireland,Consumer,Referral,False
+12838,2024-03-25,United States,Consumer,Marketplace,False
+12839,2025-09-17,United States,Consumer,Organic search,False
+12840,2023-10-19,United States,Consumer,Referral,False
+12841,2025-08-20,United States,Consumer,Organic search,False
+12842,2026-01-02,United States,Business,Email,False
+12843,2025-08-29,Ireland,Consumer,Marketplace,False
+12844,2024-07-14,United Kingdom,Consumer,Email,False
+12845,2024-08-13,United States,Business,Organic search,False
+12846,2025-08-01,United States,Consumer,Organic search,False
+12847,2025-10-05,United States,Consumer,Organic search,False
+12848,2023-07-20,Germany,Business,Organic search,False
+12849,2025-09-27,United States,Consumer,Organic search,False
+12850,2023-07-21,United Kingdom,Business,Marketplace,False
+12851,2024-07-15,United Kingdom,Consumer,Paid social,False
+12852,2026-02-02,Germany,Consumer,Organic search,False
+12853,2023-08-29,United Kingdom,Consumer,Organic search,False
+12854,2025-12-17,United States,Consumer,Paid social,False
+12855,2024-04-17,United States,Consumer,Referral,False
+12856,2025-05-05,United Kingdom,Consumer,Marketplace,False
+12857,2023-11-12,Germany,,Paid social,False
+12858,2024-03-02,United States,Consumer,Referral,False
+12859,2023-08-07,United Kingdom,Consumer,Email,False
+12860,2024-02-14,United States,Consumer,Marketplace,False
+12861,2025-07-09,United Kingdom,Consumer,Organic search,False
+12862,2024-12-22,United Kingdom,Consumer,Organic search,False
+12863,2026-04-19,United States,Consumer,Organic search,False
+12864,2024-05-07,United States,Consumer,Organic search,False
+12865,2023-08-12,United States,Consumer,Referral,False
+12866,2025-03-25,United States,Consumer,Organic search,False
+12867,2025-01-26,United States,Consumer,Email,False
+12868,2025-07-16,France,Consumer,Referral,False
+12869,2024-11-27,United States,Business,Email,False
+12870,2026-03-04,United States,Consumer,Organic search,False
+12871,2024-02-29,United Kingdom,Consumer,Referral,False
+12872,2023-07-05,Netherlands,Business,Paid social,False
+12873,2024-11-19,Germany,Business,Organic search,False
+12874,2025-11-25,United Kingdom,Consumer,Email,False
+12875,2026-04-24,United States,Consumer,Paid social,False
+12876,2024-07-23,United States,Consumer,Referral,False
+12877,2026-01-09,United Kingdom,Business,Paid social,False
+12878,2025-11-16,Netherlands,Consumer,Referral,False
+12879,2023-11-04,United States,Consumer,Email,False
+12880,2024-01-14,United States,Consumer,Paid social,False
+12881,2024-10-09,United States,Consumer,Paid social,False
+12882,2025-03-02,United Kingdom,Consumer,Email,False
+12883,2025-07-18,United States,Consumer,Email,False
+12884,2023-11-28,United States,Consumer,Paid social,False
+12885,2023-10-30,United States,,Organic search,False
+12886,2025-11-27,United States,Consumer,Paid social,False
+12887,2024-10-22,United Kingdom,Consumer,Referral,False
+12888,2024-07-05,United States,,Referral,False
+12889,2025-11-04,Ireland,Consumer,Referral,False
+12890,2024-10-22,United States,Consumer,Paid social,False
+12891,2025-04-20,Germany,Consumer,Paid social,False
+12892,2025-11-13,United Kingdom,Business,Organic search,False
+12893,2025-12-26,United States,Business,Paid social,False
+12894,2023-12-05,United Kingdom,Consumer,Organic search,False
+12895,2024-04-03,United Kingdom,Business,Marketplace,False
+12896,2025-05-05,France,Business,Paid social,False
+12897,2023-09-08,United Kingdom,Consumer,Organic search,False
+12898,2023-11-09,United Kingdom,Consumer,Organic search,False
+12899,2025-04-18,United Kingdom,Business,Paid social,False
+12900,2023-06-10,United States,Business,Email,False
+12901,2025-02-14,United Kingdom,Consumer,Organic search,False
+12902,2026-03-12,United States,Business,Paid social,False
+12903,2026-01-09,United States,Consumer,Organic search,False
+12904,2025-03-23,United States,Business,Paid social,False
+12905,2023-08-03,Germany,Consumer,Email,False
+12906,2024-06-21,United States,Consumer,Marketplace,False
+12907,2023-09-27,United States,Consumer,Email,False
+12908,2024-10-07,Germany,Consumer,Marketplace,False
+12909,2024-05-27,France,Consumer,Paid social,False
+12910,2024-07-24,United Kingdom,Consumer,Marketplace,False
+12911,2025-02-23,United States,Consumer,Organic search,False
+12912,2025-10-20,United States,Consumer,Email,False
+12913,2024-03-16,United Kingdom,Consumer,Organic search,False
+12914,2025-07-23,United Kingdom,Consumer,Email,False
+12915,2024-09-13,Germany,Consumer,Organic search,False
+12916,2024-05-16,United Kingdom,Consumer,Referral,False
+12917,2025-09-06,France,Consumer,Referral,False
+12918,2024-08-29,United States,Consumer,Marketplace,False
+12919,2023-06-08,Netherlands,Consumer,Organic search,False
+12920,2024-08-01,France,Consumer,Paid social,False
+12921,2024-01-11,United States,Consumer,Email,False
+12922,2023-08-03,United States,Consumer,Marketplace,False
+12923,2023-06-16,United States,Business,Paid social,False
+12924,2024-09-20,United States,Consumer,Organic search,False
+12925,2023-07-10,United States,Consumer,Paid social,False
+12926,2025-10-13,United States,,Organic search,False
+12927,2026-01-19,United States,Consumer,Paid social,False
+12928,2025-04-04,United States,Consumer,Referral,False
+12929,2023-06-19,United Kingdom,Consumer,Email,False
+12930,2023-10-27,United States,,Organic search,False
+12931,2024-01-21,United States,Consumer,Email,False
+12932,2024-05-27,United Kingdom,Consumer,Email,False
+12933,2024-10-12,United States,,Paid social,False
+12934,2026-05-08,United States,Consumer,Referral,False
+12935,2024-03-09,France,Business,Referral,False
+12936,2023-10-10,Netherlands,Consumer,Organic search,False
+12937,2026-03-25,United States,Business,Organic search,False
+12938,2024-10-02,United States,Consumer,Organic search,False
+12939,2026-01-02,United States,Consumer,Organic search,False
+12940,2025-10-05,United States,Consumer,Paid social,False
+12941,2024-10-07,United Kingdom,Consumer,Organic search,False
+12942,2025-02-07,United Kingdom,Consumer,Paid social,False
+12943,2025-04-30,United States,Consumer,Paid social,False
+12944,2023-08-15,Ireland,Consumer,Organic search,False
+12945,2025-12-03,United Kingdom,Consumer,Email,False
+12946,2025-05-23,United States,Consumer,Organic search,False
+12947,2024-10-20,United States,Consumer,Referral,False
+12948,2024-10-05,United States,Consumer,Paid social,False
+12949,2024-11-24,United States,Business,Organic search,False
+12950,2023-06-16,France,Consumer,Email,False
+12951,2023-07-22,United States,Consumer,Organic search,False
+12952,2025-12-15,United States,Consumer,Organic search,False
+12953,2026-03-16,Ireland,Business,Organic search,False
+12954,2023-09-30,United Kingdom,Consumer,Paid social,False
+12955,2025-12-13,United States,Consumer,Organic search,False
+12956,2024-07-05,United States,Business,Referral,False
+12957,2025-08-07,United States,Consumer,Paid social,False
+12958,2024-08-16,United Kingdom,Consumer,Email,False
+12959,2026-02-27,United States,Consumer,Organic search,False
+12960,2026-02-11,United States,Consumer,Organic search,False
+12961,2024-02-13,United States,Consumer,Paid social,False
+12962,2024-11-08,United States,Consumer,Email,False
+12963,2024-05-08,United States,Consumer,Organic search,False
+12964,2025-06-01,United Kingdom,Consumer,Organic search,False
+12965,2026-05-28,United States,Consumer,Referral,False
+12966,2024-05-08,United States,Consumer,Marketplace,False
+12967,2024-12-14,United States,Business,Referral,False
+12968,2026-01-06,United States,Consumer,Paid social,False
+12969,2023-11-17,United States,Consumer,Email,False
+12970,2024-08-25,United States,Consumer,Referral,False
+12971,2025-04-09,United States,Consumer,Email,False
+12972,2024-05-20,United States,Consumer,Organic search,False
+12973,2025-10-13,United States,Consumer,Email,False
+12974,2023-06-14,United Kingdom,Consumer,Marketplace,False
+12975,2023-11-19,Ireland,Consumer,Organic search,False
+12976,2024-01-24,United States,Business,Referral,False
+12977,2024-08-19,United Kingdom,Consumer,Email,False
+12978,2026-03-15,United States,Consumer,Paid social,False
+12979,2024-03-11,Ireland,Consumer,Paid social,False
+12980,2025-02-03,United States,Consumer,Paid social,False
+12981,2023-08-16,United States,Consumer,Organic search,False
+12982,2024-07-16,United Kingdom,Business,Paid social,False
+12983,2024-10-24,United Kingdom,Consumer,Marketplace,False
+12984,2025-07-15,United States,Consumer,Referral,False
+12985,2025-02-07,United Kingdom,Consumer,Paid social,False
+12986,2025-10-25,United States,Consumer,Paid social,False
+12987,2026-01-19,United States,Consumer,Organic search,False
+12988,2025-07-19,United States,Consumer,Organic search,False
+12989,2026-04-07,United Kingdom,Business,Referral,False
+12990,2026-03-18,United States,Business,Organic search,False
+12991,2024-03-08,United States,Consumer,Paid social,False
+12992,2023-12-22,United States,Consumer,Marketplace,False
+12993,2025-01-16,United States,Consumer,Referral,False
+12994,2024-01-23,United Kingdom,Consumer,Marketplace,False
+12995,2024-11-30,United States,Consumer,Organic search,False
+12996,2025-04-05,Ireland,Consumer,Marketplace,False
+12997,2024-05-14,Germany,Consumer,Email,False
+12998,2024-02-10,United States,Consumer,Referral,False
+12999,2024-01-21,United States,Consumer,Email,False
+13000,2025-11-26,Germany,Consumer,Email,False
+13001,2024-10-19,United States,Consumer,Email,False
+13002,2026-04-07,United States,,Organic search,False
+13003,2024-02-06,United States,Consumer,Organic search,False
+13004,2024-03-07,United Kingdom,Consumer,Referral,False
+13005,2023-09-07,United States,Consumer,Email,False
+13006,2025-07-28,United Kingdom,Consumer,Marketplace,False
+13007,2026-02-28,United States,Consumer,Marketplace,False
+13008,2023-12-23,France,Consumer,Email,False
+13009,2025-10-23,United States,Consumer,Paid social,False
+13010,2025-05-08,United States,Consumer,Paid social,False
+13011,2025-12-21,United States,Consumer,Organic search,False
+13012,2023-12-17,United States,Business,Email,False
+13013,2025-03-18,United States,Consumer,Paid social,False
+13014,2024-02-21,United States,Consumer,Marketplace,False
+13015,2025-07-22,United States,Consumer,Referral,False
+13016,2023-09-07,United Kingdom,Consumer,Email,False
+13017,2025-04-29,United States,Consumer,Referral,False
+13018,2023-06-12,Germany,Consumer,Paid social,False
+13019,2025-11-05,United States,Consumer,Paid social,False
+13020,2024-02-28,United States,Consumer,Marketplace,False
+13021,2025-05-28,United States,Consumer,Paid social,False
+13022,2025-02-04,United States,Consumer,Paid social,False
+13023,2024-08-06,United States,Consumer,Marketplace,False
+13024,2026-01-20,United Kingdom,Consumer,Organic search,False
+13025,2025-02-09,United States,Consumer,Organic search,False
+13026,2025-07-25,United States,Consumer,Paid social,False
+13027,2023-06-24,United Kingdom,Consumer,Email,False
+13028,2023-06-03,France,Consumer,Organic search,False
+13029,2025-02-18,France,Consumer,Email,False
+13030,2026-02-06,United States,Business,Marketplace,False
+13031,2023-06-12,United States,,Organic search,False
+13032,2025-09-03,United States,Consumer,Organic search,False
+13033,2024-07-26,United States,Consumer,Email,False
+13034,2025-03-30,United States,Consumer,Email,False
+13035,2024-07-13,United Kingdom,Consumer,Paid social,False
+13036,2024-05-08,United States,Consumer,Organic search,False
+13037,2024-11-28,Germany,Consumer,Paid social,False
+13038,2026-05-02,United States,Consumer,Email,False
+13039,2024-01-31,United States,Consumer,Referral,False
+13040,2025-01-13,United Kingdom,Consumer,Paid social,False
+13041,2025-09-08,United States,Consumer,Organic search,False
+13042,2025-05-12,France,Consumer,Paid social,False
+13043,2025-01-02,United States,Consumer,Paid social,False
+13044,2024-08-26,United Kingdom,Consumer,Organic search,False
+13045,2023-12-09,United States,Consumer,Organic search,False
+13046,2025-05-20,United States,Consumer,Email,False
+13047,2025-07-10,United States,Consumer,Paid social,False
+13048,2023-12-16,Ireland,Consumer,Organic search,False
+13049,2024-03-22,Germany,Business,Organic search,False
+13050,2025-11-05,United Kingdom,Consumer,Email,False
+13051,2025-08-10,United States,Consumer,Referral,False
+13052,2024-10-16,United States,Consumer,Organic search,False
+13053,2024-08-10,Germany,Consumer,Email,False
+13054,2024-05-28,United States,Consumer,Referral,False
+13055,2025-10-14,United Kingdom,Consumer,Marketplace,False
+13056,2026-04-26,United States,Consumer,Referral,False
+13057,2026-02-11,United Kingdom,Consumer,Referral,False
+13058,2024-06-19,Netherlands,Consumer,Marketplace,False
+13059,2024-02-14,Germany,Consumer,Marketplace,False
+13060,2025-07-21,Netherlands,Consumer,Marketplace,False
+13061,2025-06-28,Ireland,Consumer,Paid social,False
+13062,2026-03-23,France,Consumer,Marketplace,False
+13063,2024-09-20,United Kingdom,Consumer,Organic search,False
+13064,2024-05-17,United States,Consumer,Organic search,False
+13065,2025-10-15,United States,Consumer,Organic search,False
+13066,2024-03-06,United Kingdom,Business,Paid social,False
+13067,2023-11-14,United States,Consumer,Email,False
+13068,2025-04-05,United Kingdom,Consumer,Email,False
+13069,2023-06-12,United States,Consumer,Paid social,False
+13070,2024-11-14,Netherlands,Consumer,Marketplace,False
+13071,2025-10-02,United States,Consumer,Organic search,False
+13072,2025-07-06,United Kingdom,Consumer,Organic search,False
+13073,2026-01-30,United States,Consumer,Organic search,False
+13074,2024-10-25,Germany,Consumer,Organic search,False
+13075,2026-04-01,United States,Consumer,Paid social,False
+13076,2024-05-15,United States,Business,Email,False
+13077,2024-01-30,United Kingdom,Consumer,Paid social,False
+13078,2024-10-01,United Kingdom,Consumer,Referral,False
+13079,2025-08-27,United States,Consumer,Email,False
+13080,2026-01-28,United States,Consumer,Organic search,False
+13081,2025-09-14,France,Consumer,Email,False
+13082,2023-06-26,United States,Consumer,Marketplace,False
+13083,2025-04-17,United Kingdom,Consumer,Organic search,False
+13084,2024-02-12,United States,Consumer,Organic search,False
+13085,2025-08-20,Germany,Consumer,Email,False
+13086,2024-02-21,France,Consumer,Organic search,False
+13087,2024-05-12,United Kingdom,Consumer,Paid social,False
+13088,2025-06-24,United States,Consumer,Referral,False
+13089,2025-01-23,Germany,Business,Email,False
+13090,2025-03-18,France,Consumer,Paid social,False
+13091,2025-10-13,United States,Consumer,Marketplace,False
+13092,2024-04-17,United States,Consumer,Organic search,False
+13093,2025-10-20,United Kingdom,Consumer,Referral,False
+13094,2025-04-22,United States,Consumer,Email,False
+13095,2024-07-03,United States,Consumer,Paid social,False
+13096,2025-06-01,Netherlands,Consumer,Organic search,False
+13097,2023-12-09,United States,Consumer,Organic search,False
+13098,2024-01-06,United States,Consumer,Organic search,False
+13099,2025-02-23,United States,Consumer,Organic search,False
+13100,2025-11-13,United States,Consumer,Paid social,False
+13101,2024-12-20,Netherlands,Consumer,Paid social,False
+13102,2023-11-27,United States,Consumer,Paid social,False
+13103,2026-04-24,Germany,Consumer,Referral,False
+13104,2024-12-02,Netherlands,Consumer,Organic search,False
+13105,2025-12-06,United States,Consumer,Paid social,False
+13106,2024-09-30,United States,Consumer,Organic search,False
+13107,2024-10-10,United States,Business,Email,False
+13108,2025-09-28,United States,Consumer,Paid social,False
+13109,2025-10-17,United States,Consumer,Paid social,False
+13110,2024-09-26,United States,Consumer,Organic search,False
+13111,2025-02-26,United Kingdom,Consumer,Paid social,False
+13112,2026-02-23,France,Consumer,Organic search,False
+13113,2026-01-27,Germany,Consumer,Referral,False
+13114,2024-01-06,France,Consumer,Paid social,False
+13115,2025-07-31,United States,Consumer,Organic search,False
+13116,2026-03-17,United States,Consumer,Paid social,False
+13117,2025-10-31,United States,Consumer,Referral,False
+13118,2025-01-18,United States,Consumer,Paid social,False
+13119,2023-12-27,United States,Consumer,Organic search,False
+13120,2025-03-20,United States,Business,Email,False
+13121,2024-07-10,United States,Consumer,Referral,False
+13122,2023-11-09,United States,Consumer,Organic search,False
+13123,2024-06-30,United States,Consumer,Paid social,False
+13124,2024-08-26,United States,Consumer,Paid social,False
+13125,2023-06-14,United Kingdom,Consumer,Email,False
+13126,2026-02-01,United States,Consumer,Marketplace,False
+13127,2025-09-18,United States,Consumer,Referral,False
+13128,2025-05-03,United Kingdom,Consumer,Paid social,False
+13129,2024-06-15,United States,Consumer,Organic search,False
+13130,2024-11-02,Germany,Consumer,Email,False
+13131,2024-04-07,France,Consumer,Email,False
+13132,2024-05-02,Germany,Consumer,Organic search,False
+13133,2024-07-26,Germany,Consumer,Paid social,False
+13134,2024-01-20,Germany,Consumer,Paid social,False
+13135,2024-02-14,France,Consumer,Paid social,False
+13136,2025-07-28,United States,Consumer,Organic search,False
+13137,2024-11-06,Germany,Business,Paid social,False
+13138,2024-10-24,United States,Consumer,Organic search,False
+13139,2023-10-16,United Kingdom,Consumer,Paid social,False
+13140,2025-12-11,United States,Consumer,Organic search,False
+13141,2025-06-02,United States,Consumer,Email,False
+13142,2025-11-07,United States,Consumer,Organic search,False
+13143,2024-11-08,United States,Consumer,Marketplace,False
+13144,2025-11-26,Ireland,Consumer,Paid social,False
+13145,2025-03-06,United States,Consumer,Marketplace,False
+13146,2025-01-25,United Kingdom,Consumer,Organic search,False
+13147,2026-01-02,United States,Consumer,Email,False
+13148,2024-11-09,United States,Business,Organic search,False
+13149,2025-11-03,Germany,Consumer,Organic search,False
+13150,2024-06-05,United States,Consumer,Paid social,False
+13151,2023-09-01,United States,Consumer,Paid social,False
+13152,2023-08-02,United Kingdom,Consumer,Organic search,False
+13153,2025-09-30,Germany,Consumer,Email,False
+13154,2023-09-27,Germany,Consumer,Organic search,False
+13155,2024-07-04,United States,Consumer,Email,False
+13156,2025-05-27,United States,Consumer,Organic search,False
+13157,2024-11-04,United States,Consumer,Paid social,False
+13158,2024-06-04,United States,Consumer,Paid social,False
+13159,2024-09-24,United Kingdom,Consumer,Email,False
+13160,2024-09-01,United States,Consumer,Organic search,False
+13161,2026-03-16,United States,Business,Paid social,False
+13162,2026-04-27,United States,Consumer,Referral,False
+13163,2024-06-09,United States,Consumer,Marketplace,False
+13164,2023-12-22,France,Consumer,Paid social,False
+13165,2026-03-24,Germany,Consumer,Organic search,False
+13166,2023-11-28,United States,Business,Referral,False
+13167,2025-01-08,United Kingdom,Consumer,Paid social,False
+13168,2025-07-28,Ireland,Consumer,Paid social,False
+13169,2025-04-25,United States,Consumer,Marketplace,False
+13170,2025-05-29,United States,Consumer,Organic search,False
+13171,2025-04-29,United States,Consumer,Organic search,False
+13172,2024-01-15,United Kingdom,Consumer,Organic search,False
+13173,2023-12-28,Germany,Consumer,Paid social,False
+13174,2024-09-08,United States,Consumer,Paid social,False
+13175,2024-07-20,United States,Consumer,Paid social,False
+13176,2025-04-05,United Kingdom,Consumer,Marketplace,False
+13177,2024-08-02,United States,Consumer,Organic search,False
+13178,2023-09-13,United States,Consumer,Paid social,False
+13179,2026-04-03,United Kingdom,Consumer,Organic search,False
+13180,2024-01-09,United States,Business,Paid social,False
+13181,2023-10-01,United States,Consumer,Email,False
+13182,2024-07-25,United States,Consumer,Paid social,False
+13183,2024-03-21,France,Consumer,Referral,False
+13184,2026-02-18,Germany,Consumer,Referral,False
+13185,2024-10-20,Netherlands,Consumer,Paid social,False
+13186,2024-12-09,France,Consumer,Organic search,False
+13187,2025-10-02,France,Business,Organic search,False
+13188,2024-09-22,United Kingdom,,Organic search,False
+13189,2023-07-07,United States,Consumer,Email,False
+13190,2023-06-05,United States,,Paid social,False
+13191,2025-02-25,United States,Consumer,Paid social,False
+13192,2024-09-07,United States,Consumer,Email,False
+13193,2023-06-03,United States,Consumer,Referral,False
+13194,2025-07-05,Germany,Consumer,Organic search,False
+13195,2024-09-10,United States,Consumer,Paid social,False
+13196,2024-04-23,United States,Consumer,Organic search,False
+13197,2023-08-27,United States,Consumer,Organic search,False
+13198,2024-09-06,United States,Consumer,Referral,False
+13199,2024-03-08,Germany,Consumer,Organic search,False
+13200,2023-11-20,Germany,Consumer,Organic search,False
+99901,2024-01-02,United States,Business,Internal,True
+99902,2024-01-02,United Kingdom,Business,Internal,True
+99903,2024-01-02,Germany,Business,Internal,True

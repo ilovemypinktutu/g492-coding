@@ -1,0 +1,39 @@
+product_id,product_name,category,list_price_usd,unit_cost_usd
+101,Ridgeline 2P Tent,Tents,289.0,138.75
+102,Ridgeline 4P Tent,Tents,419.0,213.26
+103,Featherlite 1P Tent,Tents,349.0,165.8
+104,Basecamp 6P Tent,Tents,529.0,236.74
+105,Trail Tarp Shelter,Tents,119.0,62.76
+106,Daytripper 22L Pack,Backpacks,89.0,46.52
+107,Summit 45L Pack,Backpacks,199.0,100.62
+108,Expedition 65L Pack,Backpacks,279.0,142.57
+109,Commuter 18L Pack,Backpacks,69.0,30.46
+110,Hydration Vest 8L,Backpacks,99.0,51.13
+111,Kids Explorer Pack,Backpacks,49.0,24.4
+112,Canyon Hiking Boot,Footwear,179.0,95.65
+113,Canyon Hiking Boot WP,Footwear,209.0,113.14
+114,Trailrunner Shoe,Footwear,139.0,60.36
+115,Camp Slide,Footwear,39.0,16.41
+116,Approach Shoe,Footwear,159.0,82.38
+117,Winter Pac Boot,Footwear,189.0,103.02
+118,Merino Base Layer Top,Apparel,89.0,38.46
+119,Merino Base Layer Bottom,Apparel,79.0,39.56
+120,Storm Shell Jacket,Apparel,249.0,127.53
+121,Down Puffy Jacket,Apparel,229.0,92.22
+122,Fleece Quarter-Zip,Apparel,79.0,39.96
+123,Trail Pant,Apparel,85.0,39.39
+124,Sun Hoodie,Apparel,59.0,26.85
+125,Wool Hiking Sock 3-Pack,Apparel,32.0,12.82
+126,Titanium Pot Set,Camp Kitchen,79.0,41.32
+127,Canister Stove,Camp Kitchen,59.0,32.28
+128,Insulated Mug,Camp Kitchen,29.0,12.23
+129,Water Filter Squeeze,Camp Kitchen,45.0,23.5
+130,Camp Utensil Kit,Camp Kitchen,19.0,8.89
+131,Collapsible Sink 10L,Camp Kitchen,25.0,10.24
+132,LED Headlamp 400,Accessories,49.0,19.62
+133,Trekking Poles (pair),Accessories,119.0,51.65
+134,Sleeping Bag 20F,Accessories,239.0,91.57
+135,Sleeping Pad Insulated,Accessories,149.0,78.88
+136,Dry Bag 20L,Accessories,29.0,13.2
+137,First Aid Kit,Accessories,35.0,15.34
+138,Camp Chair,Accessories,99.0,44.5

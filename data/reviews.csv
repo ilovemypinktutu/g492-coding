@@ -1,0 +1,115 @@
+review_id,product_id,stars,review_text,human_topic,human_sentiment
+1,112,5,Broke these boots in over one weekend and did 14 miles on day three with zero blisters. Solid ankle support.,Quality,Positive
+2,112,2,Ordered my usual 10 and they were painfully tight. Had to send them back and wait another week for an 11.,Fit/Sizing,Negative
+3,113,4,Waterproofing held up through a full day of rain. Runs about half a size small though.,Quality,Mixed
+4,114,5,"Light, grippy, and my feet stayed dry on wet rock. Best trail shoe I've owned.",Quality,Positive
+5,114,1,Sole started peeling away from the toe after six weeks of easy trail running.,Quality,Negative
+6,115,3,Comfortable around camp. Nothing special for forty bucks.,Value,Mixed
+7,116,2,Size chart says true to size. It is not. Go up a full size.,Fit/Sizing,Negative
+8,117,5,Kept my toes warm at minus 15 while ice fishing. Worth every penny.,Quality,Positive
+9,117,4,Warm and well made but heavy. Fits true to size with thick socks.,Quality,Positive
+10,118,5,Softest merino I've tried and it doesn't itch at all. Wore it four days straight on a hut trip and it didn't smell.,Quality,Positive
+11,118,2,Shrunk a full size after one wash on cold. Followed the label.,Quality,Negative
+12,119,3,"Good fabric, but the legs are cut really long. I'm 5'6"" and had to hem them.",Fit/Sizing,Mixed
+13,120,5,Stayed dry in a sideways downpour on the ridge. Pit zips are a nice touch.,Quality,Positive
+14,120,1,$249 for a jacket that wetted out in the first real storm. Absolutely not worth it.,Value,Negative
+15,120,4,Great shell. Took 11 days to arrive when checkout said 3-5.,Shipping,Mixed
+16,121,5,Packs into its own pocket and is shockingly warm for the weight.,Quality,Positive
+17,121,2,Feathers leaking out of the seams from day one. Customer service did send a replacement quickly.,Quality,Mixed
+18,122,4,"Cozy, true to size, and the zipper feels sturdy.",Quality,Positive
+19,123,3,Fits fine but the fabric pills where my pack straps rub.,Quality,Mixed
+20,123,5,"Perfect length, stretchy, and the pockets actually hold a phone.",Fit/Sizing,Positive
+21,124,5,UPF hoodie that doesn't feel like wearing a trash bag in the heat. Bought two more.,Quality,Positive
+22,125,4,Great socks. A little pricey for three pairs but they last.,Value,Positive
+23,125,1,Holes in both heels after a month. Cheap socks at an expensive price.,Value,Negative
+24,101,5,Set up in under five minutes in the dark. Stayed bone dry in an overnight thunderstorm.,Quality,Positive
+25,101,2,"One of the poles arrived cracked. Emailed support three times, no reply after two weeks.",Customer Service,Negative
+26,102,4,Plenty of room for two adults and two kids. A bit heavy for backpacking but fine for car camping.,Quality,Positive
+27,103,5,Under two pounds and actually livable. My new go-to for solo trips.,Quality,Positive
+28,103,2,Condensation city. Woke up with the inside of the fly dripping on my bag every night.,Quality,Negative
+29,104,3,Huge and sturdy but the box was crushed and one stake bag was missing.,Shipping,Mixed
+30,105,5,"Simple, light, and pitches a dozen ways. Great value compared to the big brands.",Value,Positive
+31,106,5,Just the right size for day hikes. Hip belt pockets are genius.,Quality,Positive
+32,107,4,Comfortable with 30 lbs. Wish the rain cover were included at this price.,Value,Mixed
+33,107,1,Shoulder strap buckle snapped on the second trip. Mid-hike. Great.,Quality,Negative
+34,108,5,Carried 45 lbs for five days in the Winds and my shoulders were fine. Torso adjustment is easy.,Fit/Sizing,Positive
+35,108,2,Torso length runs short. Even at max setting it sits too high on my back.,Fit/Sizing,Negative
+36,109,4,Fits a laptop and gym clothes. Looks sharp for the price.,Value,Positive
+37,110,5,Doesn't bounce at all on runs. Holds two soft flasks and a jacket.,Quality,Positive
+38,111,5,"My 7 year old insists on wearing it everywhere, including to bed.",Quality,Positive
+39,126,5,Nests perfectly with the canister stove inside. Light and boils fast.,Quality,Positive
+40,127,2,Igniter stopped working on the second outing. Had to carry a lighter anyway.,Quality,Negative
+41,128,4,Keeps coffee hot for hours. Lid leaks slightly if tipped.,Quality,Mixed
+42,129,5,Filtered stream water all week and nobody got sick. Easy to backflush.,Quality,Positive
+43,129,3,"Works, but the flow rate is painfully slow after a few days.",Quality,Mixed
+44,130,4,"Cheap, light, does the job.",Value,Positive
+45,131,3,It's a bucket that folds. Fine.,Quality,Mixed
+46,132,5,"Bright, rechargeable, and the red mode is great for not blinding your tent mate.",Quality,Positive
+47,132,1,Battery died after 90 minutes on high. Advertised 4 hours.,Quality,Negative
+48,133,4,Sturdy poles and the flick locks are easy with gloves on.,Quality,Positive
+49,134,5,Slept warm at 25F. Zipper doesn't snag.,Quality,Positive
+50,134,2,Rated 20F but I was shivering at 35F.,Quality,Negative
+51,135,4,"Comfy for side sleepers, but it crinkles loudly every time you move.",Quality,Mixed
+52,136,5,Kept my camera dry on a capsized kayak day. Enough said.,Quality,Positive
+53,137,3,Decent kit but half of it is bandaids. Overpriced for what's in it.,Value,Negative
+54,138,5,Most comfortable camp chair I've sat in and it packs small.,Quality,Positive
+55,138,2,Seat fabric tore at the seam the first time my (average-sized) husband sat in it.,Quality,Negative
+56,107,1,Package sat in 'label created' for nine days. Finally showed up two days after my trip.,Shipping,Negative
+57,120,5,"Ordered Tuesday, arrived Thursday. Packaging was all recyclable too.",Shipping,Positive
+58,113,2,Tracking said delivered. It was not delivered. Took a week of calls to get a reship.,Shipping,Negative
+59,101,5,Tent was defective but support sent a new one before I even shipped the old one back. That's how you keep a customer.,Customer Service,Positive
+60,118,5,The chat agent helped me pick the right size and was spot on.,Customer Service,Positive
+61,114,1,Tried to return unworn shoes on day 31 of a 30 day window and they refused. One day.,Customer Service,Negative
+62,121,4,Arrived fast but the box had clearly been opened and re-taped.,Shipping,Mixed
+63,126,2,"Received the wrong item, a mug instead of a pot set. Return label took 5 days to arrive by email.",Shipping,Negative
+64,133,5,"Customer service replaced a bent pole section for free, no questions asked, two years after purchase.",Customer Service,Positive
+65,134,1,I've been on hold for 40 minutes to ask about a warranty claim. Still waiting as I write this.,Customer Service,Negative
+66,122,3,"Nice fleece, but shipping to Ireland cost almost as much as the fleece.",Value,Mixed
+67,112,4,"Delivered to Germany in four days, faster than I expected from a US shop.",Shipping,Positive
+68,108,3,Great pack but customs fees on delivery to the UK were a nasty surprise nobody mentioned.,Shipping,Mixed
+69,132,5,"Return was painless, refund posted within two days.",Customer Service,Positive
+70,104,2,$529 and the zippers feel like they came off a $40 tent.,Value,Negative
+71,109,5,Half the price of the brand-name commuter bags and honestly better built.,Value,Positive
+72,117,3,"Good boot, but I found it $60 cheaper at another store the next day.",Value,Mixed
+73,124,5,Bought it on the 30% off sale. Would have happily paid full price.,Value,Positive
+74,130,2,"Twenty dollars for a spoon, fork and knife that bend if you look at them.",Value,Negative
+75,119,4,"Pricey for long underwear, but you get what you pay for.",Value,Positive
+76,135,4,Not the lightest pad out there but a great deal on sale.,Value,Positive
+77,116,5,Fits perfectly. Ordered my normal size and they were comfortable out of the box.,Fit/Sizing,Positive
+78,113,3,Great boot if you have narrow feet. I don't.,Fit/Sizing,Mixed
+79,122,2,The 'medium' fits like an XL. Everything about this is huge.,Fit/Sizing,Negative
+80,120,4,Sized up so I could layer a puffy underneath and it's perfect.,Fit/Sizing,Positive
+81,123,2,Waist runs two inches smaller than the size chart.,Fit/Sizing,Negative
+82,106,4,"Fits my small frame better than most packs, which usually sit too low.",Fit/Sizing,Positive
+83,111,2,Straps don't adjust short enough for a 5 year old despite the listing.,Fit/Sizing,Negative
+84,124,3,"Sleeves are a little short on me (long arms), otherwise great.",Fit/Sizing,Mixed
+85,120,1,"Oh great, another 'waterproof' jacket. Loved standing in the rain getting soaked. Ten out of ten.",Quality,Negative
+86,127,5,"Well, it certainly boiled the water. Eventually. After I lit it with a match.",Quality,Negative
+87,110,4,ok,Quality,Positive
+88,131,5,👍👍,Quality,Positive
+89,112,2,"Die Stiefel sind bequem, aber nach zwei Monaten löst sich die Sohle.",Quality,Negative
+90,121,5,"Très chaude et légère, parfaite pour la randonnée en hiver.",Quality,Positive
+91,102,3,"Returned it. Not because it's bad, my family just decided we hate camping.",Quality,Mixed
+92,129,1,"Five stars for the filter, one star because it arrived three weeks late for my trip.",Shipping,Mixed
+93,118,4,Love it. Would be 5 stars but the color in person is more orange than red.,Quality,Positive
+94,125,5,"Bought these for my dad. He says they're 'fine', which from him is the highest praise possible.",Quality,Positive
+95,105,2,"Great product, terrible instructions. Took 40 minutes and a YouTube video to pitch.",Quality,Mixed
+96,136,4,Does what it says. Not much more to say about a bag.,Quality,Positive
+97,134,5,"Your warehouse team deserves a raise, the bag arrived packed like it was a museum piece.",Shipping,Positive
+98,138,1,"Please call me back about order 500213, nobody has answered my three emails.",Customer Service,Negative
+99,114,3,"Grippy on rock, slippery on wet roots. Comfort is great, durability TBD.",Quality,Mixed
+100,107,5,Returned my old pack from another brand and bought this. No regrets.,Quality,Positive
+101,126,4,"Arrived dented, but it's a pot, it'll get dented anyway. Works great.",Shipping,Mixed
+102,128,2,Keeps drinks hot but the paint chipped off in a week.,Quality,Mixed
+103,101,4,Good tent. Instructions say 'easy one-person setup'. That person must have four arms.,Quality,Mixed
+104,119,5,My partner stole mine so I had to order a second pair.,Quality,Positive
+105,137,5,Used it on a real injury on the trail. Everything we needed was in there.,Quality,Positive
+106,132,3,Bright enough. Headband gets sweaty.,Quality,Mixed
+107,103,4,Great tent. The $30 footprint should really be included though.,Value,Mixed
+108,117,1,Arrived in the wrong size AND the wrong color. Impressive.,Shipping,Negative
+109,135,5,Finally slept through the night on the ground. My back thanks you.,Quality,Positive
+110,116,4,"Very grippy, a bit stiff at first. Softened up after a couple of weeks.",Quality,Positive
+111,109,2,Zipper broke within a month and the replacement process wants me to pay shipping both ways.,Customer Service,Negative
+112,115,5,Wore them in the shower at the campground and they dried in minutes.,Quality,Positive
+113,106,3,"Nice pack, but the hydration sleeve doesn't fit a 3L bladder like the listing says.",Quality,Mixed
+114,133,2,One lock slips under weight. Support says it's 'user error'.,Customer Service,Negative
