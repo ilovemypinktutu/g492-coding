@@ -15,7 +15,7 @@ SETUP = '''# --- Setup: run this cell first ------------------------------------
 # Finds the course data whether you are in Colab or on your own laptop.
 # INSTRUCTOR: set DATA_URL once to the raw GitHub folder that holds /data (see instructor README).
 import os
-DATA_URL = "https://raw.githubusercontent.com/YOUR-ACCOUNT/g492-coding-with-ai/main/data/"
+DATA_URL = "https://raw.githubusercontent.com/ilovemypinktutu/g492-coding/main/data/"
 for candidate in ["data/", "../data/", "../../data/"]:
     if os.path.exists(candidate + "orders.csv"):
         DATA = candidate
